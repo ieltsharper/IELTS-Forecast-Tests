@@ -1,0 +1,279 @@
+{
+  "test": 5,
+  "audio": "audio/test-05.mp3",
+  "sections": [
+    {
+      "n": 1,
+      "title": "Cinema Club Enquiry",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [1, 10],
+          "intro": [
+            "Write **ONE WORD AND/OR A NUMBER** for each answer."
+          ],
+          "limit": { "words": 1, "number": true },
+          "content": [
+            { "center": "**Cinema Club Enquiry**" },
+            "**Membership information**",
+            "Club meets every 2 weeks",
+            "No [[1]] limit",
+            "Student membership costs 2 £[[2]] season.",
+            "Members get:",
+            "• free entry to club films",
+            "• 3 £[[3]] reduction on other films at cinema.",
+            "Members are entitled to 3 hours’ free [[4]]",
+            "**Films to be shown:**",
+            "Oct 14: *Pablo*",
+            "• about a child in [[5]] way from home and wins a [[6]] competition on TV",
+            "Oct 28: *The Soldier*",
+            "• with live [[7]]ccompaniment",
+            "• made in the year [[8]]",
+            "• type of film: a [[9]]",
+            "Nov 11: *Tiger*",
+            "• cartoon aimed at adults",
+            "• followed by a [[10]] by the director"
+          ],
+          "answers": {
+            "1": "age",
+            "2": "21.50",
+            "3": "2",
+            "4": "parking",
+            "5": "Argentina",
+            "6": "singing",
+            "7": "piano",
+            "8": "1922",
+            "9": "comedy",
+            "10": "talk"
+          }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 0", "t": "IELTS Listening, version 56658. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. Write all your answers in the listening question booklet. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to part one on page two of your question booklet. Part one. You will hear a teenager asking about joining a film club. First, you have some time to look at questions one to four. Now listen carefully and answer questions one to four." },
+        { "s": "Speaker 1", "t": "Hi, can I help you?" },
+        { "s": "Speaker 2", "t": "Yeah, I saw on the internet that you have a film club here at the cinema, uh, but there wasn’t a lot about it. Can you tell me a bit more?" },
+        { "s": "Speaker 1", "t": "Yes, we’re still setting up the webpage. Sorry about that. We only started the club a few months ago. It’s been very popular right from the beginning. We have regular film showings and there are lots of other benefits." },
+        { "s": "Speaker 2", "t": "How often does the club meet?" },
+        { "s": "Speaker 1", "t": "Um, every two weeks, on Thursday nights." },
+        { "s": "Speaker 2", "t": "Okay. And I’m 16, so could I join?" },
+        { "s": "Speaker 1", "t": "Sure. People of any age can join." },
+        { "s": "Speaker 2", "t": "Right. Uh, so how much does it cost to join?" },
+        { "s": "Speaker 1", "t": "Well, it depends. The basic charge is 24 pounds a season, but for people eligible for concessions, it’s 21.50 pounds." },
+        { "s": "Speaker 2", "t": "I’m a student." },
+        { "s": "Speaker 1", "t": "You’d get the concession rate then." },
+        { "s": "Speaker 2", "t": "[laughs] That’s good." },
+        { "s": "Speaker 1", "t": "That entitles you to free entry to the club films, and also to 2 pounds off tickets for all other films on at the cinema, so you’d pay 4.50 pounds instead of 6.50 pounds." },
+        { "s": "Speaker 2", "t": "Great. Okay." },
+        { "s": "Speaker 1", "t": "Now, I don’t know if this applies to you, but club members are also eligible for three hours complimentary parking when there’s a film on." },
+        { "s": "Speaker 2", "t": "Well, I don’t drive, but my girlfriend does, so it might be useful, yes. Okay. Uh, well, I’d definitely like to join." },
+        { "s": "Speaker 0", "t": "Before you hear the rest of the conversation, you have some time to look at questions five to 10. Now listen and answer questions five to 10." },
+        { "s": "Speaker 2", "t": "Can you give me any information about the next few films you’re showing?" },
+        { "s": "Speaker 1", "t": "I’m afraid we’ve run out of leaflets for this season, so I’ll tell you about the next few films and hopefully we’ll have all the details on the internet soon. So the next meeting’s this Thursday, October the 14th, and that’s a film called Pablo." },
+        { "s": "Speaker 2", "t": "Oh, I read the reviews of that. It’s set in Argentina, isn’t it?" },
+        { "s": "Speaker 1", "t": "Mm-hmm." },
+        { "s": "Speaker 2", "t": "About a child who’s run away from home?" },
+        { "s": "Speaker 1", "t": "That’s right. It just came out recently." },
+        { "s": "Speaker 2", "t": "And the kid somehow gets on TV and he wins a dance competition or something?" },
+        { "s": "Speaker 1", "t": "A singing competition, yeah. I haven’t seen it either, but it tells you on the posters. Yes, it sounds really good." },
+        { "s": "Speaker 2", "t": "Well, I definitely want to see that. What’s on after that?" },
+        { "s": "Speaker 1", "t": "On October the 28th, there’s an American film called The Soldier. That’s an old silent movie, but in this showing, we have someone who’ll accompany it on the piano, just like they used to in the old cinemas. Though, it was sometimes an organ accompaniment in those days." },
+        { "s": "Speaker 2", "t": "Must be a pretty old film then. When did they release the first talkies? Was it 1926 or ’27?" },
+        { "s": "Speaker 1", "t": "Yes, well, this was made in 1922, so well before. Though, I think they had short feature films with sound by 1923, actually." },
+        { "s": "Speaker 2", "t": "So what sort of film is it?" },
+        { "s": "Speaker 1", "t": "Well, it’s billed as a comedy, though you’d think it was war film from the title. [laughs] I don’t know much about the plot. We don’t have much information, though you could always look it up on the internet." },
+        { "s": "Speaker 2", "t": "Yeah, I’ll do that." },
+        { "s": "Speaker 1", "t": "Then the next film after that, so that’ll be, let’s see, the 11th of November, is a film about animals, and it’s just called Tiger. And that’s a cartoon film, which makes it sound as if it’s for children, but actually it’s aimed at adults and it’s really quite frightening in places. I saw it when it first came out." },
+        { "s": "Speaker 2", "t": "What’s it about?" },
+        { "s": "Speaker 1", "t": "It’s got no humans in it at all. It’s just about the effect of environmental changes millions of years ago on the animals who lived then. It’s a really strange film. There’s a talk afterwards given by the director, so that should be very popular. You’ll need to book early for that, I should think." },
+        { "s": "Speaker 2", "t": "Right. Well, thanks for all that. Now, if you can give me the application form, I’ll, um-" },
+        { "s": "Speaker 3", "t": "That is the end of part one. You now have one minute to check your answers to part one." }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Home Improvement Store Plan",
+      "groups": [
+        {
+          "type": "grid",
+          "range": [11, 15],
+          "intro": [
+            "Label the map below",
+            "Write the correct letter, A-G, next to the questions 11-16",
+            { "center": "**Home Improvement Store Plan**" },
+            "[[img:t5-p2-map]]",
+            "**Sections**"
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F", "G", "H"],
+          "items": {
+            "11": "Paint",
+            "12": "Kitchen",
+            "13": "Children’s play area",
+            "14": "Shower and bath",
+            "15": "Garden"
+          },
+          "answers": { "11": "B", "12": "C", "13": "G", "14": "F", "15": "D" }
+        },
+        {
+          "type": "mcq",
+          "range": [16, 20],
+          "intro": [
+            "Choose the correct letter, **A**, **B** or **C**.",
+            { "center": "**Home Improvement Store**" }
+          ],
+          "items": {
+            "16": { "stem": "What makes the Home Improve Store special?", "options": { "A": "their low prices", "B": "their wide range of products", "C": "their customer service" } },
+            "17": { "stem": "What should staff promote to customers?", "options": { "A": "the catalogue", "B": "the magazine", "C": "the website" } },
+            "18": { "stem": "What do the current staff like best about working in the store?", "options": { "A": "the general staff discounts", "B": "the good atmosphere", "C": "the flexible working time" } },
+            "19": { "stem": "What will the next workshop be about?", "options": { "A": "how to grow plants", "B": "how to fix a fence", "C": "how to paint a room" } },
+            "20": { "stem": "What special deal does the company offer when people buy a new kitchen", "options": { "A": "free appliances", "B": "free delivery", "C": "free installation" } }
+          },
+          "answers": { "16": "A", "17": "B", "18": "B", "19": "B", "20": "C" }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 4", "t": "Section 2. You will hear the supervisor of a Home Improvement Store giving a tour of the store to some new staff. First, you have some time to look at questions 11 to 15 on page 4. Now listen carefully and answer questions 11 to 15." },
+        { "s": "Speaker 5", "t": "Welcome to today’s staff orientation at the Home Improvement Store. My name is John. I look after new staff, and I’ll be with you here in the training room all morning. We are the biggest hardware store in the country, and as home improvement is now so popular, hundreds of customers visit our store each week to buy products to improve every part of their house, inside or out. First, let me introduce you to the most popular sections of our superstore. Can you all take a look at the store plan you have in front of you? We stock every kind of flooring, including carpets, wooden flooring, and tiling. Our paint department is next to flooring. Um, that’s it in the bottom right-hand corner of the map. We offer advice to customers on color combinations for inside or outside before they purchase. We’ve become well-known in the last few years for selling the latest kitchen designs for all budgets, and we also stock quality appliances recommended by top chefs. These products can be found right in the middle of the store, just next to electrical goods. You may not be aware that one reason we are such a popular store is our great cafe, which serves cheap, nutritious lunches. That’s in the top right of your map. Staff should also make customers aware of the children’s play area, which is between the cafe and flooring. So, Mum and Dad can get something to eat or drink, or even continue their shopping while the kids are safe with our trained childcare workers. Now, what else should I mention? Ah, yes. We recently moved our stock of showers and baths from the left side of the store to the area along the back wall next to the tool section. We offer practical advice to customers about their bathrooms before they buy, such as where to locate a new toilet or shower. I have left my favorite area till last. Gardens. It’s marked on the left side of the map, after the staff area and before the tool section. There you’ll find our extensive range of plants, flowers, and related products for inside or outside. If you get to work there, I’m sure you’ll find it a very pleasant section to work in. Right. Well, that’s it for the store plan." },
+        { "s": "Speaker 4", "t": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20 on page 5. Now listen and answer questions 16 to 20." },
+        { "s": "Speaker 5", "t": "Now, there is some other general information I need to give you before you start your specific training. The first thing staff need to know is what makes us different to our competitors. Our main advantage, due to our size, is that we can cut our costs and offer the best deals. Of course, we are proud of the great service we provide to our customers, especially through our helpdesk. We also have an excellent choice of goods so that we can provide plenty of options to our customers, but of course that isn’t unique to us. The Home Improvement Store has 60 stores nationwide, and we promote our stores and products in a range of different ways. First, there’s our catalog, which lists all our items. It’s been around for years, but we still have a policy of staff-use only. The most important marketing material, and the one you want to ensure is given to every customer, is our store magazine, showing the latest products, workshops, and offers. The website is being redeveloped at the moment, so customers can’t access it right now. The Home Improvement Store is a great place to work. Like most of the staff, I’m sure you’ll appreciate the fact that you can choose your hours to fit your lifestyle, family, or study. We hope you’ll find that there’s a nice atmosphere here. We are thinking of introducing a staff discount on our products, so that would be a real benefit to all staff." },
+        { "s": "Speaker 6", "t": "Every weekend, we offer workshops to help customers carry out their own home improvements. Workshops range from indoor painting to outdoor gardening and plant ideas. This coming weekend, there’ll be one on mending a broken fence. Please remind customers of the workshops, especially if there is one related to your section. Finally, I wanted to let you know about a special deal for people renovating their kitchen. As you know, we sell all products and appliances connected to the kitchen, and we also have a delivery service. If customers buy one of our Total Kitchen designs, we will install it free of charge. So, let’s take a short break, and then we’ll start..." },
+        { "s": "Speaker 7", "t": "That is the end of Section II. You now have half a minute to check your answers. Now turn to Section III on page 6." }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Report on Geography Field Trip",
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [21, 26],
+          "intro": [
+            "Choose the correct letter, **A**, **B** or **C**.",
+            { "center": "**Report on Geography Field Trip**" }
+          ],
+          "items": {
+            "21": { "stem": "The tutor tells Charlotte that the report is important because it will", "options": { "A": "go into her portfolio", "B": "help her choose her next study option", "C": "form the basis of next term’s presentation" } },
+            "22": { "stem": "What is the tutor’s first impression of Charlotte’s report?", "options": { "A": "It is under length", "B": "It doesn’t follow the required format.", "C": "It contains confusing statistical data." } },
+            "23": { "stem": "How did Charlotte’s group choose the exact location to study?", "options": { "A": "They chose a location that had easy access.", "B": "They found an interesting location on a map.", "C": "They chose a location at random." } },
+            "24": { "stem": "What was Charlotte’s personal aim for the field trip?", "options": { "A": "to collect information on the range of vegetation", "B": "to apply good fieldwork techniques", "C": "to analyse the composition of the soil" } },
+            "25": { "stem": "Why does Charlotte want to include other students’ data in her report?", "options": { "A": "to make her findings more valid", "B": "to vary the type of data collected", "C": "to test several hypotheses" } },
+            "26": { "stem": "Which measurements did Charlotte find easy to take?", "options": { "A": "the elevation of the land", "B": "the height of the vegetation", "C": "the ration of sand to vegetation" } }
+          },
+          "answers": { "21": "B", "22": "B", "23": "C", "24": "C", "25": "A", "26": "A" }
+        },
+        {
+          "type": "match",
+          "range": [27, 30],
+          "intro": [
+            "What suggestion is made for each of the following aspects of future field trips?",
+            "Choose **FOUR** answers from the box and write the correct letter, **A-F**, next to questions 27-30."
+          ],
+          "options": {
+            "title": ["**Suggestions**"],
+            "list": {
+              "A": "more training needed before trip",
+              "B": "reduce complexity",
+              "C": "repeat on future trips",
+              "D": "offer a wider range",
+              "E": "organize additional tasks more",
+              "F": "details required during trip"
+            },
+            "after": false
+          },
+          "extra": ["**Aspects of future field trips**"],
+          "items": {
+            "27": "equipment",
+            "28": "data collection sheets",
+            "29": "reference material",
+            "30": "structure of groups"
+          },
+          "answers": { "27": "A", "28": "B", "29": "D", "30": "F" }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 7", "t": "Part 3: You will hear a tutor discussing a report on a geography field trip with a student called Charlotte. First, you have some time to look at questions 21 to 26. Now listen carefully and answer questions 21 to 26." },
+        { "s": "Speaker 2", "t": "Hello, Charlotte. Come in. I just wanted to go through the first draft of your report on the field trip to the coastal sand dunes." },
+        { "s": "Speaker 8", "t": "Thank you. I’d really like some feedback. I found it quite hard to do." },
+        { "s": "Speaker 2", "t": "Yes, but these reports are really important. You did a great presentation on the planning of the trip before you went, and we’ve already decided to include that in your portfolio." },
+        { "s": "Speaker 8", "t": "Mm-hmm." },
+        { "s": "Speaker 2", "t": "But writing up the report’s equally important, because if you can identify an area that’s caught your interest, you may decide to choose that as your specialty for next term." },
+        { "s": "Speaker 8", "t": "Okay. So, what do you think of this first draft?" },
+        { "s": "Speaker 2", "t": "Well, there’s one problem, but it’s something that can be easily remedied. Did you download the template for reports from the website?" },
+        { "s": "Speaker 8", "t": "[laughs] I didn’t know there was one." },
+        { "s": "Speaker 2", "t": "Look on the course site under “Report Writing”." },
+        { "s": "Speaker 8", "t": "Mm-hmm." },
+        { "s": "Speaker 2", "t": "The homepage is a bit confusing, but once you’ve got that template, you’ll see what we’re expecting from a report. Other than that, I think you’ll easily meet the word count as you collected lots of data. Now, first tell me, how did your group go about choosing the exact location? It’s important to explain that in the report." },
+        { "s": "Speaker 8", "t": "We didn’t want to influence our results in any way. So instead of studying a map and choosing an area that looked as if it would provide useful data, we listed six possible locations, and then we just tossed a dice. We ended up with an area just south of the jetty, nice and easy to get to." },
+        { "s": "Speaker 2", "t": "And what did you personally see as your main aim during the field trip?" },
+        { "s": "Speaker 8", "t": "Well, we were looking at coastal sand dunes and analyzing whether there’s any marked change in vegetation type and coverage as you go inland. And although we’d been told that one of the main objectives was to use the fieldwork techniques we’d learnt about, I wanted to look at soil structure. The others were focusing on things like the range of species and the density of the vegetation." },
+        { "s": "Speaker 2", "t": "Interesting." },
+        { "s": "Speaker 8", "t": "And in the group I was working in, there were people from another college. Can I include their data in my report?" },
+        { "s": "Speaker 2", "t": "Well, what are the advantages of doing that?" },
+        { "s": "Speaker 8", "t": "Well, we all looked at the same area of land, so they didn’t collect any different data. But by adding theirs, it gives me a bigger sample, and that must make the results more reliable. That’s how you can really test a hypothesis, I think." },
+        { "s": "Speaker 2", "t": "Good point. So, include it. Now, let’s look at the introduction in a bit more detail. Your reasons for carrying out the study are fully described, as are the ways you collected your information. Then you go on to the measurements you took. Was that easy to do?" },
+        { "s": "Speaker 8", "t": "Some of them took longer than others. For example, getting the proportion of sand to vegetation. But I soon got used to the equipment and could get the elevation of the sand dunes quite quickly. [laughs] It was funny to see some people trying to measure how high plants were [laughs] as the plants waved about in the wind. [laughs]" },
+        { "s": "Speaker 2", "t": "I can imagine." },
+        { "s": "Speaker 0", "t": "Before you hear the rest of the discussion, you have some time to look at questions 27 to 30. Now listen and answer questions 27 to 30." },
+        { "s": "Speaker 2", "t": "Okay. Now we’d like to have your feedback on the trip, as we’re keen to make any necessary improvements for future trips." },
+        { "s": "Speaker 8", "t": "Okay." },
+        { "s": "Speaker 2", "t": "So first, the equipment, was it easy to use?" },
+        { "s": "Speaker 8", "t": "It was once you got used to it. It would’ve been good if we could have found out how to use it at college before we went, though. It’s not exactly simple to use." },
+        { "s": "Speaker 2", "t": "I’ve noted that down. Now, the data collection sheets you used, I wonder if they could be made more user-friendly by cutting down the number of columns on each page." },
+        { "s": "Speaker 8", "t": "Yes [laughs]. I think the information would still be clearly organized." },
+        { "s": "Speaker 2", "t": "And what did you think of the reference materials?" },
+        { "s": "Speaker 8", "t": "Well, we had problems identifying some vegetation." },
+        { "s": "Speaker 2", "t": "Was that because you didn’t get a full picture from the books you were using?" },
+        { "s": "Speaker 8", "t": "Yes, I think so." },
+        { "s": "Speaker 2", "t": "Hmm. And finally, how did you feel about working with people you didn’t know in your group?" },
+        { "s": "Speaker 8", "t": "Well, you probably need to discuss this with everyone. But for me, it meant I learned a lot from others too, so I think that’s a pattern you should stick to." },
+        { "s": "Speaker 0", "t": "That is the end of part three. You now have 30 seconds to check your answers to part three." }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Future of Aquaculture",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [31, 40],
+          "intro": [
+            "Write **ONE WORD ONLY** for each answer."
+          ],
+          "limit": { "words": 1, "number": false },
+          "content": [
+            { "center": "**Future of Aquaculture**" },
+            "Local fish farmers are afraid that genetically modified fish will [[31]] into the sea.",
+            "• like to breed fish with special features, like [[32]]",
+            "• other solutions:",
+            "- to build some cages to prevent the fish from [[33]]",
+            "- to use [[34]] nets to support the frames of the cages",
+            "**Problems facing the local fishermen:**",
+            "• lack of land on the [[35]]",
+            "• lack of [[36]] fish",
+            "**Initiatives taken by the government:**",
+            "• encourages fish farmers to [[37]] local fish farming business",
+            "• helps fish farmers to sell seaweed and oyster:",
+            "- Seaweed can be used to make [[38]]",
+            "- Oyster is a source of seafood which can supply local [[39]] industry.",
+            "• saves local fishing business by encouraging aquaculture, recreation and [[40]]"
+          ],
+          "answers": {
+            "31": "escape",
+            "32": "tuna",
+            "33": "storms",
+            "34": "strong",
+            "35": "coast",
+            "36": "young",
+            "37": "support",
+            "38": "cosmetics",
+            "39": "hospitality",
+            "40": "shipping"
+          }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 9", "t": "Section four. You will hear part of a lecture about aquaculture and the fishing business. First, you have some time to look at questions 31 to 40. Now, listen carefully and answer questions 31 to 40." },
+        { "s": "Speaker 10", "t": "So, what I’m going to talk about to you today is something called aquaculture. It has been responsible for the impressive growth in the supply of fish for human consumption. There’s also been a slight improvement in the state of certain fish stocks due to improved fishery management. Aquatic food production has transitioned from being primarily based on the capturing of wild fish to the culture of increasing numbers of farmed species. In recent years, a type of genetically modified salmon has been farmed in the New England region. Produced by a Massachusetts-based biotech firm, this type of fish is engineered to grow twice as fast as its conventional farm-raised counterpart. As a result, this increases the speed of the local aquaculture industry development, and thus, reduces the fishing pressure on wild stock. But local residents have expressed their concerns on the potential negative effects on the ecosystem should those GM fish ever escape into the sea. Stronger, healthier, and faster growing, these fish might cannibalize others or out-compete wild type fish for food. Local decision-makers and regulators have thus pushed forward a number of measures, making it impossible for most GM fish to mate. A small percentage is able to breed only within confined pools. Despite the economic boom of genetically engineered fish, culturing traditional types of fish is still mainstream among fish farmers. Most of them prefer fish with special features, such as tuna. It is a source of high-quality protein with almost no fat. It also contains all essential amino acids required by the body for growth and maintenance of lean muscle tissue. With high nutritional value, this kind of fish will always be popular in the fish market. For the fish farming industry, incidents of fish escaping the farms has been a troubling issue over the years. Due to bad weather, nets that used to hold the fish were often destroyed. Thousands of salmon worth nearly 220,000 euros escaped from a fish farm in the Norwegian region in July, raising fear that they would breed with wild fish stocks. Cages were thus built to withstand storms. The frames of the cages are made of PE, which is dedicated to marine use. This material has trustable strength, resilience, and tenacity. To further strengthen it, strong nets without knots are used to support the cylindrical frame. A group of small villages on the island of Zanzibar, off the coast of East Africa, have been trying to develop a local aquaculture industry sustainably.They use a land-based production system that is both economically and ecologically sound. Land-based recirculation can control ocean temperature and optimize growth for the fish that are used to warmer water. All organic waste from the fish is held on land, with incoming water sterilized to avoid disease, which has historically plagued ocean-based farms. The lack of disease means that no drugs are administered to the fish. However, one problem facing the villagers is lack of suitable land on the coast for this system. Hotels and beaches open to tourists take up most of the coastal area. Another problem facing local fishermen is the scarcity of young fish used to breed the species. This predicament stems from overfishing during the previous decades. The local commercial fishing industry has been reduced by 50% for this reason, and the aquaculture industry has yet to thrive. The government has taken a set of initiatives to safeguard native aquaculture and the fishing industry. An open-air seafood market has been launched. Residents are encouraged to support local fish farming businesses by purchasing marine products. As it turns out, there is a public demand for access to locally produced sustainable sources of fresh seafood. Moreover, local fish farmers are aided to market seaweed and oysters, both of which have additional economic values. Seaweed is used in various ways in cosmetics. Seaweed extract is often found on the list of ingredients constituting creams, soaps, shampoos, powders, and sprays. It is said to be useful in various ways, including the relief of rheumatic pain and the removal of cellulite. Oyster is a source of seafood popular among the local hospitality industry. Served with caviar and champagne, it is one of the world’s ultimate luxury foods, appealing to gourmets with its succulent and delicate flavor. It thus appears to have the greatest potential for commercial culture. Even though the national and international market has shown demand for marine products in Zanzibar, it is still challenging to survive in the competitive modern fishing industry. The government ought to restore the business by encouraging aquaculture, recreation, and shipping. First, it could utilize modern fish-farming technology to supply more high-quality marine products. Tourism is an effective stimulus to boost its sales. And with better shipping capability, more products can be delivered abroad." }
+      ]
+    }
+  ]
+}

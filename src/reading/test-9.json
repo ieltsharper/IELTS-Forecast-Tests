@@ -1,0 +1,434 @@
+{
+  "test": 9,
+  "passages": [
+    {
+      "n": 1,
+      "title": "Why are we ticklish?",
+      "standfirst": "Being ticklish is something most people take for granted, but why it happens is actually a scientific mystery.",
+      "paragraphs": [
+        {"l": "A", "t": "Being ticklish is a basic human attribute, shared by almost everybody to varying degrees, but it is also a biological and psychological mystery that has intrigued scientists and philosophers for centuries. From Aristotle to Francis Bacon, a range of thinkers have considered the question of why we are ticklish, particularly as it appears to be an entirely useless trait. One persistent mystery that has baffled many is why we cannot tickle ourselves: if being tickled is a biological phenomenon, then why does it only work when someone else does it? The evolutionary basis for being ticklish has also been the subject of study for many scientists, from Darwin onwards, who have been confused by the strange fact that a sensitivity to touch should prompt laughter. As many have pointed out, this reaction appears to be completely counter-intuitive. The element of laughter may therefore be evidence that being ticklish is more of a psychological or social phenomenon than a biological one, and that there are complex social forces behind this unique trait."},
+        {"l": "B", "t": "Laughter is not the only reaction that tickling prompts; other common responses include involuntary twitching, goosebumps, and a rapid withdrawal from the tickler. These are all evident to varying degrees in the two categories of tickling: knismesis and gargalesis. The first category, knismesis, refers to a mild but irritating sensation and is more like a ‘moving itch’. This can be prompted by very light pressure on the skin, rather like when someone very gently strokes a feather across your arm, and it generally only sets off a bout of scratching. On the other hand, gargalesis is tickling action which induces laughter. This involves pressure from another individual on certain parts of the body, particularly the feet, armpits, underarm area and ribs, and causes a wriggling laughter which is a mixture of pleasure and pain. Surprisingly, these areas that are the most vulnerable to tickling are not the parts of the human body with the most nerves – the hand has many more nerves relating to touch than the foot for example – which suggests that tickling is not simply a side effect of human beings’ sensitivity to touch."},
+        {"l": "C", "t": "Tickling can also depend on the relationship between the tickler and the person being tickled, since a tickle from a stranger could very easily prompt anger rather than laughter and can be a form of harassment. This supports a social view of tickling as a ritual which strengthens interpersonal relationships. Many child psychologists have thus characterised tickling as an integral bonding activity between peers and family members. When it happens among parents and their children it is considered an essential trust-building exercise which teaches children about touch and sensation. Psychologists have thus categorised tickling within the highest grade of social intimacy which can exist between individuals, whether they are family members or friends. Many theorists have also speculated that, in the case of close family interactions, the reaction to being tickled actually depends on anticipation of the tickle as much as actual contact."},
+        {"l": "D", "t": "It is important to note, however, that tickling can be unpleasant for many people, and that even though they are laughing, this may be masking a feeling of anxiety. In fact, a survey conducted among American college students found that only 32 percent of them enjoyed being tickled, whereas 36 percent said that they do not enjoy the experience. This lack of consensus about the pleasure of tickling suggests that, as a bonding experience, it may be more ambiguous. It also explains the use of tickling as a torture mechanism; a practice that was common in both Europe and Japan in medieval times. In Europe, a victim’s feet were covered in salty water and a goat was encouraged to continually lick them, while in Japan a form of fickle punishment called *kusuguri-zeme*, or ‘merciless tickling,’ was inflicted on reluctant victims."},
+        {"l": "E", "t": "Some researchers have cited the unpleasantness of being tickled as evidence that tickling could be part of our natural defence mechanisms, and that the response to tickling is a protective reflex. Scientists have even suggested that the laughter prompted by tickling could be defensive, since it could act as a warning to kin. Another theory is that the laughter is a sign of surrender, and that it signals a person’s submission to the tickler. Whatever the answer, it seems that tickling will continue to be a subject of research by psychologists, neuroscientists, and philosophers for the foreseeable future."}
+      ],
+      "groups": [
+        {
+          "type": "headings",
+          "range": [1, 5],
+          "intro": [
+            "Reading Passage 1 has five paragraphs, **A–E**.",
+            "Choose the correct heading for each paragraph from the list of headings below.",
+            "Write the correct number, **i–vii**, in boxes 1–5 on your answer sheet."
+          ],
+          "options": {
+            "title": ["**List of Headings**"],
+            "list": {
+              "i": "Ticklishness as a defence method",
+              "ii": "Two types of tickling",
+              "iii": "Bonding through tickling",
+              "iv": "People who are not ticklish",
+              "v": "The centuries-old mystery of why we are ticklish",
+              "vi": "When infants begin to feel ticklish",
+              "vii": "Not everyone enjoys being tickled"
+            },
+            "after": false
+          },
+          "items": {
+            "1": "Paragraph **A**",
+            "2": "Paragraph **B**",
+            "3": "Paragraph **C**",
+            "4": "Paragraph **D**",
+            "5": "Paragraph **E**"
+          },
+          "answers": {"1": "v", "2": "ii", "3": "iii", "4": "vii", "5": "i"}
+        },
+        {
+          "type": "mcq",
+          "range": [6, 9],
+          "intro": [
+            "Choose the correct letter, **A**, **B**, **C**, or **D**.",
+            "Write the correct letter in boxes 6–9 on your answer sheet."
+          ],
+          "items": {
+            "6": {
+              "stem": "Tickling has interested many scientists and philosophers because",
+              "options": {
+                "A": "it is a trait we do not share with animals.",
+                "B": "it varies from person to person.",
+                "C": "it is something that we cannot control.",
+                "D": "it does not seem to have a practical use."
+              }
+            },
+            "7": {
+              "stem": "The fact that tickling causes laughter implies that",
+              "options": {
+                "A": "it may be a social explanation rather than a biological one.",
+                "B": "it is a purely physical reaction.",
+                "C": "it developed as a defence against predators.",
+                "D": "it is an enjoyable experience."
+              }
+            },
+            "8": {
+              "stem": "What defines the type of tickling known as knismesis?",
+              "options": {
+                "A": "It is done using an object.",
+                "B": "It is gentle and similar to feeling itchy.",
+                "C": "It compels people to move away.",
+                "D": "It can be so light the person can’t detect it."
+              }
+            },
+            "9": {
+              "stem": "The areas of the body that are usually the most ticklish",
+              "options": {
+                "A": "can change depending on how ticklish the person is.",
+                "B": "are the parts of the body which are vulnerable.",
+                "C": "are not the parts with the most nerves.",
+                "D": "are the ones with the most nerves related to pain."
+              }
+            }
+          },
+          "answers": {"6": "D", "7": "A", "8": "B", "9": "C"}
+        },
+        {
+          "type": "gap",
+          "range": [10, 13],
+          "intro": [
+            "Complete the sentences below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer.",
+            "Write your answers in boxes 10–13 on your answer sheet."
+          ],
+          "content": [
+            "Scientists have questioned why the sensitivity to touch encourages [[10]]",
+            "Tickling can provoke someone to back away, or it can cause [[11]] twitching.",
+            "Tickling between a parent and child is thought to be an important way of creating [[12]]",
+            "Tickling was used as a form of torture in the [[13]] period."
+          ],
+          "limit": {"words": 1, "number": false},
+          "answers": {"10": "laughter", "11": "involuntary", "12": "trust", "13": "medieval"}
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The History of Steel",
+      "paragraphs": [
+        "Due to its high tensile strength and relatively low cost, steel is one of the most commonly used materials in modern construction. As an alloy of iron and carbon – among other materials – steel is produced through a process known as smelting. This involves heating iron ore in blast furnaces to remove its impurities before adding carbon. Smelting is a technique that has been used by humans since around the 13th century BCE, when early blacksmiths discovered that iron ore was stronger when heated by charcoal. However, the first large-scale steel production occurred in southern India and Sri Lanka in the 6th century BCE. The steel produced there was known as wootz steel and was renowned for its strength. It was exported throughout the world, but became particularly prevalent in the Middle East, where it was used to make weapons.",
+        "While wootz steel was produced in a crucible, a metal container in which pure iron and carbon were heated and then cooled, other methods of production were used in both China and Europe. These included the tempering of steel, a method to reduce steel’s brittleness which was discovered by the Romans for use in strengthening weapons. In China meanwhile, steel was common throughout the country from the 3rd century BCE onwards. Some of this steel was probably produced through combining wrought iron and high-quality cast iron, as was the case with the sword of Liu Bang, the first Han emperor. Sophisticated methods of steel production were in use in China from at least the 11th century AD, including an early version of the Bessemer process which would revolutionise European steel manufacturing around eight centuries later.",
+        "The start of the Industrial Revolution in Europe in the 18th century saw a massive increase in the use of steel. This steel boom was facilitated by several innovations. The first was Benjamin Huntsman’s invention of a technique for producing high-quality steel in a crucible in 1740. Huntsman was a clockmaker who wanted to make a better quality of steel for his clock springs. He came up with the idea of heating the steel in a crucible until it melted, a method that gave the resulting steel a more uniform composition. The invention of the steam engine during this period also boosted demand for steel, while Henry Cort’s invention of the steel rolling system in 1783 – a new way of producing steel rapidly – led to a much higher output.",
+        "The next significant milestone in the history of steel was the invention of the Bessemer process, a means of steel production in which impurities were removed through the introduction of air to molten iron. This resulted in much stronger steel that could also be produced relatively cheaply. It was developed by Henry Bessemer in 1856, although it had been used in various forms for centuries, and subsequently allowed for the inexpensive mass production of steel. Following the adoption of this process, steel became the most important material in industrialisation. It could now be produced at prices low enough to make it a cost-effective material for large-scale buildings, bridges and railroads, where it would soon replace less durable wrought iron rails.",
+        "The use of steel in large constructions was most evident in two huge projects in America: the Brooklyn Bridge – the first steel suspension bridge – and the Home Insurance Building in Chicago – the first steel skyscraper. Both were completed in the 1880s and symbolised America’s new position as global leader in steel production. This was driven, in part, by Scottish-American industrialist Andrew Carnegie, who built a massive steel empire which stretched across the United States. Much of the steel produced by Carnegie’s steelworks was used in building the railroads which were being laid throughout the continent in the latter decades of the 19th century.",
+        "In the early 20th century steel’s role as the material of modern industry was further established by the invention of rust-resistant stainless steel in 1912. This resistant material increased the range of applications in which steel could be used. It led to the use of steel in housewares, surgical instruments and storage tanks, which were now able to transport liquids. In the next few decades of the 20th century, the two world wars both resulted in a spike in the production of steel, which was used for weapons and vehicles. Despite this high demand, steel was still relatively abundant and even replaced copper, which was much rarer, as the material of the American one cent coin for the duration of the Second World War. In recent decades, the steel industry has continued to grow, although China has replaced America as the main producer and consumer of steel. Indeed, it is estimated that China is now responsible for over 50 per cent of the world’s steel production."
+      ],
+      "groups": [
+        {
+          "type": "match",
+          "range": [14, 18],
+          "intro": [
+            "Look at the following statements (Questions 14–18) and the list of people below.",
+            "Match each statement with the correct person, **A–E**.",
+            "Write the correct letter, **A–E**, in boxes 14–18 on your answer sheet."
+          ],
+          "options": {
+            "title": ["**List of People**"],
+            "list": {"A": "Benjamin Huntsman", "B": "Andrew Carnegie", "C": "Henry Bessemer", "D": "Liu Bang", "E": "Henry Cort"},
+            "after": true
+          },
+          "items": {
+            "14": "He created a way to cheaply produce large quantities of steel.",
+            "15": "He wanted to make better steel for clocks.",
+            "16": "He had a weapon made of two types of iron.",
+            "17": "He invented a steel rolling production system.",
+            "18": "He constructed a huge steel business in America."
+          },
+          "answers": {"14": "C", "15": "A", "16": "D", "17": "E", "18": "B"}
+        },
+        {
+          "type": "gap",
+          "range": [19, 22],
+          "intro": [
+            "Complete the summary below.",
+            "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+            "Write your answers in boxes 19–22 on your answer sheet."
+          ],
+          "content": [
+            {"center": "**The Steel Industry in the 20th Century**"},
+            "The steel industry grew significantly in the early decades of the 20th century due to the creation of [[19]]. Steel could now be used in a much wider range of applications, including for surgery, storage, and as [[20]]. The steel industry expanded further due to the two world wars which required a massive amount of steel for weapons. Although steel was in [[21]] during these conflicts, there was still enough steel for it to replace [[22]] as the material of one of the American coins."
+          ],
+          "limit": {"words": 2, "number": false},
+          "answers": {"19": "stainless steel", "20": "housewares", "21": "world wars", "22": "copper"}
+        },
+        {
+          "type": "tfng",
+          "range": [23, 26],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage 2?",
+            "In boxes 23–26 on your answer sheet, write",
+            "**TRUE**\tif the statement agrees with the information",
+            "**FALSE**\tif the statement contradicts the information",
+            "**NOT GIVEN**\tif there is no information on this"
+          ],
+          "items": {
+            "23": "Wootz steel was only exported to the Middle East.",
+            "24": "A form of the Bessemer process was used in China before its use in Europe.",
+            "25": "Wrought iron rails lasted longer than steel ones.",
+            "26": "The Brooklyn Bridge remains the largest steel suspension bridge in the world."
+          },
+          "answers": {"23": "False", "24": "True", "25": "False", "26": "Not Given"}
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Social Smiling",
+      "paragraphs": [
+        {"l": "A", "t": "Psychologists hoping to unlock the secrets of human emotion have focused on infants, as young babies can provide indicators of early emotional growth and development. Among these changes are modifications of facial expressions that provide cues for determining how an infant’s reaction to a given experience or situation conveys meaning. Infants’ facial expressions are particularly useful for understanding the nature of human emotion because they have not yet been significantly conditioned by social norms and conventions; the lack of social conditioning is perhaps best expressed when infants smile, which makes this facial expression an especially interesting object of study."},
+        {"l": "B", "t": "The most fundamental type of smile in infants is the endogenous smile, which can occur in the first week following birth and is usually associated with sleeping. Endogenous smiles happen automatically due to unconscious changes in the nervous system and are not caused by external stimuli – such as tickling or a pleasing sound – is known as an exogenous smile. Exogenous smiles occur when the infant is awake, and they begin to appear by the second or third week of life."},
+        {"l": "C", "t": "An important type of exogenous smile is the ‘social smile’, which, as its name suggests, arises through social interaction. The social smile is particularly associated with grinning in response to seeing the faces of mothers and other caregivers as well as hearing their voices. Yet social smiles also occur in interactions with strangers, and the term may even be extended to describe how an infant smiles at inanimate, though familiar, objects like teddy bears. According to psychologist Daniel G. Freedman, generalised social smiles develop by the end of the first month, and at around five weeks old, selective social smiling begins. It is in this selective stage that the child learns to smile in response to familiar faces."},
+        {"l": "D", "t": "Experts view the social smile as a strong indicator of infants’ growing curiosity and a higher level of engagement with their surroundings. It follows, therefore, that the social smile, as one of explicit interaction, also indicates a child’s growing awareness of himself or herself as a distinct individual and active agent in a social environment. Of crucial importance is what is known as social referencing, in which an infant looks to his or her caregiver before reacting to a situation. Many studies have revealed that around seven months of age, infants begin to become scared of strangers and often show fear or distress when encountering unfamiliar faces. However, a study by the psychologists Feiring, Lewis, and Starr revealed that by fifteen months, babies were cautiously attentive to their mother’s response to strangers. In an experiment, the researchers found that if the mother smiled at a stranger, the baby was far more likely to smile."},
+        {"l": "E", "t": "Technically, some experts solely use the term social smile for smiles that involve only the zygomaticus major muscles, which are responsible for raising the corners of the lips. If smiles are accompanied by open mouths and contraction of the orbicularis oris muscles – movements that make the outer corners of the eyes wrinkle – they are said to be ‘emotional’ smiles. This view is partly a result of reductionistic attempts to directly connect human emotions with anatomical movements, which have been proved to be incorrect. One example of this was Paul Eckman’s Facial Action Coding System (FACS) which attempted to give emotions an objective basis and allow investigators to identify emotional expressions without cultural bias."},
+        {"l": "F", "t": "According to this method of analysis, the social smile is primarily a false smile. This argument has some merit because the social smile can happen even in the absence of emotion. Infants sometimes merely imitate what they see, and the social smile at times may be nothing more than an attempt to get some form of support from the mother. And it is well known that the social smile continues into adulthood. It is common to use a social smile in numerous social contexts in a way that may be fake. For instance, imagine a grown person receiving a birthday present that is a huge disappointment. Rather than expressing a true emotion via a frown, the person receiving the gift is far more likely to smile."},
+        {"l": "G", "t": "The difficulty with distinguishing ‘social’ from ‘emotional’ smiles, however, is that there is a broad spectrum of facial expressions and emotional states between the two extremes. Certainly, a smile can be both social and emotional at the same time. Viewed this way, social smiles can vary tremendously in the extent of emotion they convey, from simple grins that may show a less intense emotion to fuller smiles involving the whole face that are displays of pure joy."}
+      ],
+      "groups": [
+        {
+          "type": "gap",
+          "range": [27, 31],
+          "intro": [
+            "Complete the notes below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer.",
+            "Write your answers in boxes 27–31 on your answer sheet."
+          ],
+          "content": [
+            {"center": "**Analysing an Infant’s Smile**"},
+            "• Infants’ facial expressions reveal the essence of [[27]]",
+            "• No social conditioning makes studying infants more revealing",
+            {"h": "Endogenous Smile"},
+            "• Occurs in the week after birth",
+            "• Most often related to [[28]]",
+            "• Result of [[29]] that are not conscious in the nervous system",
+            {"h": "Exogenous Smile"},
+            "• Set off by an outside [[30]]",
+            "• Happens when an infant is awake",
+            "• Starts in the second or third week of life",
+            {"h": "Social Smile"},
+            "• A type of exogenous smile",
+            "• Comes about through social [[31]]",
+            "• Common when infants see their mothers"
+          ],
+          "limit": {"words": 1, "number": false},
+          "answers": {"27": "emotion", "28": "sleeping", "29": "processes", "30": "stimulus", "31": "interaction"}
+        },
+        {
+          "type": "ynng",
+          "range": [32, 36],
+          "intro": [
+            "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+            "In boxes 32–36 on your answer sheet, write",
+            "**YES**\tif the statement agrees with the claims of the writer",
+            "**NO**\tif the statement contradicts the claims of the writer",
+            "**NOT GIVEN**\tif it is impossible to say what the writer thinks about this"
+          ],
+          "items": {
+            "32": "The social smile is evidence of an increasing self-awareness in infants.",
+            "33": "Smiles should be categorised according to anatomical movements.",
+            "34": "The Facial Action Coding System is widely used by researchers.",
+            "35": "The social smile only occurs when there is emotion involved.",
+            "36": "Telling the difference between social smiles and emotional smiles is easy to do."
+          },
+          "answers": {"32": "Yes", "33": "No", "34": "Not Given", "35": "No", "36": "No"}
+        },
+        {
+          "type": "grid",
+          "range": [37, 40],
+          "intro": [
+            "Reading Passage has seven paragraphs, **A–G**.",
+            "Which paragraph contains the following information?",
+            "Write the correct letter, **A–G**, in boxes 37–40 on your answer sheet."
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F", "G"],
+          "items": {
+            "37": "mention of an infant reacting to its mother’s interaction with a stranger",
+            "38": "a reference to an infant smiling at nearby objects",
+            "39": "mention of the particular muscles involved in certain smiles",
+            "40": "an example of a person reacting to getting a gift"
+          },
+          "answers": {"37": "D", "38": "C", "39": "E", "40": "F"}
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "1": {
+      "quote": "From Aristotle to Francis Bacon... the question of why we are ticklish... mystery that has baffled many…",
+      "explanation": "Đoạn A nói về việc con người đã tự hỏi vì sao lại nhột từ thời Aristotle, Francis Bacon đến Darwin. Nó nhấn mạnh rằng đây là một bí ẩn lâu đời chưa được giải thích rõ ràng, đặc biệt là việc không thể tự làm mình nhột."
+    },
+    "2": {
+      "quote": "The first category, knismesis... The other hand, gargalesis…",
+      "explanation": "Đoạn B phân biệt rõ ràng hai loại nhột: knismesis (cảm giác ngứa nhẹ) và gargalesis (cảm giác buồn cười do bị nhột mạnh hơn)."
+    },
+    "3": {
+      "quote": "Tickling can also depend on the relationship... essential trust-building exercise…",
+      "explanation": "Đoạn này nhấn mạnh vai trò của việc cù lét trong việc xây dựng mối quan hệ xã hội và sự gắn kết giữa cha mẹ và con cái, bạn bè."
+    },
+    "4": {
+      "quote": "Only 32 percent of them enjoyed being tickled... ‘merciless tickling’ was inflicted…",
+      "explanation": "Đoạn này đề cập đến nghiên cứu cho thấy nhiều người không thích bị cù lét, và thậm chí việc này từng được dùng như một hình thức tra tấn."
+    },
+    "5": {
+      "quote": "...tickling could be part of our natural defence mechanisms…",
+      "explanation": "Đoạn E nói về giả thuyết rằng ticklishness là phản xạ phòng vệ, giúp cảnh báo nguy hiểm hoặc thể hiện sự đầu hàng."
+    },
+    "6": {
+      "quote": "...particularly as it appears to be an entirely useless trait.",
+      "explanation": "Đoạn A nói rằng nhiều nhà khoa học thắc mắc vì ticklishness dường như vô dụng."
+    },
+    "7": {
+      "quote": "...evidence that being ticklish is more of a psychological or social phenomenon…",
+      "explanation": "Có giả thuyết cho rằng tickling mang tính xã hội nhiều hơn là sinh học, vì nó gây cười khi có người khác làm, không phải bản thân."
+    },
+    "8": {
+      "quote": "The first category, knismesis... like a ‘moving itch’...",
+      "explanation": "Knismesis là loại tickling nhẹ và gây cảm giác ngứa."
+    },
+    "9": {
+      "quote": "...the most vulnerable to tickling are not the parts... with the most nerves…",
+      "explanation": "Những chỗ dễ bị nhột không phải là nơi có nhiều dây thần kinh nhất. điều này khá bất ngờ."
+    },
+    "10": {
+      "quote": "...why a sensitivity to touch should prompt laughter.",
+      "explanation": "Các nhà khoa học đặt câu hỏi tại sao việc chạm lại gây ra tiếng cười."
+    },
+    "11": {
+      "quote": "...involuntary twitching, goosebumps...",
+      "explanation": "Tickling có thể gây ra chuyển động không tự chủ (involuntary)."
+    },
+    "12": {
+      "quote": "...considered an essential trust-building exercise...",
+      "explanation": "Tickling giúp xây dựng niềm tin giữa cha mẹ và con."
+    },
+    "13": {
+      "quote": "...torture mechanism... in medieval times...",
+      "explanation": "Tickling từng được dùng làm hình thức tra tấn trong thời Trung Cổ."
+    },
+    "19": {
+      "quote": "In the early 20th century steel’s role… was further established by the invention of rust-resistant stainless steel in 1912.",
+      "explanation": "→ Thép không gỉ là phát minh giúp mở rộng ứng dụng của thép."
+    },
+    "20": {
+      "quote": "... surgical instruments and storage tanks, which were now able to transport liquids.",
+      "explanation": "→ Thép được dùng cho dụng cụ gia đình, dụng cụ y tế, và thùng chứa → “housewares”."
+    },
+    "21": {
+      "quote": "Despite this high demand, steel was still relatively abundant…",
+      "explanation": "→ Dù có nhu cầu cao trong chiến tranh, thép vẫn dồi dào."
+    },
+    "22": {
+      "quote": "... steel was still relatively abundant and even replaced copper...",
+      "explanation": "→ Thép thay thế đồng trong việc làm đồng xu Mỹ."
+    },
+    "23": {
+      "quote": "It was exported throughout the world, but became particularly prevalent in the Middle East...",
+      "explanation": "→ Wootz steel không chỉ xuất khẩu tới Trung Đông, mà ra toàn thế giới."
+    },
+    "24": {
+      "quote": "... an early version of the Bessemer process which would revolutionise European steel manufacturing around eight centuries later.",
+      "explanation": "→ Trung Quốc dùng quy trình giống Bessemer trước châu Âu."
+    },
+    "25": {
+      "quote": "... steel became the most important material in industrialisation… replace less durable wrought iron rails.",
+      "explanation": "→ Đường ray bằng thép thay thế sắt rèn vì thép bền hơn."
+    },
+    "26": {
+      "explanation": "Không có thông tin nào nói rằng cầu Brooklyn vẫn là cầu thép treo lớn nhất thế giới."
+    },
+    "27": {
+      "quote": "Infants’ facial expressions are particularly useful for understanding the nature of human emotion…",
+      "explanation": [
+        "Câu hỏi: Infants’ facial expressions reveal the essence of …",
+        "=> Đoạn A",
+        "→ Khuôn mặt của trẻ tiết lộ bản chất của **emotion**."
+      ]
+    },
+    "28": {
+      "quote": "…is usually associated with sleeping.",
+      "explanation": [
+        "Câu hỏi: Most often related to …",
+        "=> Đoạn B",
+        "→ Nụ cười nội sinh thường xuất hiện khi **trẻ ngủ**."
+      ]
+    },
+    "29": {
+      "quote": "…due to unconscious changes in the nervous system…",
+      "explanation": [
+        "Câu hỏi: Result of ... that are not conscious in the nervous system",
+        "=> Đoạn B",
+        "→ Là kết quả của những **quá trình** không có ý thức trong hệ thần kinh."
+      ]
+    },
+    "30": {
+      "quote": "…exogenous smile…caused by external stimuli…",
+      "explanation": [
+        "Câu hỏi: Set off by an outside …",
+        "=> Đoạn B",
+        "→ Là do một **kích thích bên ngoài** (stimulus)."
+      ]
+    },
+    "31": {
+      "quote": "…the ‘social smile’…arises through social interaction…",
+      "explanation": [
+        "Câu hỏi: Comes about through social …",
+        "=> Đoạn C",
+        "→ Đến từ sự **tương tác xã hội**."
+      ]
+    },
+    "32": {
+      "quote": "…indicates a child’s growing awareness of himself or herself…",
+      "explanation": [
+        "Câu hỏi: The social smile is evidence of an increasing self-awareness in infants.",
+        "=> Đoạn D",
+        "→ Xác nhận là đúng."
+      ]
+    },
+    "33": {
+      "explanation": [
+        "Câu hỏi: Smiles should be categorised according to anatomical movements.",
+        "=> Đoạn E nói một số người **tin như vậy**, nhưng người viết nói **this has been proved to be incorrect** → phủ định."
+      ]
+    },
+    "34": {
+      "explanation": [
+        "Câu hỏi: The Facial Action Coding System is widely used by researchers.",
+        "=> Đoạn E có nhắc đến hệ thống này nhưng **không nói rõ về mức độ sử dụng**."
+      ]
+    },
+    "35": {
+      "quote": "…social smile can happen even in the absence of emotion.",
+      "explanation": [
+        "Câu hỏi: The social smile only occurs when there is emotion involved.",
+        "=> Đoạn F",
+        "→ Sai."
+      ]
+    },
+    "36": {
+      "quote": "The difficulty with distinguishing…",
+      "explanation": [
+        "Câu hỏi: Telling the difference between social smiles and emotional smiles is easy to do.",
+        "=> Đoạn G",
+        "→ Rõ ràng là **không dễ phân biệt** → NO."
+      ]
+    },
+    "37": {
+      "quote": "…if the mother smiled at a stranger, the baby was far more likely to smile."
+    },
+    "38": {
+      "quote": "…describe how an infant smiles at inanimate, though familiar, objects like teddy bears."
+    },
+    "39": {
+      "quote": "…the zygomaticus major muscles… orbicularis oris muscles…"
+    },
+    "40": {
+      "quote": "…imagine a grown person receiving a birthday present that is a huge disappointment…"
+    }
+  }
+}

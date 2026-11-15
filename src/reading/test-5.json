@@ -1,0 +1,263 @@
+{
+  "test": 5,
+  "passages": [
+    {
+      "n": 1,
+      "title": "The life of Beatrix Potter",
+      "standfirst": "The children’s author and illustrator who created Peter Rabbit",
+      "paragraphs": [
+        "Beatrix Potter is one of the best-selling children’s authors of all time. Her popular series of books that includes *The Tale of Peter Rabbit* was first published over one hundred years ago, and has never been out of print. Generations of children have enjoyed her many stories and illustrations, all of which celebrate the English lifestyle and rural landscape through the adventures of animals.",
+        "Born to a comfortable middle-class family in London in 1866, Potter spent much of her early life in her own company. She was educated in her parents’ house by a governess and rarely saw her brother Bertram, who was sent to boarding school. Having little social contact with children of her own age, Potter began to be drawn into her own world of writing. When Beatrix was 15, she began to keep a diary written in a secret code of her own invention. Even Beatrix herself, when she read back over it in later life, found it difficult to understand. It was not until 15 years after her death that the code was cracked. To the outside world Beatrix appeared a shy and reserved person, but in her diary she was able to express herself openly, and she was critical of the paintings of a number of artists of the day.",
+        "Potter was a naturally gifted artist, and with the aid of some art lessons she also learnt the technical side of drawing. During her childhood, she looked after many animals, such as rabbits, frogs, and even bats. She drew these animals throughout her childhood, gradually improving the standard of her work by sketching in museums. She was also interested in natural history. She would spend many hours drawing wildlife such as fungi and flowers, and at one time she had an ambition to develop this scientific interest. An uncle tried to help her become a student at the Royal Botanic Gardens at Kew in London, but she was rejected because of her gender. Nevertheless, she achieved a measure of respect from the scientific establishment for her illustrations and contribution to mycology, the study of fungi.",
+        "When Potter was in her early 20s, her parents tried to arrange a partner for her to marry. Many likely suitors were found; however, Potter turned them all down. She was a fiercely independent woman, and she disliked the idea of being tied down to a domestic life that, at that time, consisted mostly of staying at home and bringing up children. Thus, unusually for British women of those times, she remained single and lived in her parents’ home.",
+        "For several years, Potter tried to get her first children’s book, *The Tale of Peter Rabbit*, published. Her initial attempts proved unsuccessful, but she persevered and eventually the book was accepted for publication by Frederick Warne & Company. The book finally came out in 1902, when Potter was 36, but the publishers did not expect it would sell many copies. In fact, the project was given to the youngest brother in the family company, Norman Warne, for his first project as a kind of test. Luckily, he proved to be a good choice as he warmed to both the book and Potter. He was determined to make a success of the book and developed a good working relationship with Potter as they pored over the individual details of the book. It was Norman who insisted that each drawing would be in colour. Potter insisted that the book remain small so that it would be easy for children to hold, and by the end of the year, 28,000 copies were in print.",
+        "The relationship between Warne and Potter blossomed, and eventually they became engaged. However, Potter’s parents were unhappy about this because of his occupation. They eventually relented, but insisted the couple live apart for six months to give Potter time to change her mind. Tragically, before the wedding could take place, Warne developed pernicious anaemia, a blood disease, and passed away. Potter was devastated and she wrote in a letter to his sister, Millie, *‘He did not live long, but he fulfilled a useful, happy life. I must try to make a fresh beginning next year.’*",
+        "After Warne’s death, Potter moved to the Lake District in northern England. In 1905 she bought a small farm there, and for the next eight years she busied herself writing more books, some of which were based in or around the area. She lived there for the remainder of her life, but due to failing eyesight she was forced to stop writing children’s books. Instead, she devoted her time to the breeding of sheep and helping with the conservation of farms in the district. Using proceeds from her very successful books and later her inheritance, Potter was able to buy many working farms. On her death, she left over 4,000 acres to the National Trust, an organisation which protects historical buildings and areas of countryside in England. It has meant that her beloved countryside is now accessible to many visitors."
+      ],
+      "groups": [
+        {
+          "type": "gap",
+          "range": [1, 6],
+          "intro": [
+            "Complete the notes below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer.",
+            "Write your answers in boxes 1–6 on your answer sheet."
+          ],
+          "content": [
+            {"center": "**Beatrix Potter**"},
+            {"h": "Success as an author"},
+            "• Her books have been in print for more than 100 years.",
+            {"h": "Childhood"},
+            "• She received lessons at home from a [[1]]",
+            "• She wrote in her [[2]] in code.",
+            "• She disliked the work of some [[3]] of the time.",
+            "• She took lessons in drawing.",
+            "• She practised drawing things she saw when she visited [[4]]",
+            {"h": "Life as a young adult"},
+            "• Her [[5]] to have a career in natural history was not realised.",
+            "• Her illustrations were recognised as assisting research into [[6]]"
+          ],
+          "limit": {"words": 1, "number": false},
+          "answers": {"1": "governess", "2": "diary", "3": "artists", "4": "museums", "5": "ambition", "6": "fungi"}
+        },
+        {
+          "type": "tfng",
+          "range": [7, 13],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage 1?",
+            "In boxes 7–13 on your answer sheet, write:",
+            "**TRUE**\tIf the statement agrees with the information",
+            "**FALSE**\tIf the statement contradicts the information",
+            "**NOT GIVEN**\tIf there is no information on this"
+          ],
+          "items": {
+            "7": "The life of a typical married woman at that time appealed to Potter.",
+            "8": "Potter’s publishers insisted on changing the title of her first book.",
+            "9": "The publishers doubted whether Potter’s first book would be successful.",
+            "10": "Norman Warne suggested Potter include black and white illustrations in her first book.",
+            "11": "At first, Potter’s parents disapproved of Norman Warne as a potential husband.",
+            "12": "Potter continued writing children’s books until her death.",
+            "13": "Potter’s gift to the National Trust was the largest in recent times."
+          },
+          "answers": {"7": "False", "8": "Not Given", "9": "True", "10": "False", "11": "True", "12": "False", "13": "Not Given"}
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The threat of invasive species",
+      "paragraphs": [
+        {"l": "A", "t": "Invasive species are among the leading threats to the native wildlife of most countries, with approximately 42 percent of endangered species at risk from them. Invasive species can be any kind of organism - for example, a mammal, amphibian, fish, insect or plant - that is not native to an ecosystem. Often they reproduce and spread with great speed. Contrary to popular belief, a plant or animal classified as an invasive species does not necessarily originate in another country. For example, lake trout are native to the Great Lakes of North America, but are considered to be an invasive species in Yellowstone Lake in Wyoming because they compete with native cutthroat trout for habitat."},
+        {"l": "B", "t": "When a new species is introduced into an ecosystem, native wildlife may struggle to compete with it for food and other resources. Invasive species can change the food web in an ecosystem by destroying or replacing native food sources, while providing little or no food for local wildlife. In extreme cases, the invader may prey on the native species. Above all, invasive species threaten biodiversity in many habitats. For instance, the climbing plant species kudzu (which is native to East Asia) can easily replace a habitat that had a wide range of plants with a monoculture consisting solely of kudzu, as has started to happen in the south east of the USA."},
+        {"l": "C", "t": "The phenomenon is not an exclusively modern one. Humans have always transferred a variety of species from one region to another, but the development of rapid means of transportation has increased the frequency of such introductions. Aquatic organisms can be shipped across the oceans, while insects can easily get into the wooden crates that are transported around the world in this way. In addition, climate change has enabled some invasive plant species to colonise new areas. Other invasive species include pets such as snakes or turtles which are intentionally set free into the wild."},
+        {"l": "D", "t": "Invasive species do not all present the same level of threat to native ecosystems and can be classified into three types. The first of these may be introduced species which can maintain themselves in a limited range of habitats without upsetting the ecological equilibrium of the area. Some scientists have even argued that in these cases the introduction enhances the diversity of animal and plant life in that specific area. A second group of invaders present a greater threat because their spread is at the expense of one native species. The North American grey squirrel, for example, was introduced to the UK in 1876 largely because wealthy landowners thought it would be a fashionable and attractive addition to the local wildlife on their estates. It spread widely, leading directly to the dramatic decline in the population of the native red squirrel. However, it would appear that this is the only definite negative impact of the grey squirrel."},
+        {"l": "E", "t": "There is a third level of threat in which the dominance of the introduced species has an extremely destructive effect on the entire ecosystem. One of the most damaging examples involved a species of comb jellyfish. Native to estuaries along the western Atlantic coast from the northern United States to the Valdes peninsula in Argentina, this species was released from a ship into the Black Sea in Eastern Europe in 1982, almost certainly by accident. The Black Sea has levels of industrial waste which are by international standards exceptionally high. Despite this, fishing boats were still able to catch healthy numbers of fish. But when the invading jellyfish underwent a population explosion in the space of just six years, the entire marine ecosystem was transformed, and fish numbers declined dramatically because they were in competition with the jellyfish, preying on exactly the same microscopic creatures. The jellyfish had a more serious impact on the ecosystem than the heavily polluted water."},
+        {"l": "F", "t": "More than a century after its introduction outside its native range on the Amazon river in South America, a plant known as a water hyacinth can be found in tropical lakes, streams, and rivers around the world. Its beauty attracted botanists seeking exotic plants for botanical gardens and they imported it to a horticultural exhibition in New Orleans in 1884. Visitors were so impressed they planted it in many locations during the 1880s and 1890s, resulting in the aquatic ecosystems of the south eastern United States being progressively colonized by vast, floating, dense carpets of water hyacinth. Today it is present around the globe, damaging boat engines and even blocking cooling pipes for power plants, occasionally leading to massive blackouts. The impact of the water hyacinth on native water plants is largely unstudied, as is unfortunately the case for most ecosystems invaded by new plant species."},
+        {"l": "G", "t": "In the United States, more than 7,000 introduced species have established themselves, of which at least 15 percent cause ecological damage. As the number of invasive species expands, legislation to deal with this problem is rare or non-existent in the majority of countries. Unfortunately, ordinary people outside the scientific community have a very limited understanding of the threat posed by invasive species, which means that other environmental threats receive considerably more media attention. The introduction of new species can initially seem highly desirable, but the full extent of their impact is consistently underestimated."},
+        {"l": "H", "t": "Although ultimately measures need to be taken at an international level, limited action is possible by individuals. One way is for people to plant native plants in their gardens rather than species from abroad. It is also useful to learn to identify invasive species, and report any sightings to wildlife organisations. Regularly cleaning clothing, boots, boats, tires, and any other equipment regularly used outdoors can remove insects and plant parts that may introduce invasive species into new locations."}
+      ],
+      "groups": [
+        {
+          "type": "grid",
+          "range": [14, 19],
+          "intro": [
+            "Reading Passage 2 has eight paragraphs, **A-H**.",
+            "Which paragraph contains the following information?",
+            "Write the correct letter, **A-H**, in boxes on your answer sheet."
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F", "G", "H"],
+          "items": {
+            "14": "a suggestion that people have moved numerous species across the globe throughout history",
+            "15": "an example of how an ecosystem can be damaged very rapidly",
+            "16": "a description of what can be done to restrict the spread of invasive species",
+            "17": "a reference to the lack of research on the effects of some invasive species",
+            "18": "a mention of a current lack of public awareness of the problem of invasive species",
+            "19": "that an introduced species may benefit a specific ecosystem"
+          },
+          "answers": {"14": "C", "15": "E", "16": "H", "17": "F", "18": "G", "19": "D"}
+        },
+        {
+          "type": "multi",
+          "range": [20, 21],
+          "intro": [
+            "Choose **TWO** letters, **A-E**.",
+            "Write the correct letters in boxes 20 and 21 on your answer sheet."
+          ],
+          "choose": 2,
+          "stem": "Which **TWO** reasons for the spread of invasive species are mentioned in the text?",
+          "options": {
+            "A": "the wish to eliminate undesirable native species",
+            "B": "the recent expansion of international trade in agricultural products",
+            "C": "a lack of checks on some of the cargo on board ships",
+            "D": "the deliberate release of non-native animals",
+            "E": "an extension of their geographical range as a result of global warming"
+          },
+          "answer": "C, E"
+        },
+        {
+          "type": "multi",
+          "range": [22, 23],
+          "intro": [
+            "Choose **TWO** letters, **A-E**.",
+            "Write the correct letters in boxes 22 and 23 on your answer sheet."
+          ],
+          "choose": 2,
+          "stem": "Which **TWO** statements does the writer make about the water hyacinth?",
+          "options": {
+            "A": "It is native to almost every region of the world",
+            "B": "It was brought to North America in the late nineteenth century.",
+            "C": "Its beauty has led people to ignore the negative effects it has.",
+            "D": "Its spread has caused some practical problems in recent years.",
+            "E": "Scientists recommended its introduction to the USA."
+          },
+          "answer": "C, D"
+        },
+        {
+          "type": "gap",
+          "range": [24, 26],
+          "intro": [
+            "Complete the sentences below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer.",
+            "Write your answers in boxes 24-26 on your answer sheet."
+          ],
+          "content": [
+            "Kudzu has reduced the [[24]] of certain areas in the south east of the USA.",
+            "Some introduced species present a low level of threat if they remain within a small area and do not disturb the [[25]] of the surrounding ecosystem.",
+            "The effect of invasive jellyfish in the Black Sea was greater than that [[26]] of from factories."
+          ],
+          "limit": {"words": 1, "number": false},
+          "answers": {"24": "biodiversity", "25": "equilibrium", "26": "factories"}
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Learning to be bilingual",
+      "standfirst": "Dr Chisato Danjo, Lecturer in Japanese and Linguistics, examines the bilingual family home",
+      "paragraphs": [
+        "Few people would consider mastering more than one language a bad idea. Consequently, parents who speak different languages from each other are generally keen for their children to learn both. They understand that the family setting they create is central to this, and seek ways to ensure their children thrive bilingually. One of the best-known approaches is the ‘one-parent-one-language’ strategy (OPOL). Each parent uses their native language when communicating with their children, so the children learn both simultaneously. OPOL emphasises consistency - each parent sticking to one language - as key to its approach. But this creates the myth that mixing languages should always be avoided. My recent study, part of a new wave of multilingualism studies, would suggest that this received wisdom is just that: a myth. My research looked at Japanese-British families living in the UK with pre- and early school-age children who were following a more-or-less strict OPOL language policy. I was particularly interested in examining the impact of OPOL in the family home - how does this unique language environment affect the way children use languages?",
+        "Most of the Japanese mothers who participated were fluent in Japanese and English, while the fathers possessed merely an elementary grasp of Japanese. This made English the primary language of communication between the parents and outside the home. For this reason, the mothers were careful to carve out additional space for more sustained Japanese language learning with their children. In other words, this dedicated space for communicating in Japanese was time the children spent exclusively with their mother. This seemed to create a connection between ‘Japanese language’ and ‘motherhood’ in the children’s perception. This link became apparent in the way the children used Japanese as a means of emotional bonding with their mother. In addition, they adopted a broader behavioural repertoire than that which is usually associated with a language. For example, switching to Japanese could sometimes serve as a method to appease Mum when she seemed unhappy. At other times, refusing to communicate in Japanese was a useful means of defiance, even when the dispute was not related to language.",
+        "The OPOL approach emphasises the need for parents to monitor children’s language closely and correct them if they mix the two languages. In practice, many parents speaking the minority language are bilingual themselves - so they understand what their children are saying even when they do mix the two. In addition, parents feel it’s problematic to keep correcting children when they mix languages. This is particularly the case when children show annoyance at being corrected. The parents believe it is a lot more important to have a meaningful conversation with their children.",
+        "But what if a child uses language that cannot readily be categorised as either one language or the other? An example from my study involved the use of English words adapted to accommodate Japanese pronunciation. One of these borrowed words, ‘ice cream’, is usually pronounced ‘aisukurimu’. The distinction between singular and plural does not exist in Japanese nouns in the English language sense, so whether using singular or plural, even in a borrowed word, ‘aisukurimu’ is the form normally used. But one of my child participants showed his mother a drawing of two cones of ice cream and described them as ‘aisukurimuzu’, with a Japanese pronunciation but in English plural form. The child had created something in between.",
+        "Another example from my study focused on the interaction between Japanese-English bilingual siblings. In one case, a six-year-old girl was trying to convince her four-year-old brother to let her play with his toys. Following firm rejections by her brother, the girl drew on her communicative repertoire to convince him. To start with, she shifted from an authoritative demand to a softer and humbler appeal. She rephrased the question by using various polite forms. Then, her voice became more nasal, suggesting she was about to burst into tears. Even more interestingly, while the negotiation had begun in English, in the middle she shifted to Japanese. Although this may give the impression of language mixing, a considerably more complex process was taking place. The shift was accompanied by the incorporation of Japanese cultural elements, such as honorific titles that emphasise emotional attachment, a relationship of dependence between sister and brother, and an assumed obligation to care on the part of the brother. She succeeded.",
+        "These examples show how creatively and strategically human beings use language in their daily communication. Whether bilingual or not, we all constantly select from our repertoire anything that will best serve our purpose. For instance, imagine you want to ask a neighbour a favour. You would use polite language in a friendly voice. But what about your facial expression? Your body language? It is likely you would make appropriate choices. For bilinguals, shifting between languages is all part of their repertoire.",
+        "Our language repertoires are shaped by meaning, based on knowledge gathered throughout our lives, and the ways we use language also shape its meaning. The use of OPOL in the family brings specific meaning to language used at home, and children make full use of emergent meaning in their own interactions.",
+        "The popularity of OPOL amongst parents rests on the simplicity of its message, which is that it should be applied consistently. But when we see a child actively using, adapting and negotiating their repertoire, it casts doubt on the belief that it’s bad for children to mix languages. What they could actually be doing is demonstrating high-level flexibility and interpersonal skills.",
+        "Being bilingual isn’t simply about an ability to speak two languages. Rigidly policing consistency in the OPOL approach could actually inhibit bilingual children’s linguistic ability and creativity. And in the same way, it could also limit their parents’ ability to reveal their own bilingual skills, using their own repertoires."
+      ],
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [27, 32],
+          "intro": [
+            "Choose the correct letter, **A**, **B**, **C** or **D**.",
+            "Write the correct letter in boxes **27-32** on your answer sheet."
+          ],
+          "items": {
+            "27": {"stem": "What does the writer say about families in which the parents speak different languages?", "options": {"A": "They constantly research ways to help their children learn both languages.", "B": "They realise the importance of their role in their children’s language learning.", "C": "They prioritise their children’s language learning over their own.", "D": "They find the OPOL approach the easiest to adopt."}},
+            "28": {"stem": "The writer uses the term ‘received wisdom’ in the first paragraph to illustrate that", "options": {"A": "the success of OPOL depends on the languages spoken by the parents.", "B": "OPOL fails if the parents are not consistent in its use.", "C": "one generally accepted principle of OPOL is incorrect.", "D": "there has been a lack of research into OPOL."}},
+            "29": {"stem": "The mothers who took part in the writer’s research", "options": {"A": "compensated for the fact that their children were exposed to more English than Japanese.", "B": "took their children’s language learning more seriously than their partners did.", "C": "used language learning to increase the time they spent with their children.", "D": "were reluctant for their partners to speak Japanese to their children."}},
+            "30": {"stem": "The writer says that the children in her study", "options": {"A": "preferred to use Japanese exclusively for communicating with their mothers.", "B": "understood their mothers better as their knowledge of Japanese increased.", "C": "argued about things that would be unimportant for monolingual children.", "D": "used language in a way that is uncommon."}},
+            "31": {"stem": "What does the writer suggest about correcting children who are learning to be bilingual?", "options": {"A": "It is usually avoided if it causes bad feeling.", "B": "Parents tend to prioritise it over maintaining a conversation.", "C": "It is unnecessary with the OPOL method of learning.", "D": "Parents are less likely to do it if they speak both languages."}},
+            "32": {"stem": "The writer gives the ‘ice cream’ example to show that", "options": {"A": "bilingual children find the use of borrowed words less confusing than other children.", "B": "bilingual children like to test their parents with words they know to be wrong.", "C": "knowledge of two languages leads bilingual children to invent new word forms.", "D": "it may be difficult to distinguish which language a bilingual child is using."}}
+          },
+          "answers": {"27": "B", "28": "C", "29": "A", "30": "D", "31": "D", "32": "D"}
+        },
+        {
+          "type": "bank",
+          "range": [33, 36],
+          "intro": [
+            "Complete the summary using the list of words, **A-I**, below.",
+            "Write the correct letter, **A-I**, in boxes 7-10 on your answer sheet"
+          ],
+          "content": [
+            {"center": "**A bilingual child negotiates with her brother**"},
+            "Faced with her little brother’s [[33]] to let her play with his toys, a young bilingual child used all of her communication [[34]] to change his mind. First, she expressed her [[35]] in gentler, more polite language, and pretended to be about to cry. Having switched from English to Japanese, she exploited aspects of Japanese culture, such as reminding him of his [[36]] to her as her brother. She succeeded in her attempts to convince him."
+          ],
+          "options": {
+            "title": null,
+            "list": {"A": "request", "B": "attempts", "C": "strategies", "D": "misunderstandings", "E": "responsibility", "F": "agreement", "G": "judgement", "H": "refusal", "I": "behavior"}
+          },
+          "answers": {"33": "H", "34": "C", "35": "A", "36": "E"}
+        },
+        {
+          "type": "ynng",
+          "range": [37, 40],
+          "intro": [
+            "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+            "**YES**\tif the statement agrees with the claims of the writer",
+            "**NO**\tif the statement contradicts the claims of the writer",
+            "**NOT GIVEN**\tif it is impossible to what the writer thinks about this"
+          ],
+          "items": {
+            "37": "Even people who speak only one language know how to adapt their way of communicating according to the situation.",
+            "38": "People who grow up in OPOL families will go on to use this approach with their own children.",
+            "39": "The reason the OPOL approach is favoured by many parents is that it encourages them to switch languages when necessary.",
+            "40": "Bilingual children who mix languages eventually develop a preference for one of the languages."
+          },
+          "answers": {"37": "Yes", "38": "Not Given", "39": "No", "40": "Not Given"}
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "1": {"quote": "She was educated in her parents’ house by a governess...", "explanation": "Beatrix được học tại nhà bởi một **người gia sư (governess)**."},
+    "2": {"quote": "...she began to keep a diary... written in a secret code of her own invention.", "explanation": "Cô viết nhật ký bằng mã do mình sáng tạo ra."},
+    "3": {"quote": "...she was critical of the paintings of a number of artists of the day.", "explanation": "Cô không thích tác phẩm của một số **họa sĩ** đương thời."},
+    "4": {"quote": "...improving the standard of her work by sketching in museums.", "explanation": "Cô luyện tập vẽ bằng cách đến **viện bảo tàng**."},
+    "5": {"quote": "...she had an ambition to develop this scientific interest.", "explanation": "Tham vọng theo đuổi sự nghiệp khoa học của cô không thành."},
+    "6": {"quote": "...contribution to mycology, the study of fungi.", "explanation": "Minh họa của cô giúp ích cho nghiên cứu về **nấm (fungi)**."},
+    "7": {"quote": "...she disliked the idea of being tied down to a domestic life...", "explanation": "Beatrix **không hề thích** kiểu sống đó → **FALSE**"},
+    "8": {"explanation": "Không có chi tiết nào về việc đổi **tên sách**, chỉ đề cập đến quá trình xuất bản → **NOT GIVEN**"},
+    "9": {"quote": "...but the publishers did not expect it would sell many copies.", "explanation": "Họ nghi ngờ về **thành công thương mại** → **TRUE**"},
+    "10": {"quote": "It was Norman who insisted that each drawing would be in colour.", "explanation": "Không phải đen trắng, mà là màu → **FALSE**"},
+    "11": {"quote": "However, Potter’s parents were unhappy... eventually relented…", "explanation": "Cha mẹ **ban đầu phản đối** → **TRUE**"},
+    "12": {"quote": "...due to failing eyesight she was forced to stop writing children’s books.", "explanation": "Ngừng viết vì vấn đề sức khỏe → **FALSE**"},
+    "13": {"explanation": "Đoạn cuối chỉ nói **she left land to the Trust**, không so sánh kích thước → **NOT GIVEN**"},
+    "14": {"quote": "Humans have always transferred a variety of species... the development of rapid means of transportation has increased the frequency of such introductions."},
+    "15": {"quote": "...the entire marine ecosystem was transformed... in the space of just six years...", "explanation": "Nói về **jellyfish** làm hệ sinh thái biển thay đổi cực nhanh."},
+    "16": {"quote": "One way is for people to plant native plants in their gardens…", "explanation": "Hướng dẫn các hành động cá nhân nhằm giảm lây lan loài xâm lấn."},
+    "17": {"quote": "The impact of the water hyacinth... is largely unstudied…"},
+    "18": {"quote": "Ordinary people outside the scientific community have a very limited understanding of the threat posed…"},
+    "19": {"quote": "Some scientists have even argued... this enhances the diversity...", "explanation": "Dẫn chứng loài xâm lấn **có thể giúp ích** cho hệ sinh thái cụ thể."},
+    "20": {"quote": "...jellyfish was released from a ship... almost certainly by accident.” “...climate change has enabled some invasive plant species to colonise new areas.", "explanation": ["**C.** a lack of checks on some of the cargo on board ships. Trích đoạn đoạn E: “...jellyfish was released from a ship... almost certainly by accident.” → Việc không kiểm soát chặt hàng hóa/động vật mang theo.", "**E.** an extension of their geographical range as a result of global warming. Trích đoạn đoạn C: “...climate change has enabled some invasive plant species to colonise new areas.” → Nhiệt độ tăng làm lan rộng phạm vi sống của loài."]},
+    "22": {"quote": "Its beauty attracted botanists... Visitors were so impressed they planted it...” “...blocking cooling pipes... leading to massive blackouts.", "explanation": ["**C.** Its beauty has led people to ignore the negative effects it has. Trích đoạn đoạn F: “Its beauty attracted botanists... Visitors were so impressed they planted it...” → Gợi ý rằng vẻ đẹp làm lu mờ tác hại.", "**D.** Its spread has caused some practical problems in recent years. Trích đoạn: “...blocking cooling pipes... leading to massive blackouts.” → Tác hại thực tế hiện nay."]},
+    "24": {"quote": "...replace a habitat that had a wide range of plants with a monoculture...", "explanation": "Trích đoạn đoạn B → => Giảm sự đa dạng sinh học."},
+    "25": {"quote": "...without upsetting the ecological equilibrium...", "explanation": "Từ chính xác: **equilibrium** (cân bằng sinh thái)."},
+    "26": {"quote": "The jellyfish had a more serious impact on the ecosystem than the heavily polluted water.", "explanation": "“heavily polluted water” do factory gây ra → paraphrase = **factories**"},
+    "27": {"quote": "They understand that the family setting they create is central to this…", "explanation": "Đoạn 1 → Cha mẹ **ý thức rõ vai trò của mình** trong việc tạo môi trường học ngôn ngữ cho con."},
+    "28": {"quote": "This received wisdom is just that: a myth…", "explanation": "Tác giả cho rằng **niềm tin phổ biến rằng phải tuyệt đối tách biệt ngôn ngữ là sai**."},
+    "29": {"quote": "...mothers were careful to carve out time... devoted space to Japanese learning…", "explanation": "Họ **bù đắp lại** do trẻ nghe tiếng Anh nhiều hơn."},
+    "30": {"quote": "...aisukurīmu", "explanation": "và ví dụ bé gái đổi ngôn ngữ linh hoạt → Trẻ **sử dụng ngôn ngữ theo cách sáng tạo, khác thường**."},
+    "31": {"quote": "Parents... are bilingual themselves... find it problematic to keep on correcting...", "explanation": "Cha mẹ **ít sửa lỗi hơn nếu họ hiểu cả hai ngôn ngữ**."},
+    "32": {"quote": "...cannot readily be categorised as either one language or the other…", "explanation": "Trẻ **dùng từ lai, không rõ thuộc ngôn ngữ nào**."},
+    "33": {"quote": "In one case, a six-year-old girl was trying to convince her four-year-old brother to let her play with his toys.", "explanation": "**Đây là lời từ chối của cậu em** (not letting her play)"},
+    "34": {"quote": "She expressed her **request** in gentler, more polite language...” “...shifted from an authoritative demand to a softer and humbler appeal...", "explanation": "Cô bé sử dụng **chiến lược ngôn ngữ** (lịch sự, nhẹ nhàng...)"},
+    "35": {"quote": "She expressed her request in gentler... language and pretended to be about to cry.", "explanation": "Là một yêu cầu – chính xác là “request”"},
+    "36": {"quote": "...exploited aspects of Japanese culture... reminding him of his responsibility to her as her brother.", "explanation": "Cô bé nhắc đến vai trò làm anh để thuyết phục em trai"},
+    "37": {"quote": "Whether bilingual or not, we all constantly select from our repertoire…", "explanation": "Người nói đơn ngữ cũng biết cách điều chỉnh cách giao tiếp."},
+    "38": {"explanation": "Không có thông tin về việc họ có áp dụng lại OPOL cho thế hệ sau hay không."},
+    "39": {"quote": "...rests on the simplicity of its message: that it should be applied consistently.", "explanation": "OPOL **không khuyến khích chuyển đổi ngôn ngữ**."},
+    "40": {"explanation": "Không có thông tin nào nói về việc trẻ **thích một ngôn ngữ hơn**."}
+  }
+}

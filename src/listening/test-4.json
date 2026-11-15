@@ -1,0 +1,334 @@
+{
+  "test": 4,
+  "audio": "audio/test-04.mp3",
+  "sections": [
+    {
+      "n": 1,
+      "title": "Property Rental Call",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [1, 7],
+          "intro": [
+            "Complete the table below.",
+            "Write **NO MORE THAN ONE WORD AND/OR A NUMBER** for each answer."
+          ],
+          "limit": {"words": 1, "number": true},
+          "content": [
+            {"center": "**Property Rental Call**"},
+            "*Example*",
+            "Staff member is called …….. **Jack** ……..",
+            {"table": [
+              ["House or flat", "Details", "Rent per month", "Address", "Location"],
+              ["house", "• garage has [[1]] • and space for several [[2]]", "£ [[3]]", "[[4]] Road", "near the college"],
+              ["basement flat", "has shared [[5]] , and on-street parking", "£900", "Hartford Street", "in old residential area, close to the centre"],
+              ["house", "has garage, balcony, and bedroom that can be used as a [[6]] instead", "£1350", "Marsh Lane", "close to [[7]]"]
+            ]}
+          ],
+          "answers": {
+            "1": "freezer",
+            "2": "bikes",
+            "3": "station",
+            "4": "Delawarr",
+            "5": "garden",
+            "6": "study",
+            "7": "woods"
+          }
+        },
+        {
+          "type": "gap",
+          "range": [8, 10],
+          "intro": [
+            "Complete the notes below.",
+            "Write **ONE WORD AND/OR A NUMBER** for each answer."
+          ],
+          "limit": {"words": 1, "number": true},
+          "content": [
+            "**Viewing the properties:**",
+            "• June [[8]]",
+            "• at [[9]] a.m.",
+            "• Stamford Properties, 61 Oxford Road, Stamford, [[10]] Park outside"
+          ],
+          "answers": {
+            "8": "June 15th",
+            "9": "10:30",
+            "10": "outside"
+          }
+        }
+      ],
+      "transcript": [
+        {"s": "Speaker 0", "t": "This is the IELTS progress check listening test four. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections. At the end of the test, you will be given 10 minutes to check your answers. Section one. You will hear a woman calling a letting agency about renting accommodation. First, you have some time to look at questions one to seven. You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first."},
+        {"s": "Speaker 1", "t": "Hello, Stamford Properties, Jack speaking."},
+        {"s": "Speaker 2", "t": "Good morning. My name’s Louise. I want to rent a furnished place to live for six months or a year in Stamford. Do you deal with rentals?"},
+        {"s": "Speaker 0", "t": "The staff member’s name is Jack. So, Jack has been written in the space. Now we shall begin. You should answer the questions as you listen because you will not hear the recording a second time. Now listen carefully and answer questions one to seven."},
+        {"s": "Speaker 1", "t": "Hello, Stamford Properties. Jack speaking."},
+        {"s": "Speaker 2", "t": "Good morning. My name’s Louise. I want to rent a furnished place to live for six months or a year in Stamford. Do you deal with rentals?"},
+        {"s": "Speaker 1", "t": "We certainly do."},
+        {"s": "Speaker 2", "t": "If you can tell me about three or four suitable places over the phone, we’ll drive over to Stamford and have a look at them."},
+        {"s": "Speaker 1", "t": "Fine. What sort of property are you interested in?"},
+        {"s": "Speaker 2", "t": "Preferably a house, though a flat would be okay. And we need two bedrooms. We’ve got a daughter."},
+        {"s": "Speaker 1", "t": "Right. Let me see. We have a very nice modern house to let with living room, kitchen, and two bedrooms. There’s also a large garage with a freezer in it. There’s a door from the garage into the house, so you wouldn’t need to go outside."},
+        {"s": "Speaker 2", "t": "We all have bikes. Would there be room for them in the garage?"},
+        {"s": "Speaker 1", "t": "Yes, plenty."},
+        {"s": "Speaker 2", "t": "And what’s the rent?"},
+        {"s": "Speaker 1", "t": "It’s slightly higher than the average for this type of house, which is about 1,100 pounds. This one is 1,200 a month."},
+        {"s": "Speaker 2", "t": "Okay. And what’s the address, please?"},
+        {"s": "Speaker 1", "t": "It’s in Delawarr Road, which is spelt D-E-L-A-W-A double R. It’s a cul-de-sac, so there’s very little traffic."},
+        {"s": "Speaker 2", "t": "What part of the town is it in?"},
+        {"s": "Speaker 1", "t": "It’s on the edge, not far from Stamford College. In fact, you can walk there in five or six minutes."},
+        {"s": "Speaker 2", "t": "Oh, that might be useful for my daughter. She hasn’t finished her studies."},
+        {"s": "Speaker 1", "t": "Right. Now, another option is a flat. You said house or flat, didn’t you?"},
+        {"s": "Speaker 2", "t": "That’s right."},
+        {"s": "Speaker 1", "t": "Well, this one is in the basement of a converted house. It’s on a hill, so the front is below street level, but the back is at ground level."},
+        {"s": "Speaker 2", "t": "And what’s at the back?"},
+        {"s": "Speaker 1", "t": "There’s a garden that’s shared with the people living in the rest of the house. There are three flats in all, each on one floor. This flat doesn’t have a garage, but there’s unrestricted parking in the street."},
+        {"s": "Speaker 2", "t": "Uh-huh. And the rent?"},
+        {"s": "Speaker 1", "t": "That’s 900 pounds. It’s in Hartford Street, which is in the oldest part of the town. It’s a residential area not far from the center."},
+        {"s": "Speaker 2", "t": "Is the flat itself old?"},
+        {"s": "Speaker 1", "t": "Yes, it dates back to the mid-19th century, so it’s got plenty of character."},
+        {"s": "Speaker 2", "t": "I see."},
+        {"s": "Speaker 1", "t": "Now, another house I can offer you is very different. It was designed a few years ago by an architect for himself and his family, and it’s really striking. It’s well worth a visit."},
+        {"s": "Speaker 2", "t": "Does it have a garage?"},
+        {"s": "Speaker 1", "t": "Yes. And on the first floor there’s a balcony overlooking the back garden, which is quite large."},
+        {"s": "Speaker 2", "t": "Is the house large too?"},
+        {"s": "Speaker 1", "t": "Yes, and there are three bedrooms, so your daughter would be able to turn one into a study if she wanted to."},
+        {"s": "Speaker 2", "t": "Actually, that might suit my husband. He’s a writer. I suppose the house is very expensive."},
+        {"s": "Speaker 1", "t": "Well, it’s 1,350 a month.... but it’s certainly worth the money. It’s in Marsh Lane and is just a couple of minutes’ walk from a small area of woodland that’s open to the public."},
+        {"s": "Speaker 0", "t": "Before you hear the rest of the conversation, you have some time to look at questions eight to 10. Now listen and answer questions eight to 10."},
+        {"s": "Speaker 2", "t": "Okay. Well, they all sound like possibilities. We’ll come over and see them. Would next Wednesday suit you?"},
+        {"s": "Speaker 1", "t": "June the 14th? Um, I’m afraid I’ll be on leave that day. I could get one of my colleagues to show you round, or we could make it another day."},
+        {"s": "Speaker 2", "t": "How about the 15th instead?"},
+        {"s": "Speaker 1", "t": "Yes, I’ll be free then. Shall we say 10 o’clock?"},
+        {"s": "Speaker 2", "t": "That might be too early as we’ll have a couple of hours drive. 10:30 would be better."},
+        {"s": "Speaker 1", "t": "That’s fine."},
+        {"s": "Speaker 2", "t": "And what’s your address?"},
+        {"s": "Speaker 1", "t": "61 Oxford Road. If you’re using a sat-nav, our postcode is SM17 4AU. You should be able to park just outside, then we’ll go in my car to view the properties."},
+        {"s": "Speaker 2", "t": "Lovely. Thank you for all your help, and I’ll look forward to seeing you next week."},
+        {"s": "Speaker 1", "t": "You’re welcome. Goodbye."},
+        {"s": "Speaker 0", "t": "That is the end of section one. You now have half a minute to check your answers."}
+      ]
+    },
+    {
+      "n": 2,
+      "title": "New Job Intro",
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [11, 14],
+          "intro": [
+            "Choose the correct letter, **A**, **B** or **C**.",
+            {"center": "**New Job Intro**"}
+          ],
+          "items": {
+            "11": {"stem": "How did the company begin?", "options": {
+              "A": "A young carpenter started selling his work.",
+              "B": "A young woodcutter decided to change his job.",
+              "C": "A young furniture salesman decided to switch to manufacturing."}},
+            "12": {"stem": "Why has the company recruited extra staff?", "options": {
+              "A": "It has opened a new department.",
+              "B": "It has moved to a new location.",
+              "C": "It has had an increase in business."}},
+            "13": {"stem": "For the first three months all new employees will", "options": {
+              "A": "be supported by a colleague.",
+              "B": "attend daily training sessions.",
+              "C": "work in a large team."}},
+            "14": {"stem": "What does Mike say about the Employee Handbook?", "options": {
+              "A": "It should be kept at work.",
+              "B": "It may need to be changed.",
+              "C": "It is already available online."}}
+          },
+          "answers": {"11": "A", "12": "C", "13": "B", "14": "B"}
+        },
+        {
+          "type": "match",
+          "range": [15, 20],
+          "intro": [
+            "What aspect of the orientation programme will be covered by each of the following people?",
+            "Choose **SIX** answers from the box and write the correct letter, **A – G**, next to questions 15 – 20.",
+            "**People**"
+          ],
+          "options": {
+            "title": ["**Aspects of orientation**"],
+            "list": {
+              "A": "IT",
+              "B": "absenteeism",
+              "C": "complaints",
+              "D": "financial matters",
+              "E": "hours of work",
+              "F": "travel",
+              "G": "workplace safety"
+            },
+            "after": false
+          },
+          "items": {
+            "15": "Philip May",
+            "16": "Sally Graves",
+            "17": "Ahmed Al Jefri",
+            "18": "Caroline Brewer",
+            "19": "Amina Ray",
+            "20": "Terry Blaygrove"
+          },
+          "answers": {"15": "E", "16": "F", "17": "C", "18": "G", "19": "A", "20": "D"}
+        }
+      ],
+      "transcript": [
+        {"s": "Speaker 0", "t": "Now turn to section two. Section two. You will hear a man called Mike Shenton, who is a manager at a large furniture company, talking to a group of new employees. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14."},
+        {"s": "Speaker 3", "t": "Hi, everyone. My name’s Mike Shenton, and I’m human resources manager here at Clifton Furniture. I think you can all congratulate yourselves on getting through the selection process, and I hope today marks the start of a long and happy association with Clifton Furniture. So let me start by telling you about how Clifton Furniture began. Well, about 70 years ago, our founder, Joe Clifton, was a young man of 17. His father was a gardener who worked in a big estate, and when he cut down trees, he’d sometimes bring the wood back home thinking he could use it. But in fact, it was young Joe who used it to teach himself carpentry skills, and soon Joe decided that his furniture was good enough to put on the market. Now, Joe had no training in either manufacturing or sales, but he was passionate about making furniture and things just took off. So during this last year, we’ve recruited around 50 new staff, including all of you here today. And this is an indication of the rapid growth in activity we’ve experienced recently. Most of our new recruits will be here in the factory, but some will be working in our outlets around the country, including our recently opened outlet up in the north. I believe our success is largely due to the nature of the company’s culture. Like most successful businesses, we expect our staff to perform to the very best of their ability. But what’s unique with Clifton Furniture is the appreciation we have of the strengths of every member of the team. Even if you’re a new, young recruit, we’ll be aware of what you can bring to the company and help you develop your skills. For the next three months, we’ll be monitoring you carefully. This week you’ll receive training in company policies and procedures related to your particular job, and you’ll also be assigned to an experienced member of staff doing a similar job who will be able to answer your questions. After that time period’s over, you’ll receive an evaluation from your team leader who’ll give you feedback on your progress. You’ll be given a lot of information today, but much of it’s also in the employee handbook.... this is something we’ve produced as a reference for new staff. We intend it as something you can take home and study on your own. Let us know what you think of it. This is the first draft, so let us know if you think anything’s missing. Once we’re happy with it, it’ll be available on the company intranet."},
+        {"s": "Speaker 0", "t": "Before you hear the rest of the talk, you have some time to look at questions 15 to 20. Now listen and answer questions 15 to 20."},
+        {"s": "Speaker 3", "t": "Now, you’ll be spending the rest of the day on your orientation program. So, first, you’ll meet Phillip May, who’ll be telling you about how your work can be scheduled to allow you to have the best possible work/life balance. You’ll find you’re offered a great deal of flexibility if you need time off, to deal with unexpected problems at home, for example. Sally Graves will be describing our new Cycle To Work initiative, as well as arrangements for secure parking for bikes, and other possibilities, such as car shares, which can not only help the environment, but also save you a lot of money. After lunch, you’ll meet Ahmed Al-Jefri, who’s an important man, because he’s the one who makes sure you get your payslip. He’ll be explaining the company pension scheme and other benefits. You’ll find he’s very approachable, so don’t hesitate to contact him if you have any problems. Then, Caroline Brewer will be showing you a video to help you avoid accidents and injuries. This doesn’t just apply to those of you working on the factory floor. It’s a general introduction and is relevant for office staff as well. After that, Amina Ray will be helping you log on to the system and making sure you’re aware of the security issues when using it. So, even if you think this is an area you’re up to speed with, please do make sure you listen carefully, as any mistakes here could have serious consequences. And finally, Terry Blagrove will be talking about what procedures to follow if you feel you have any sort of work-related grievance. His office door is always open, so do call in if you think you have a problem. And now I’ll hand you over..."},
+        {"s": "Speaker 0", "t": "That is the end of Section 2. You now have half a minute to check your answers."}
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Student Career Advice",
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [21, 23],
+          "intro": ["Choose the correct letter, **A**, **B** or **C**."],
+          "items": {
+            "21": {"stem": "What is Alex’s plan for his career?", "options": {
+              "A": "to work in a variety of fields",
+              "B": "to start his own business",
+              "C": "to run a major company"}},
+            "22": {"stem": "On his university course, Alex is learning more than he expected about", "options": {
+              "A": "marketing.",
+              "B": "human resources.",
+              "C": "finance."}},
+            "23": {"stem": "Alex hopes doing a work placement will give him insight into", "options": {
+              "A": "how a business operates.",
+              "B": "what a particular job involves.",
+              "C": "the challenges facing a company."}}
+          },
+          "answers": {"21": "B", "22": "A", "23": "C"}
+        },
+        {
+          "type": "match",
+          "range": [24, 30],
+          "intro": [
+            "What comment is made about the following businesses?",
+            "Choose **SEVEN** answers from the box and write the correct letter, **A – H**, in boxes 24 – 30 below.",
+            "**Businesses**"
+          ],
+          "options": {
+            "title": ["**Comments**"],
+            "list": {
+              "A": "supports local activities",
+              "B": "has good customer service",
+              "C": "provides good opportunities for career development",
+              "D": "is growing constantly",
+              "E": "designs innovative products",
+              "F": "does effective marketing",
+              "G": "adapts to suit changing conditions",
+              "H": "attracts a large number of applicants"
+            },
+            "after": false
+          },
+          "items": {
+            "24": "clothing chain",
+            "25": "furniture chain",
+            "26": "electronics manufacturer",
+            "27": "machine tool manufacturer",
+            "28": "book retailer",
+            "29": "leisure travel chain",
+            "30": "coffee shop chain"
+          },
+          "answers": {"24": "H", "25": "A", "26": "F", "27": "E", "28": "B", "29": "G", "30": "C"}
+        }
+      ],
+      "transcript": [
+        {"s": "Speaker 0", "t": "Now turn to Section 3. Section 3. You will hear a business student called Alex talking to Jill, who is from the university careers service. First, you have some time to look at Questions 21 to 23. Now listen carefully and answer Questions 21 to 23."},
+        {"s": "Speaker 4", "t": "Oh, hello. You must be Alex. I’m Jill. How can I help?"},
+        {"s": "Speaker 5", "t": "Hello. I’m in my second year of a business degree. I want to do a work placement during the summer vacation, and I could do with some advice."},
+        {"s": "Speaker 4", "t": "Well, that’s what the careers service is for. Give me a bit of background, Alex. What’s your long-term career plan?"},
+        {"s": "Speaker 5", "t": "I’ve got an idea for a financial services company to support small firms. I want to set it up as soon as I graduate. I’d like to keep it small and independent. I don’t aim to turn it into a massive multinational company or anything like that. But before I came to uni, I worked for a while in various companies. So, what with that and the degree, I feel I’m getting the range of knowledge and experience I need."},
+        {"s": "Speaker 4", "t": "How are you finding the course?"},
+        {"s": "Speaker 5", "t": "I’m getting a lot out of it. Obviously, finance is something I’m interested in. Though, I’m surprised how many ideas I’m getting from the marketing module. It’s made me realize how important that is for any firm to survive. The human resources module we’re doing at the moment is a bit disappointing though. I think that’s because of the lecturer rather than the subject itself."},
+        {"s": "Speaker 4", "t": "And my final question for the moment, what do you hope to gain from doing a work placement?"},
+        {"s": "Speaker 5", "t": "In a way, what I want most is to find out the problems that businesses have to deal with, like competition from other companies or the country’s economic situation.I’ve already learnt a lot about how businesses are run both from the jobs I’ve had in the past and from studying. Uh, yes, it’s the bigger picture that I’m interested in."},
+        {"s": "Speaker 4", "t": "Okay. Well, let’s have a look at the job placements we’ve got in our database at the moment."},
+        {"s": "Speaker 0", "t": "Before you hear the rest of the discussion, you have some time to look at questions 24 to 30. Now listen and answer questions 24 to 30."},
+        {"s": "Speaker 4", "t": "Right. Here are some organizations that might be suitable for you. Let’s make a shortlist first, then look at them in more detail."},
+        {"s": "Speaker 5", "t": "Fine."},
+        {"s": "Speaker 4", "t": "This chain of clothing stores offers a number of work placements for periods from two weeks to a year. It’d be a good firm to work for as it’s well-known for the way it treats employees. There’s a very cooperative business culture, so there are always a lot of people who contact the place looking for jobs there."},
+        {"s": "Speaker 5", "t": "Good. Let’s put that on the shortlist."},
+        {"s": "Speaker 4", "t": "Ah, this one’s a furniture chain, Cathcarts."},
+        {"s": "Speaker 5", "t": "Ah, there’s a branch in the town I come from. Uh, they sponsor sports clubs for children and teenagers in the area. They’re highly respected."},
+        {"s": "Speaker 4", "t": "Yes, they’ve got a good reputation. What about this electronics manufacturer?"},
+        {"s": "Speaker 5", "t": "Oh, I love their advertising campaigns."},
+        {"s": "Speaker 4", "t": "A lot of people do. They’re very good at promoting their brand very well, and their website is very attractively designed."},
+        {"s": "Speaker 5", "t": "Yes, let’s put them on the shortlist too."},
+        {"s": "Speaker 4", "t": "You probably don’t know this company, Stewart MacLeod. They manufacture machine tools which are way ahead of all their competitors. They’ve got an excellent research and development department."},
+        {"s": "Speaker 5", "t": "Mm. That sounds interesting."},
+        {"s": "Speaker 4", "t": "Next, there’s P. K. Spencer, the book retailer. Their shop assistants are trained to be really helpful to anyone wanting help in finding books. And if there’s a problem, they make a point of dealing with it immediately."},
+        {"s": "Speaker 5", "t": "Oh, I didn’t know that. Though, come to think of it, I’ve always found that when I bought books from them."},
+        {"s": "Speaker 4", "t": "Do you know Alders, the leisure travel chain?"},
+        {"s": "Speaker 5", "t": "I’ve seen adverts, but I’ve never had any dealings with them."},
+        {"s": "Speaker 4", "t": "It’s one of the most successful travel companies in the country. Alders was probably the first to realize that more and more people would book travel and hotels online, and they revised their business model accordingly. Today, they still respond very quickly to new developments in their sector."},
+        {"s": "Speaker 5", "t": "That sounds good."},
+        {"s": "Speaker 4", "t": "The last one is a chain of coffee shops. I’m sure you’re familiar with it."},
+        {"s": "Speaker 5", "t": "Yes, I go there quite often. In fact, I was chatting to one of the staff only last week, and he was saying how much he enjoys working for the company. He said the pay and holidays are second to none, and one big advantage is the chance to get on their management training scheme. Uh, they’d better [laughs] be on the shortlist too."},
+        {"s": "Speaker 4", "t": "Okay."},
+        {"s": "Speaker 5", "t": "Gosh, all of those seem like good companies to work for. We haven’t managed to make a shortlist. [laughs]"},
+        {"s": "Speaker 4", "t": "Well, let’s look at them all in more detail."},
+        {"s": "Speaker 0", "t": "That is the end of Section 3. You now have half a minute to check your answers."}
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Naked Mole Rats",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [31, 40],
+          "intro": [
+            "Complete the notes below.",
+            "Write **ONE WORD ONLY** for each answer."
+          ],
+          "limit": {"words": 1, "number": false},
+          "content": [
+            {"center": "**NAKED MOLE RATS**"},
+            "**Naked mole rats**",
+            "• are found in East Africa",
+            "• are a type of rodent with two large [[31]] which can move independently",
+            "• live entirely [[32]] in large colonies",
+            "• create complex systems of [[33]]",
+            "• eat [[34]]",
+            "• make a noise similar to a bird",
+            "**Research findings**",
+            "• When first documented, the naked mole rat was thought to have a [[35]]",
+            "• When a group was first established in a laboratory, they did not [[36]]",
+            "• It was then found they are ‘eusocial’ mammals.",
+            "• They live in colonies consisting of a queen, a few sexually active males, and a large number of workers and [[37]]",
+            "**Medical interest**",
+            "• The naked mole rats have a remarkably long life.",
+            "• Their blood vessels and [[38]] resist ageing.",
+            "• They can survive with an amount of [[39]] that would kill a person.",
+            "• They have a gene which prevents cancer. (Experiments will shortly take place to see if this gene has the same effect in [[40]])."
+          ],
+          "answers": {
+            "31": "teeth",
+            "32": "underground",
+            "33": "tunnels",
+            "34": "roots",
+            "35": "disease",
+            "36": "breed",
+            "37": "soldiers",
+            "38": "walls",
+            "39": "oxygen",
+            "40": "mice"
+          }
+        }
+      ],
+      "transcript": [
+        {"s": "Speaker 0", "t": "Now turn to Section 4. Section 4. You will hear a zoology lecturer talking about recent research on an animal called the naked mole-rat. First, you have some time to look at questions 31 to 40. Now listen carefully and answer questions 31 to 40."},
+        {"s": "Speaker 1", "t": "In this series of lectures, we’re going to look at the different ways in which living organisms are adapted to their environments. I’d like to start by describing an animal you may not have heard of before. It’s called the naked mole rat, and it’s only found on the dry plains of East Africa. As its name suggests, it’s similar to a rat, and like a rat, it’s a rodent. It’s about 10 centimeters long, and its most obvious feature is its pair of teeth, which are very large and which it can move independently, like a pair of chopsticks. So, why is it called the naked mole rat? This is because it has no fur or hair, just pink skin. Although these animals live in hot climates, they don’t need protection from the sun as they spend the whole of their lives underground. This means they’re protected from extremes of temperature as well as from predators, such as birds. They live in large groups, or colonies, which can consist of up to 300 individuals, and to live in, they build an extensive network of tunnels which can cover an area the size of a football field. They can move as quickly and as easily backwards as they can forwards, which is a useful skill for animals living in such cramped and crowded conditions. They live almost entirely on roots but are careful not to entirely consume them, leaving enough to grow again and provide them with food for months or even years. They have very weak eyes and poor hearing, but produce a twittering sound like that of a bird. The first time that a naked mole rat was documented was back in the 19th century by a German naturalist called Eduard Ruppel. But because of its unattractive appearance and bare skin, he didn’t realize it was a new species. He just assumed it had some sort of disease. It wasn’t until the 1950s that scientists really began to pay attention to this strange species. At that time, a researcher at the University of Nairobi, in East Africa, established a group of naked mole rats in her laboratory, but she couldn’t understand why they failed to breed. This mystery wasn’t solved until sometime later when DNA studies established that naked mole rats are very unusual, in fact, almost unique among mammal species. They are what’s known as eusocial mammals, meaning that, like some insects, they form colonies with a very specific organization. Each colony has one queen who produces all the offspring, together with two or three sexually active males which mate with her. All the rest of the colony are asexual and don’t mate, but they’re deployed as workers, digging for food and so on, and also as soldiers, protecting the colony from danger. In the late 1980s, an English researcher called Chris Fawkes became involved in genetic research on the naked mole rat. He was part of the team that wrote the genome of this species, but after that, he started to get interested in some special features of the physiology of this strange animal and to wonder if these had medical implications. One very striking feature of the naked mole rat is how long they live, for over 30 years. This is a very long time for a small mammal. One reason for this is that the blood vessels remain in good condition. They don’t lose their elasticity like those of other mammals. Fawkes has also found out that the muscles of naked mole rats stay in good condition throughout their lives. As you’d expect, some of the special features of the naked mole rat seem to be linked to the environment they live in. For example, because they’re crowded together in enclosed conditions with poor ventilation, they’ve developed the capacity to manage to survive when breathing air that contains a very low level of oxygen, low enough to kill a human almost instantly. In fact, the animals can even survive without breathing at all for up to 18 minutes. Another extraordinary thing about these animals, and which also contributes to their long lives, is that they appear to be resistant to cancer. A team working in the USA has identified a gene which they think makes cancer cells self-destruct. To see if it has a similar effect in other animals, they’re now planning to carry out experiments in which they introduce this gene into mice. Ultimately, there may be hope for treating humans, but that’s not going to happen for a long time. So, let’s summarize the ways these remarkable animals have adapted themselves to the harsh environment they live in. Firstly..."},
+        {"s": "Speaker 0", "t": "That is the end of the listening test. You now have 10 minutes to transfer your answers to the listening answer sheet. [pausa para la transcripción]"},
+        {"s": "Speaker 6", "t": "... you have two minutes left."},
+        {"s": "Speaker 7", "t": "You have one minute left."},
+        {"s": "Speaker 6", "t": "That is the end of the listening test."}
+      ]
+    }
+  ]
+}

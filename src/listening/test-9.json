@@ -1,0 +1,295 @@
+{
+  "test": 9,
+  "audio": "audio/test-09.mp3",
+  "sections": [
+    {
+      "n": 1,
+      "title": "John’s Ranch",
+      "groups": [
+        {
+          "type": "short",
+          "range": [1, 5],
+          "intro": [
+            "Answer the questions below. Use **NO MORE THAN THREE WORDS AND/OR A NUMBER** from the listening for each answer."
+          ],
+          "limit": { "words": 3, "number": true },
+          "items": {
+            "1": "In what month is Katherine’s birthday?",
+            "2": "What is Katherine’s last name?",
+            "3": "At what time would Katherine like the party to start?",
+            "4": "What activity is not available on the chosen date?",
+            "5": "How many people will Katherine invite to the party?"
+          },
+          "answers": {
+            "1": "May",
+            "2": "Truman",
+            "3": "6 p.m.",
+            "4": "(Horse) riding",
+            "5": "30 (people)"
+          }
+        },
+        {
+          "type": "gap",
+          "range": [6, 10],
+          "intro": [
+            "Complete the information sheet and price list for John’s outdoor center below.",
+            "Use **NO MORE THAN THREE WORDS AND/OR A NUMBER** from the listening for each answer."
+          ],
+          "limit": { "words": 3, "number": true },
+          "content": [
+            { "center": "**John’s Ranch**" },
+            { "table": [
+              ["Opening Times:", "Monday – Friday", "7 a.m. – 8 p.m."],
+              ["", "Saturday & Sunday", "8:30 a.m. - [[6]]"],
+              ["__Price List__", "", ""],
+              ["Activities", "Bonfire", "$15"],
+              ["", "Boat Tour", "[[7]] per person"],
+              ["", "Cycling Tour", "$8 per person"],
+              ["", "Hiking Tour", "$25 per person"],
+              ["", "Baking (15 people max)", "[[8]] per person"],
+              ["Food & Drinks", "Lamb on a Spit", "$35"],
+              ["", "Small Buffet", "$200"],
+              ["", "Large Buffet", "[[9]]"],
+              ["Staying Overnight", "Camping with Tents", "$40 per tent (4 people per tent)"],
+              ["", "Tipi", "$80 per tipi (20 people per tipi)"],
+              ["", "Tree House", "[[10]] (20 people)"]
+            ]}
+          ],
+          "answers": {
+            "6": "7 p.m.",
+            "7": "$6",
+            "8": "$5",
+            "9": "$400",
+            "10": "$100"
+          }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 0", "t": "In the IELTS test, you hear some recordings and you have to answer questions on them. You have time to read the instructions and questions and check your work. All recordings are played only once. The test is in four sections. Now turn to section one. Section one. You will hear a conversation between a man and a woman discussing a celebration at an outdoor center. First, you have some time to look at questions one to five. Now the full test will begin. You should answer the questions as you listen as the recording is not played twice. Listen carefully to the conversation and answer questions one to five." },
+        { "s": "Speaker 1", "t": "Good morning. Welcome to John’s Outdoor Center." },
+        { "s": "Speaker 2", "t": "Thank you." },
+        { "s": "Speaker 1", "t": "What can I do for you?" },
+        { "s": "Speaker 2", "t": "I’m looking for a suitable place to celebrate my birthday. When I drove by this place a couple of days ago, I thought this might be a good place as it is quite far from the city. It would be a really different place to be." },
+        { "s": "Speaker 1", "t": "May I ask when your birthday is?" },
+        { "s": "Speaker 2", "t": "On the 18th of May." },
+        { "s": "Speaker 1", "t": "All right. In the summer, that’s a very nice time. We would be able to use the stone oven, make a bonfire, and use the camping area if you wish to stay for the night." },
+        { "s": "Speaker 2", "t": "That sounds great." },
+        { "s": "Speaker 1", "t": "Okay. May I first take your phone number and full name before we start to talk about any further details?" },
+        { "s": "Speaker 2", "t": "Of course. My full name is Katherine Truman. That’s spelled K-A-T-H-E-R-I-N-E and T-R-U-M-A-N, and my telephone number is 0348-237-855." },
+        { "s": "Speaker 1", "t": "Got that. Thank you. So when’s the party supposed to be?" },
+        { "s": "Speaker 2", "t": "I’d like to celebrate on the 20th of May, and the party should start at 6:00 PM because I still need to work on that day and then get ready for the party, which I guess you know, will take some time." },
+        { "s": "Speaker 1", "t": "Oh dear. Working on a Saturday. I know nobody who enjoys that. Well, my calendar shows that the date is free and up to now there haven’t been any other bookings made for that day yet. However, horse riding is not available on that day as the horses will be resting. I hope that you didn’t plan to do that." },
+        { "s": "Speaker 2", "t": "Oh no, that’s fine. I think that food and a bonfire will be fine for my guests." },
+        { "s": "Speaker 1", "t": "Speaking of guests, how many people have you invited or are you intending to invite?" },
+        { "s": "Speaker 2", "t": "It’ll be 30 people." },
+        { "s": "Speaker 1", "t": "Okay." },
+        { "s": "Speaker 0", "t": "Before the conversation continues, you have some time to look at questions six to 10. Now listen carefully and answer questions six to 10." },
+        { "s": "Speaker 2", "t": "Before I book any activities for the party, I’d like to have a list of the activities that are available and their prices. My budget is $800 and I would like to stay within this boundary. This must also include the food and drinks consumed." },
+        { "s": "Speaker 1", "t": "Okay, let’s go through the price lists. So as you can see, we are open from 7:00 AM to 8:00 PM from Monday through Friday. On the weekends, however, we are open from 8:30 AM to 7:00 PM. These opening times don’t interfere with your party as you’re planning to spend the night here, aren’t you?" },
+        { "s": "Speaker 2", "t": "It depends on the price I would have to pay." },
+        { "s": "Speaker 1", "t": "Okay, so we offer various activities. To start with, we can offer to make a bonfire for $15. This money is just to pay for the wood we need." },
+        { "s": "Speaker 2", "t": "Yeah, that sounds great. I’ll definitely book the bonfire. What else is there?" },
+        { "s": "Speaker 1", "t": "There are also various tours we offer, like for instance, the boat tour, which takes between two and three hours and costs $6 per person. Then there’s the cycling tour for $8 per person and the hiking tour for $25 per person. Our special offer for the summer is baking in our newly built stone oven. This can be done in groups of up to 15 people maximum and costs $5 per person." },
+        { "s": "Speaker 2", "t": "Okay, that sounds great. Let me see. I would really like to bake, so I’ll take that. And I’ll also take the boat tour." },
+        { "s": "Speaker 1", "t": "All right. Let’s get to the food and drinks. We offer a small and a large buffet. The small one serves approximately 40 people and costs $200. While the large one costs $400 and serves 80 to a hundred people. As an extra, you can also book a lamb on a spit for $35. I think for you, I’d plan $150 for the drinks." },
+        { "s": "Speaker 2", "t": "All right, then I’ll take the small buffet please and the drinks, of course." },
+        { "s": "Speaker 1", "t": "Okay. And lastly, we offer three types of accommodation. We can offer camping with tents for $40 per tent, and they hold four people each. We also have some tipis, which are big tents that hold up to 20 people for $80 per tipi. However, our greatest attraction is the tree house for a hundred dollars. It can house up to 20 people as well." },
+        { "s": "Speaker 2", "t": "Okay. Half of my guests will drive back home, so the tree house will be perfect. Great.According to my calculations, that makes $795 in total. So that’s just under my budget." },
+        { "s": "Speaker 3", "t": "Yes, I think that’s right." },
+        { "s": "Speaker 2", "t": "Okay, thank you for that. Could we take a look at the tree house?" },
+        { "s": "Speaker 3", "t": "Of course, we can. It’s right over there." },
+        { "s": "Speaker 0", "t": "That is the end of section one. You will now have half a minute to check your answers. Now turn to section two." }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Barton Walking Tour and Evening Activities",
+      "groups": [
+        {
+          "type": "grid",
+          "range": [11, 14],
+          "intro": [
+            "Below there is a map of the town of Barton with the locations of features of interest (**A - T**) of Sharon’s walking tour marked on it. Match the locations in questions **11 - 14** with the correct locations on the map and write the correct letter (**A - T**) next to questions **11 - 14**.",
+            { "center": "**Barton Walking Tour and Evening Activities**" },
+            "[[img:t9-s2-map]]"
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T"],
+          "items": {
+            "11": "Town Museum",
+            "12": "Main Town Mosque",
+            "13": "War Memorial Fountain",
+            "14": "Barton Shopping Centre"
+          },
+          "answers": { "11": "L", "12": "S", "13": "F", "14": "R" }
+        },
+        {
+          "type": "mcq",
+          "range": [15, 16],
+          "intro": ["Choose the correct letter **A**, **B**, or **C**."],
+          "items": {
+            "15": { "stem": "For how long does Sharon estimate her walking tour of the town will last?", "options": { "A": "2½ hours", "B": "2 hours + 20 minutes", "C": "3 hours" } },
+            "16": { "stem": "How much does Sharon charge for her walking tour of the town?", "options": { "A": "20 pounds", "B": "5 pounds", "C": "Nothing" } }
+          },
+          "answers": { "15": "A", "16": "C" }
+        },
+        {
+          "type": "multi",
+          "range": [17, 20],
+          "title": "Questions 17–20",
+          "intro": ["Choose **FOUR** letters, **A - H**."],
+          "stem": "What **FOUR** things does Sharon say people can do that evening in Barton?",
+          "choose": 4,
+          "options": {
+            "A": "Watching live music",
+            "B": "Watching live football",
+            "C": "Watching films",
+            "D": "Going on a tour of the town’s theatre",
+            "E": "Watching a play at the town’s theatre",
+            "F": "Taking part in a quiz",
+            "G": "Watching some theatre performed in the town square",
+            "H": "Watching tennis on television"
+          },
+          "answer": "C, D, F, G"
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 0", "t": "Section two. You will hear a woman giving some people information about a walking tour around the town of Barton. First, you have some time to look at questions 11 to 14. Now listen carefully to the information talk and answer questions 11 to 14." },
+        { "s": "Speaker 4", "t": "Good morning, everyone. My name’s Sharon. Thanks for coming today to my walking tour of the town of Barton. First, I’d like to give you a quick overview of where we’re going to today. Right now, we’re in front of the Barton Tourist Office. From here, we’ll move down the pedestrian road towards the river. While we’re on this road, we’ll first pass the town hall on the right, and then right after that, the old town prison. Opposite the prison, we’ll see the town museum, although we won’t be visiting that this morning. When we get to the river, you’ll see the river docks where people can take boat trips up and down the River Stroud. We’ll turn right here and walk down the path next to the river. While we’re walking, we’ll first see on the right the Museum of Modern Art, and then after that, the oldest house in the town, and then just before we get to Charlton Bridge, the memorial to Sir John Barton, the founder of the town. Across the river from the Modern Art Museum, we’ll see the impressive facade of the main town mosque, which was built only 15 years ago for the Muslim population of the town. We won’t cross Charlton Bridge, but we’ll go to the right again and walk up the street, stopping at Regent Square in the center of which is the town’s war memorial fountain. There’s a great ice cream parlor there, and we can rest awhile, look at the view and eat some ice cream. When we’re done with that, we’ll take the road that goes right off the square and walk back down towards the tourist office again. While we’re walking, you’ll see Barton Shopping Mall on the right. We won’t stop there on our tour, but if you want to do some shopping, it’s only a short walk back. There are a number of interesting things to see on the left. You’ll first see the town’s famous Gothic church and then the library and sports center. For your information, the town’s train station is right behind the library as we pass it, and the cinema is next to that." },
+        { "s": "Speaker 0", "t": "You now have some time to look at questions 15 to 20. Now listen to the rest of the information talk and answer questions 15 to 20." },
+        { "s": "Speaker 4", "t": "I’ll be speaking at each of the attractions to let you know all the interesting information. So I think the tour will take around two and a half hours, and that’s including the 20-minute break for ice cream. This afternoon, I’ll be doing a three-hour walking tour of the town museum that we will pass early on in this walk. By the way, I do not charge anything for this walk and I live only by tips. If you feel the walk has been worthwhile, past walkers with me have tipped between £5 and £20. It depends on your budget and how good a job you think I’ve done. Now, just before we begin, I’ve been asked to talk a little bit about the entertainment on offer tonight around the town. Tonight is a weekday, so there’s not much in the way of live music, which someone asked me about. Nor will you find here much in the way of football as the town team only plays at the weekends. At the town cinema, there is a double-bill film with films on novels by the famous Russian novelist Leo Tolstoy. That starts at seven o’clock. We won’t see the town theater on our walk today, but there is a tour of it offered tonight as there are no performances tonight. You might be tired of tours today by then though. One fun thing to do that does not involve any walking is at the pub called The Crown. They have their weekly quiz on tonight. I often go to that myself with some friends. What I will be doing tonight though is to go to a cafe in the town’s main square where I will be watching some street theater that is scheduled this evening to start at eight o’clock. Barton is quite well known for this, so it would be an excellent and different thing to do.There is some tennis on in London too, and I told some people that they could watch that on TV in their hotel or in pubs. But I’ve been told that bad weather in London has stopped all play, so that won’t be an option anymore. So those are a few things you could consider, and maybe I’ll see you later if you do what I’m doing. Now, let’s get on with our walking tour." },
+        { "s": "Speaker 0", "t": "That is the end of section two. You will now have half a minute to check your answers." },
+        { "s": "Speaker 5", "t": "[Pause]" },
+        { "s": "Speaker 0", "t": "Now turn to section three." }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Advising Session on Fieldwork Projects",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [21, 25],
+          "intro": [
+            "Complete the table below.",
+            "Write **NO MORE THAN TWO WORDS** from the listening for each answer."
+          ],
+          "limit": { "words": 2, "number": false },
+          "content": [
+            { "center": "**Advising Session on Fieldwork Projects**" },
+            { "table": [
+              ["*Student*", "*Project*", "*Notes*"],
+              ["Steve", "How parasites affect the growth rates of potatoes.", "• Steve interacted with [[21]] to gather his data. • Steve had to rent a [[22]] himself to gather data on growth with parasites. • Steve sold his potatoes and made a profit."],
+              ["Simone", "A study of [[23]] for different tomato varieties.", "* Simone used a university greenhouse to use for growing the tomatoes."],
+              ["Robert", "Initially wanted to examine how the [[24]] of soil affects plant growth, but due to a late start he switched to the growing techniques used by apple farmers.", "• The apple project had better success due to the later [[25]]. • Robert visited many apple growers near his parents’ house."]
+            ]}
+          ],
+          "answers": {
+            "21": "farmers",
+            "22": "Field",
+            "23": "growth (rates)",
+            "24": "Acidity",
+            "25": "Season"
+          }
+        },
+        {
+          "type": "gap",
+          "range": [26, 30],
+          "intro": [
+            "Complete the sentences in the notes below.",
+            "Use **NO MORE THAN THREE WORDS AND/OR A NUMBER** from the listening for each answer."
+          ],
+          "limit": { "words": 3, "number": true },
+          "content": [
+            "Projects __MUST__ be submitted as a [[26]] to Professor Evans by the 28th February and by email to Mrs. Roberts by the [[27]]. Mrs. Roberts’ email address is in the course literature, website and on the dept. noticeboard.",
+            "Word limit is increased this year by [[28]] words (now 10,000, not including [[29]]).",
+            "Prof. Evans’ advice should stop projects from failing, but if they aren’t good enough, the failing student will not [[30]]. The project can be redone (or a new one done) the next year."
+          ],
+          "answers": {
+            "26": "hard copy",
+            "27": "30th April",
+            "28": "2000",
+            "29": "(the) appendices",
+            "30": "graduate"
+          }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 0", "t": "Section three. You will hear three students and a lecturer discussing the students’ agriculture projects. First, you have some time to look at questions 21 to 25." },
+        { "s": "Speaker 5", "t": "[Pause]" },
+        { "s": "Speaker 0", "t": "Now listen carefully and answer questions 21 to 25." },
+        { "s": "Speaker 6", "t": "Now, you three have come to tell me how you’re getting on with your agriculture projects." },
+        { "s": "Speaker 7", "t": "That’s right, Professor Evans." },
+        { "s": "Speaker 6", "t": "So to start with, I’d like you to tell me about the collection of your primary data. Would you like to start, Steve?" },
+        { "s": "Speaker 8", "t": "Of course. I’ve been studying how parasites affect the growing of potatoes in this part of the world. In order to gather data, I’ve liaised with some farmers local to the university, and they’ve nearly all allowed me to work in their fields and collect data. The problem is that all the farmers around here use insecticides that kill the parasites. It’s been easy, therefore, to collect information on farms with no parasite dangers, but it was a challenge to get information" },
+        { "s": "Speaker 6", "t": "did you" },
+        { "s": "Speaker 8", "t": "on farms that had parasites." },
+        { "s": "Speaker 6", "t": "How manage to get the parasite data, then?" },
+        { "s": "Speaker 8", "t": "I had to rent a field away from other farms and plant potatoes myself. I, of course, did not use insecticides, and I’ve managed to collect enough data to compare with the other data on farms with insecticides." },
+        { "s": "Speaker 9", "t": "Wasn’t that expensive, Steve?" },
+        { "s": "Speaker 8", "t": "Not too bad, actually. There was an initial outlay for the rental and the planting, but I managed to do a deal with a local farmer who harvested and sold them. He paid me for them, and as they were bio potatoes with no insecticides, I got a good price and I even made a small profit. My housemates and I also ate potatoes every day for a couple of weeks." },
+        { "s": "Speaker 6", "t": "How about you, Simona?" },
+        { "s": "Speaker 7", "t": "Well, as you know, I’m doing a project on growth rates in different varieties of tomatoes. Now, the weather here is not so good for tomatoes, but the University Botanical Garden assigned me an area in one of their greenhouses, and so I was able to grow plenty of varieties. And I had lots of success with gathering data for my project. Like Steve, my house ate lots of tomatoes through the early summer." },
+        { "s": "Speaker 6", "t": "So Robert, how did you get on?" },
+        { "s": "Speaker 9", "t": "I had a lot of initial problems. I wanted to look at different soils and how acidity affected growth of certain plants. I started a bit too late and I wasn’t able to get agreements with different places about being able to use the different bits of land with the acidities that I wanted." },
+        { "s": "Speaker 6", "t": "How did you deal with that?" },
+        { "s": "Speaker 9", "t": "In the end, I just had to ditch that idea and go for my plan B. This was about the growing techniques of apple farmers. The season starts later, so I had enough time to prepare and contact farmers. Where I live at home with my parents is an important apple growing area, so I was able to use my holidays to gather all the information there." },
+        { "s": "Speaker 0", "t": "You now have some time to look at questions 26 to 30. [Pause] Now listen to the rest of the discussion and answer questions 26 to 30." },
+        { "s": "Speaker 6", "t": "So do you have any questions about the rest of the work that you need to do on the project?" },
+        { "s": "Speaker 8", "t": "We’re a little confused about when we need to be finished by. We’ve heard different things." },
+        { "s": "Speaker 6", "t": "You need to give me a hard copy by the 28th of February next year. I then have a week to read your projects and make comments on what you need to do to improve. You then have until the 30th of April to submit the final version to the university. Remember as well that you can’t give in a hard copy this year. It has to be submitted by email to the course administrator, which is Mrs. Roberts. Her email address is in the course literature, on our website and on the department noticeboard." },
+        { "s": "Speaker 7", "t": "There’s no mention in the project guide about a word limit. Is there one?" },
+        { "s": "Speaker 6", "t": "Yes, there is. It’s in the project guide, but it’s hard to find.... will make it clearer next year. Last year, the word limit was deemed insufficient at 8,000 words, so this year it’s been increased by 2,000. We hope that this will give you all the scope to do a good job. Be careful not to waffle though or we’ll be cutting it down by a thousand next year for those after you. The limit also doesn’t include the appendices, which is another change from last year. There’s no limit on them, but please be sensible and don’t give me 20,000 words." },
+        { "s": "Speaker 10", "t": "I’ve a last question, Professor. What happens if our projects are not good enough?" },
+        { "s": "Speaker 6", "t": "That doesn’t happen very often, Robert. I’ll get to read the first drafts and unless the project is incredibly bad, I can give you the advice needed to get it up to scratch. If in the end it really does fail, then you won’t be able to graduate. You’d have to redo the project or do a different one the next year in your own time." },
+        { "s": "Speaker 10", "t": "Thanks, Professor." },
+        { "s": "Speaker 11", "t": "That is the end of section three. You will now have half a minute to check your answers. Now turn to section four." }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "The Rorschach Inkblot Test",
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [31, 35],
+          "intro": ["Choose the correct letter **A**, **B**, or **C**."],
+          "items": {
+            "31": { "stem": "The Rorschach Test was initially based on", "options": { "A": "how schizophrenics see things differently.", "B": "schizophrenics self-analysis of themselves.", "C": "observation of the schizophrenic child of a well-known psychologist." } },
+            "32": { "stem": "The Rorschach Test uses", "options": { "A": "a unique method in how it assesses people.", "B": "a common method to assess people.", "C": "a method that is nowadays very infrequently administered to assess people." } },
+            "33": { "stem": "The Rorschach ink blots are", "options": { "A": "first shown to subjects the day before the test.", "B": "first shown to subjects an hour before the test.", "C": "not supposed to be ever made public before the test." } },
+            "34": { "stem": "The accuracy of the Rorschach Test", "options": { "A": "has been demonstrated through careful experimentation.", "B": "is now largely discredited.", "C": "is widely used in the United States." } },
+            "35": { "stem": "Interpretation of the Rorschach Test’s results", "options": { "A": "is still disputed among psychologists and psychiatrists using the test.", "B": "is now universally done using the Exner Comprehensive System.", "C": "are often confirmed using modern personality tests." } }
+          },
+          "answers": { "31": "A", "32": "C", "33": "C", "34": "B", "35": "A" }
+        },
+        {
+          "type": "gap",
+          "range": [36, 40],
+          "intro": [
+            "Complete the sentences below.",
+            "Use **NO MORE THAN TWO WORDS** from the listening for each answer."
+          ],
+          "limit": { "words": 2, "number": false },
+          "content": [
+            "In the Exner Comprehensive System, the structural summary results are meant to demonstrate [[36]] associated with the different responses given.",
+            "The rigidity of method used when delivering the Rorschach Test is supposed to keep [[37]] in results to a minimum.",
+            "The person delivering the Rorschach Test will rarely provide any [[38]] to the test taker.",
+            "Nowadays, the tests are recorded, but in the past, a particular [[39]] was created for people to write notes during the Rorschach Test.",
+            "Efforts are made to stop test takers becoming [[40]] or distracted, as this can create unreliable results."
+          ],
+          "answers": {
+            "36": "(personality) characteristics",
+            "37": "Variance",
+            "38": "Guidance",
+            "39": "(special) shorthand",
+            "40": "nervous"
+          }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 11", "t": "Section four. You will hear part of a psychology lecture on the Rorschach test. First, you have some time to look at questions 31 to 40. Good Today afternoon, everyone. we continue our overview of the different psychological tests that have been used over the years in order to profile people and explain out-of-the-ordinary behavior. The test we’ll look at today is the Rorschach test. The Rorschach test is a projective psychological test developed in 1921 to measure thought disorder. It was first developed from the observation that schizophrenia patients often interpret ambiguous images in very unusual ways. In the test, a participant is shown a series of 10 inkblot cards and is directed to respond to each by saying what the inkblots look like. The Rorschach test is practically the only test that evaluates in this way. The Rorschach inkblots are supposed to remain secret so as not to pollute the test population. The theory behind the test created by Hermann Rorschach is that a test-taker’s spontaneous or unrehearsed responses reveal deep secrets or significant information about his or her personality or innermost thoughts. These days, nearly all psychologists avoid using the method applied to the Rorschach as it is regarded as unreliable at best and dangerously misleading at worst. A few psychologists, however, still believe in it as a valid diagnostic tool despite the availability of more modern and sophisticated personality tests. Psychologists who do still see value in the Rorschach test frequently argue amongst themselves as to the manner of its interpretation, the meaning of the results and even its validity. Several different schools of thought have even sprung up for the interpretation of the results, muddying the waters even further. For those still using the Rorschach test, the Exner Comprehensive System is one of the more popular scoring methodologies in use today. Based on the work of John E. Exner, responses are scored using a number of categories. There is a reference to the level of vagueness of the answer or if there is a synthesis of multiple images in the blot. What makes a subject say what he or she does is also significant. For example, how the respondents explain how the inkblots resemble what they think it resembles is very significant. Amongst other criteria, the degree of mental organizing activity that is involved in producing the response and any illogical, incongruous or incoherent aspects of responses are also used in evaluation. Using the scores for these categories, the examiner then performs a series of mathematical calculations producing a structural summary of the test data. The results of the structural summary are claimed to show personality characteristics that have been demonstrated to be related to different kinds of responses. Both the calculations of scores and the interpretation are often done electronically. The Rorschach test is supposed to be administered in a very particular and rigid format in order to minimize variance in the results. Like the cards themselves, the test procedure itself is also supposed to be kept secret from the general public.... in the standard test protocol, test takers are given the cards one at a time in a specific order. And the psychologist is supposed to place them directly in the taker’s hands facing up and in a particular orientation. The order is not supposed to vary. The genuine Rorschach cards are numbered on the back primarily for the psychologist’s use. If takers notice the numbers or remark on them, a note is supposed to be made about this. The cards themselves are large, about seven by nine inches, and are made of stiffened cardboard or, in modern variations, a textured plastic that mimics the feel of cardboard. Five of the cards have purely black and white images. Two of the cards are black, white, and red. And the last three cards have various colors of ink used in the blots. The test giver will almost never give any guidance. They will instead tell the test takers that they’re free to do whatever they like with the card. About 50% of people who take the test flip or rotate the cards. It’s reported that some psychologists will penalize people in terms of the results if they don’t turn the cards around or upside down. During the test, the psychologist or psychiatrist will record everything the taker says. In general, questioning or asking about the results are supposed to have significance to the test provider, as does asking nearly anything about the blots themselves. It used to be that the notes were taken in a special shorthand that was specifically developed for the Rorschach test. Although these days, many psychologists rely more on recordings and will only make cursory handwritten notes during the test. Often the psychologist will attempt to shield his or her note-taking from the takers so as not to distract them or make them nervous, as this would create a skew in the test results." },
+        { "s": "Speaker 12", "t": "That is the end of Section Four. You will now have half a minute to check your answers. That is the end of Listening Test two. In the IELTS test, you would now have 10 minutes to transfer your answers to the listening answer sheet." }
+      ]
+    }
+  ]
+}

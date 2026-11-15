@@ -1,0 +1,366 @@
+{
+  "test": 2,
+  "passages": [
+    {
+      "n": 1,
+      "title": "The Father of English Geology",
+      "paragraphs": [
+        "Wiliam Smith, 1769–1839, has been called the ‘Father of English Geology’. His pioneering map of 1815, depicting the geology of England, Wales and part of Scotland, helped to shape the economic and scientific development of Britain, just as the country was experiencing the Industrial Revolution.",
+        "Wiliam Smith was born in rural Oxfordshire in 1769. The son of the village blacksmith, Smith was the eldest of five children. After elementary education at the village school where he developed a liking for geometry and drawing, he decided to teach himself the skills of surveying, possibly because there were an increasing number of openings for that profession. At the age of 18, he was employed by Edward Webb, a surveyor n a nearby town, and subsequently, in 1791, he set up a business on his own.",
+        "As a boy, Smith had developed an interest in the exposures of rock and the fossils which were to be found locally. As an adult, his surveys of land that would be suitable for building canals, and for sources of building stone and coal in other parts of England, led to a great increase in his knowledge and awareness of various geological features.",
+        "As he travelled, he found the strata* that he was familiar with in the south of England were repeated in other areas, with some outcrops – the rocks emerging above ground – stretching right across the country. Coal miners were already aware of the occurrences of regular successions of workable coal seams. But on a larger scale, Smith began to recognise that sedimentary rocks could be identified by the fossils they contained, and that these rocks were always arranged in the same order. Smith’s discovery that beds of rocks can be distinguished by the fossils found in them was a concept virtually unrecognized by geologists of that period.",
+        "Working on this principle, Smith was able to draw up a table of successive strata which could be applied in any other locality – an early version of the geological column.",
+        "By 1799, Smith was using both his skills as a surveyor and the knowledge gained from his observations in the field to draw up a geological map. This first map was circular in form, covered the area around the city of Bath, and was exhibited at the Bath Agricultural Society. At the same time, Smith continued to plan the publication of a treatise describing his discoveries, but financial support proved difficult to find. In 1801, Smith produced a small geological map of England and Wales which illustrated the outcrops of seven geological formations.",
+        "Other maps were produced for exhibition at various meetings, but it was not until 1815 that, with input from the enterprising map publisher John Cary, Smith’s first major map actually appeared. It was called ‘A delineation of the Strata of England and Wales with part of Scotland; exhibiting the Collieries and Mines, the Marshes and Fen Lands originally overflowed by the Sea, and the varieties of soil according to the variations in the substrata, illustrated by the most descriptive names’.",
+        "Based on Cary’s new topographical map at the scale of five miles to the inch, Smith’s map showed the outcrops of some twenty formations. Other publications on stratigraphy followed, including his major mapping publication ‘Geological Atlas’, comprising maps of 21 counties. Published between 1819 and 1824, these maps represent a first attempt at systematic sheet mapping of England and Wales.",
+        "Despite the importance of his ideas and publications, Smith continued to find recognition elusive and it was not until 1831, when the Geological Society awarded him the first Wollaston Medal, that the importance of his achievements was finally acknowledged. In his citation, the geologist Adam Sedgwick called Smith the ‘Founder of English Geology’.",
+        "From time to time Smith’s expertise continued to be drawn upon for major projects. In 1838 he was commissioned to accompany Henry De la Beche and Sir Charles Barry on a tour of the principal stone quarries to recommend the stone to be used in the rebuilding of the Houses of Parliament, which had been destroyed by fire in 1835. The practical nature of the commission provides a link between Smith’s work and that of De la Beche and his newly founded Geological Survey.",
+        "The main focus of Smith’s work was to apply his observations and ideas to the everyday needs of the canal builders, quarry- and mine-owners, landowners and agriculturists who were underpinning the Industrial Revolution. His understanding of geology enabled him to predict where coal or different types of stone could be found, which was very useful for mining companies. He talked at meetings about geology and its valuable contribution to the national economy.",
+        "The methods involved in map production have developed and the ways in which people access maps have altered radically since Smith’s time. However, his conviction that geological mapping is of vital importance at many levels and in many areas of the nation’s society, science, and industry is as true today as it was two centuries ago, when he conceived his original geological map. It is as vital for today’s industries to be provided with accurate geological map data as it was in Smith’s time."
+      ],
+      "footnotes": [
+        "*Strata: layers of rock in the ground"
+      ],
+      "groups": [
+        {
+          "type": "tfng",
+          "range": [1, 6],
+          "intro": [
+            "Do the following statements agree with the information given in the text?",
+            "In boxes 1 - 6 below, write",
+            "**TRUE**\tif the statement agrees with the information",
+            "**FALSE**\tif the statement contradicts the information",
+            "**NOT GIVEN**\tif there is no information on this"
+          ],
+          "items": {
+            "1": "At the time when Smith left school, there was a growing demand for surveyors.",
+            "2": "When Smith was 18, he formed a partnership with another surveyor.",
+            "3": "Smith’s interest in rocks and fossils was encouraged by his school.",
+            "4": "Smith noticed that the same types of rocks were visible in a number of places.",
+            "5": "Smith believed that the order of strata in the ground varied from locality to locality.",
+            "6": "Smith’s map of Bath was commissioned by the Bath Agricultural Society."
+          },
+          "answers": {"1": "True", "2": "False", "3": "Not Given", "4": "True", "5": "False", "6": "Not Given"}
+        },
+        {
+          "type": "gap",
+          "range": [7, 13],
+          "intro": [
+            "Complete the sentences below.",
+            "Choose **ONE WORD ONLY** from the text for each answer.",
+            "Write your answers in boxes 7 - 13 below."
+          ],
+          "content": [
+            "Around 1799, Smith struggled to raise money for a publication about his [[7]].",
+            "Unlike other maps, Smith’s 1815 map was produced with help from a [[8]].",
+            "Smith’s ‘Geological Atlas’ contained maps of a number of the [[9]] of England and Wales.",
+            "Smith did not receive [[10]] for his work until 1831.",
+            "In 1838 Smith advised on the most suitable [[11]] for rebuilding the Houses of Parliament.",
+            "Smith made speeches about how the country’s [[12]] benefited from geology.",
+            "Nowadays, geological maps still have the [[13]] that Smith believed they had."
+          ],
+          "limit": {"words": 1, "number": false},
+          "answers": {"7": "discoveries", "8": "publisher", "9": "counties", "10": "recognition", "11": "stone", "12": "economy", "13": "importance"}
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "What’s happening to our food?",
+      "standfirst": "Is the way we produce and process food making it less nourishing than in our grandparents’ day?",
+      "paragraphs": [
+        {"l": "A", "t": "We now know a lot about what food does to the body and the importance of a healthy diet. But what if modern intensive farming methods have affected the mineral and vitamin content of what we eat? Donald Davis, at the University of Texas, has found notable declines in nutrients in crops including tomatoes, eggplants and squash. Davis blames agricultural practices that emphasise quantity over quality. High-yielding crops produce more food, more rapidly, but they can’t make or absorb nutrients at the same pace, so the nutrition is diluted. ‘It’s like taking a glass of orange juice and adding water to it. If you do that, the concentration of nutrients that was in the original juice drops,’ he says. But the idea that modern farming produces less nourishing crops remains controversial, since nutrient levels can vary widely according to the variety of plant, the year of harvest and the time of harvest."},
+        {"l": "B", "t": "But intensive farming has also led to a huge increase in food supply, which has undoubtedly had a positive effect on our diet and health. ‘Evidence suggests that some nutrients have fallen, particularly trace elements such as copper in vegetables,’ says Paul Finglas, at the Institute of Food Research in Norwich. ‘Foods are now bred for yield, and not necessarily nutritional composition. But I don’t think that is a problem, because we eat a wider range of foods today than we did 10 years ago, let alone 40 years ago’. Eric Decker, professor of food science at the University of Massachusetts in Amherst, agrees. If nutrients are declining, the losses are insignificant, he says. ‘Over the last century, lifespans have got longer, people are bigger and stronger, and a lot of that has to do with the food supply being better.’ Even Davis agrees that any differences in nutrient levels are relatively small. ‘Despite their declines, fruit and vegetables are still our richest source of many nutrients, and you can make up for it by eating more,’ he says. ‘But we know that many people don’t get the recommended amounts of nutrients such as iron, magnesium, and calcium. They aren’t overt deficiencies in the usual sense, but they increase susceptibility to lots of different problems.’"},
+        {"l": "C", "t": "In addition to changes in its production, food is being transported for ever-increasing distances. Fruit and vegetables in supermarkets might look shiny and fresh, but often they were picked several days earlier. Some nutrients, particularly vitamin C and folic acid, begin to deteriorate as soon as picking happens, but manufacturers can take action to minimise this. ‘Lots of these reactions are driven by enzymes,’ says Carol Wagstaff, from the University of Reading, UK, who points out that chilling is the best way of slowing down such reactions. That said, if you are choosing between organic fruit or vegetables from a distant country or locally grown, non-organic ones, always opt for home-grown, she says. ‘From a nutritional standpoint, go for the shortest possible supply chain rather than the production method.’"},
+        "Many kinds of mass–produced fruit and veg – most famously tomatoes – are harvested unripe before being transported to supermarkets. Wagstaff agrees that this may cause some loss of flavor, compared with a tomato that you have grown at home, and left on the plant until it’s absolutely ready to eat. ‘But there’s no way you could do that at a commercial level, because of the bruising and other types of damage that would occur if ripe fruits were transported through a typical supply chain,’ she says. In addition, each method of shipping and storing foods has different effects on the compounds they contain. Vitamin C, for example, breaks down in the dark, whereas glucosinolates – found in vegetables like cabbage – deplete in the light.",
+        {"l": "D", "t": "Surprisingly, frozen fruit and vegetables are often nutritionally better than fresh. ‘Frozen peas are much more nutritious than those you buy ready to shell,’ says Catherine Collins, principal dietician at St George’s Hospital in London. What’s more, frozen foods often have fewer additives. ‘Freezing is a preservative,’ she says. Similarly, processing has become a maligned word in the context of food, but there are some cases where it enhances a food’s health benefits. For example, lycopene – a compound tomatoes are rich in, and which has been shown to protect against certain diseases – is much more readily absorbed by humans from tomato paste than fresh tomatoes. A recent trend is the sale of ‘fresh-cut’ fruit and vegetables – peeled potatoes, ready chopped carrots and bagged salads. One in five adults in the UK regularly buys fruit and vegetables in this form every week, according to market research firm Mintel. Surely this cutting and peeling speeds up the degradation of nutrients? ‘There is a chance that ready prepared vegetables may have a lower content of some vitamins,’ says Judy Buttriss, of the British Nutrition Foundation in London. ‘But if their availability means that such vegetables are consumed in greater quantities, then the net effect is beneficial.’"},
+        {"l": "E", "t": "The bottom line is that although aspects of today’s food production, processing and storage might make what we eat a bit less nutritious, they are also making foods more available – and this is far more important. ‘The most important thing you can do is eat more fruits, vegetables and wholegrains, and cut down on highly refined, processed foods, vegetable oils and added sugars,’ says Davis. He believes this will make a far greater difference to us than worrying about growing methods and transportation."}
+      ],
+      "groups": [
+        {
+          "type": "grid",
+          "range": [14, 18],
+          "intro": [
+            "Reading Passage 2 has 5 sections, A - E.",
+            "Which section contains the following information?",
+            "Write the correct letter, A - E, in boxes 14 - 18 below.",
+            "**NB**\tYou may use any letter more than once."
+          ],
+          "letters": ["A", "B", "C", "D", "E"],
+          "items": {
+            "14": "an admission that if one type of food is harvested too soon, its taste may be affected",
+            "15": "the view that there is not a great difference between the quantity of nutrients in our food now and in the past",
+            "16": "a comparison which illustrates why developments in agriculture may reduce the amounts of nutrients in foods",
+            "17": "a warning that customers could be deceived by the attractive appearance of a fruit or vegetable",
+            "18": "evidence of the popularity of a new development in food processing which aims to save customers trouble"
+          },
+          "answers": {"14": "C", "15": "B", "16": "A", "17": "C", "18": "D"}
+        },
+        {
+          "type": "match",
+          "range": [19, 22],
+          "intro": [
+            "Look at the following statements (Questions 19 - 22) and the list of people below.",
+            "Match each statement with the correct person, **A - F.**",
+            "Write the correct letter, **A - F**, in boxes **19 - 22** below."
+          ],
+          "options": {
+            "title": ["**List of people**"],
+            "list": {"A": "Donald Davis", "B": "Paul Finglas", "C": "Eric Decker", "D": "Carol Wagstaff", "E": "Catherine Collins", "F": "Judy Buttriss"},
+            "after": false
+          },
+          "items": {
+            "19": "People are more likely to become ill if they have low levels of some nutrients.",
+            "20": "Making healthy foods easy to cook may be more important than their vitamin content.",
+            "21": "An improved diet has made people nowadays live longer and be healthier than in the past.",
+            "22": "People’s diets are more varied now than they were in the past."
+          },
+          "answers": {"19": "A", "20": "F", "21": "C", "22": "B"}
+        },
+        {
+          "type": "gap",
+          "range": [23, 26],
+          "intro": [
+            "Complete the summary below.",
+            "Choose **ONE WORD ONLY** from the text for each answer.",
+            "Write your answers in boxes **23 - 26** below."
+          ],
+          "content": [
+            {"center": "**Food transportation**"},
+            "In order to prevent loss of nutrients when transporting fruit and vegetables, chilling is used to slow down the effect that [[23]] have on them.",
+            "Some foods, such as tomatoes, must be picked before they are ripe to avoid problems such as [[24]] during transportation.",
+            "Other foods, such as cabbage, lose nutrients when kept in the [[25]]. Vegetables such as [[26]], which are picked fresh and transported to the supermarket, may be less nutritious than those which are frozen."
+          ],
+          "limit": {"words": 1, "number": false},
+          "answers": {"23": "enzymes", "24": "bruising", "25": "light", "26": "peas"}
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Rewilding",
+      "standfirst": "Ecologist Derek Gow looks at the challenges of ‘rewilding’ – restoring areas of land to the wild and reintroducing their original animal species",
+      "paragraphs": [
+        "In Holland they have developed a creative landscape philosophy called ‘New Nature’, and the most iconic illustration of this is the site called the Oostvaardersplassen, near Amsterdam. Here, throughout 6,000 enclosed hectares, feral Heck bulls excavate amphibian ponds with their hooves and horns, while stags and stallions battle fiercely for possession of herds of females. These creatures present a living vision that many ‘rewilders’ adore. Although this project may present a primeval impression, in reality it is a completely artificial though courageous creation, limited by fences, budgets, an adjacent main railway line, surrounding land users and fickle political support. Less than a lifetime ago the landscape these ‘wild’ herbivores now occupy was the bed of the North Sea.",
+        "Despite the contention that surrounds such projects, the Oostvaardersplassen has produced some inspirational results. Spoonbills have returned to breed in ever increasing numbers, creating a surplus population which has overlapped back into Britain. Sea eagles have raised their first nestlings in centuries, nourished by the ample supply of deer that the site affords. Projects of this type, which restore key species or re- engineer landscapes to allow natural processes such as seasonal flooding or forest fires to reoccur, have demonstrated that when nature is given free rein, the results which arise can be truly spectacular. Are we, however, prepared to live in landscapes where these processes, even if appropriately modified, become part of our own experience?",
+        "While space is without a doubt one of the biggest obstacles facing rewilders, a range of structural, social and cultural issues can also conspire to hinder change. As an example, I have been involved with the restoration of the Eurasian beaver – a large rodent that builds complex structures from wood, stones and mud across rivers – in Britain since the early 1990s. Although they once had a world range which extended from Britain to China and numbered tens of millions, beavers were hunted virtually to extinction by humans as a result of an insatiable demand for their fur, scent glands and meat. They have been widely reintroduced throughout much of their former European range as an awareness of their critical function in the creation of wetland habitats has developed. Beaver-generated landscapes also play a significant part in the retention and purification of water.",
+        "There is an abundance of entirely suitable beaver habitat available in Britain, and despite the fact that occasional conflicts will arise between beavers’ engineering activities and human land use, European experience again demonstrates quite ably that these conflicts are manageable. Despite this well-established knowledge, the restoration of beavers in Britain has proven to be a pitifully slow process. Political apathy and indifference have coupled with the total lack of knowledge of opponents who simply want no change to the status quo. The official trials in Scotland and England have focused on the creation of tiny populations which remain extremely fragile.",
+        "If a species as benevolent as the beaver presents a significant challenge, then how much more difficult will it be to restore predators? While science and experience may dictate that wolves pose no significant threat to humans, their tentative re-colonisation of many western European countries over the course of the last few decades has often evoked a primal response. Farmers’ groups have trapped them in pits in France and burnt them to death; hunters have poisoned them for killing __‘their’__ deer; kindergarten teachers have implored forest authorities to remove them from the landscape to ensure that this medieval menace does not lurk […] go to school on a winter’s morning. Attitude change, it would seem, is one not easily turned round by knowledge.",
+        "Any start to rewilding is therefore likely to be humble. Despite a measured approach, it is probable that fishermen and their strident support groups may not welcome the addition of the pelican, a 15kg water bird, to the large number of predators which they already detest. The scientific community may dislike the pragmatism required on a semi-industrial scale to restore small species to remake the base of essential food chains if newly available habitats emerge. Many farmers, despite the sums they would be paid, will not wish to see their once-drained bogs rehydrated, their dead animals consumed by sea eagles or their pastures revert to scrub.",
+        "In the end it comes down to changing patterns. We have moulded the landscapes of the world as a species to suit our own passing needs, predilections and pleasures. While change is commonly opposed on whatever basis arises, change is nevertheless a constant in life. It is likely that ‘rewilding’ or ‘New Nature’ – call it what you will – could become a base movement which affords a fresh opportunity to approach nature conservation in a fashion which will, over time, be all the more rewarding for the surprises it presents."
+      ],
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [27, 31],
+          "intro": [
+            "Choose the correct letter, A, B, C or D."
+          ],
+          "items": {
+            "27": {"stem": "What does the writer say about the Oostvaardersplassen in the first paragraph?", "options": {"A": "It is not a typical example of a successful rewilding project.", "B": "It is not an ecologically sustainable project in the long term.", "C": "It is not a true reconstruction of how the area originally was.", "D": "It is not faithful to the principles of its underlying philosophy."}},
+            "28": {"stem": "What is the writer’s attitude towards the Oostvaardersplassen?", "options": {"A": "admiration for what it has achieved", "B": "disappointment over its inevitable limitations", "C": "optimism that the project will be imitated elsewhere", "D": "concern about the choice of species introduced there"}},
+            "29": {"stem": "What point about beavers is emphasised in the third paragraph?", "options": {"A": "Their numbers are falling dramatically.", "B": "They play a key role within local ecosystems.", "C": "They require a very specific kind of habitat in order to survive.", "D": "There are environmental problems associated with their reintroduction."}},
+            "30": {"stem": "The writer refers to beavers in the fourth paragraph in order to provide an", "options": {"A": "indication of the likely resistance to the reintroduction of other species.", "B": "illustration of a species that urgently needs to be restored to its habitat.", "C": "example of some lessons learnt about how not to try to reintroduce species.", "D": "example of a species whose restoration has faced more problems than most."}},
+            "31": {"stem": "By putting inverted commas ‘ ’ around the word ‘their’ in line 49, the writer suggests that", "options": {"A": "he has some sympathy for the hunters’ situation.", "B": "there is some doubt as to who the deer belong to.", "C": "restoration of wolves caused harm to local wildlife.", "D": "the hunters have no right to claim ownership of the deer."}}
+          },
+          "answers": {"27": "D", "28": "A", "29": "B", "30": "C", "31": "D"}
+        },
+        {
+          "type": "bank",
+          "range": [32, 36],
+          "intro": [
+            "Complete the summary using the list of words, **A - H**, below.",
+            "Write the correct letter, **A - H**, in boxes **32 - 36** below."
+          ],
+          "content": [
+            {"center": "**Problems of Rewilding Projects**"},
+            "Rewilding projects have to deal with numerous challenges. For example, the reintroduction of beavers to Britain has faced [[32]] from government ministers together with [[33]] on the part of opponents to the scheme. Where wolves have been reintroduced in western Europe, there has been widespread [[34]] against these animals among local people, despite clear [[35]] that the species poses virtually no [[36]] to them."
+          ],
+          "options": {
+            "list": {"A": "advice", "B": "ignorance", "C": "danger", "D": "wildlife", "E": "damage", "F": "prejudice", "G": "evidence", "H": "disinterest"}
+          },
+          "answers": {"32": "H", "33": "B", "34": "F", "35": "G", "36": "C"}
+        },
+        {
+          "type": "ynng",
+          "range": [37, 40],
+          "intro": [
+            "Do the following statements agree with the claims of the writer in the text?",
+            "In boxes **37 - 40** below, write",
+            "**YES**\tif the statement agrees with the claims of the writer",
+            "**NO**\tif the statement contradicts the claims of the writer",
+            "**NOT GIVEN**\tif it is impossible to say what the writer thinks about this"
+          ],
+          "items": {
+            "37": "Beaver restoration in Britain is being held back by a lack of appropriate land.",
+            "38": "Scientists have tried to persuade local residents of the benefits of restoring wolves.",
+            "39": "Financial incentives will encourage most farmers to welcome rewilding on their land.",
+            "40": "The results of rewilding will be unpredictable."
+          },
+          "answers": {"37": "No", "38": "Not Given", "39": "No", "40": "Yes"}
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "1": {
+      "quote": "...he decided to teach himself the skills of surveying, **possibly because there were an increasing number of openings for that profession**.",
+      "explanation": "Đúng là có **nhu cầu tăng lên**, nên Smith mới học đo đạc → khẳng định **đúng**."
+    },
+    "2": {
+      "quote": "At the age of 18, he was **employed** by Edward Webb, a surveyor...",
+      "explanation": "Smith **làm thuê**, không phải **hợp tác** → khẳng định **sai**."
+    },
+    "3": {
+      "quote": "After elementary education... he developed a liking for geometry and drawing...” “As a boy, Smith had developed an interest in the exposures of rock and the fossils...",
+      "explanation": "Không có thông tin nói **trường học khuyến khích** việc đó. Câu chỉ nói sở thích đó đến khi còn nhỏ, nhưng không nói do **ai hoặc yếu tố nào** khơi dậy → **KHÔNG ĐƯỢC ĐỀ CẬP** → **NOT GIVEN** là đúng."
+    },
+    "4": {
+      "quote": "...he found the strata that he was familiar with... were repeated in other areas...",
+      "explanation": "Rõ ràng là Smith thấy **cùng lớp đá xuất hiện ở nhiều nơi** → khẳng định **đúng**."
+    },
+    "5": {
+      "quote": "...these rocks were always arranged in the same order.” “...a concept virtually unrecognized by geologists...",
+      "explanation": "Smith tin rằng **trật tự các lớp đá luôn giống nhau** → khẳng định **sai**."
+    },
+    "6": {
+      "quote": "...was exhibited at the Bath Agricultural Society.",
+      "explanation": "Chỉ nói **trưng bày**, không hề nói là **được đặt làm bởi** hội đó → không đủ thông tin → **NOT GIVEN**."
+    },
+    "7": {
+      "quote": "...he attempted to plan the publication of a treatise describing his **discoveries**, but financial support proved difficult to find.",
+      "explanation": "Smith **khó khăn về tài chính** khi muốn xuất bản tác phẩm mô tả **khám phá** của mình."
+    },
+    "8": {
+      "quote": "...with input from the enterprising map **publisher** John Cary, Smith’s first major map actually appeared.",
+      "explanation": "Map năm 1815 được làm với sự giúp đỡ của một **publisher**."
+    },
+    "9": {
+      "quote": "...comprising maps of 21 **counties**.",
+      "explanation": "Geological Atlas bao gồm bản đồ của nhiều **quận/hạt (counties)**."
+    },
+    "10": {
+      "quote": "...Smith continued to find recognition elusive and it was not until 1831...",
+      "explanation": "Đến năm 1831, Smith mới nhận được **sự công nhận** cho công trình của mình."
+    },
+    "11": {
+      "quote": "...to recommend the **stone** to be used in the rebuilding of the Houses of Parliament.",
+      "explanation": "Ông tư vấn về loại **đá** phù hợp nhất."
+    },
+    "12": {
+      "quote": "...valuable contribution to the national **economy**.",
+      "explanation": "Các bài phát biểu nói về lợi ích của địa chất với **kinh tế** quốc gia."
+    },
+    "13": {
+      "quote": "...it is as vital for today’s industries to be provided with accurate geological map data as it was in Smith’s time.",
+      "explanation": "Bản đồ địa chất ngày nay vẫn giữ được **tầm quan trọng** như thời Smith."
+    },
+    "14": {
+      "quote": "...most famously tomatoes – are harvested unripe before being transported... this may cause some loss of flavor...",
+      "explanation": "Nói về việc thu hoạch quá sớm có thể ảnh hưởng đến hương vị của thực phẩm → đoạn C là phù hợp."
+    },
+    "15": {
+      "quote": "Davis agrees that any differences in nutrient levels are relatively small.",
+      "explanation": "Đoạn B nêu quan điểm rằng sự khác biệt về hàm lượng dinh dưỡng hiện nay và trước đây là không đáng kể."
+    },
+    "16": {
+      "quote": "It’s like taking a glass of orange juice and adding water to it.",
+      "explanation": "So sánh việc cây trồng hiện đại tạo ra năng suất cao nhưng dinh dưỡng bị pha loãng, giống như pha loãng nước cam."
+    },
+    "17": {
+      "quote": "Fruit and vegetables in supermarkets might look shiny and fresh, but often they were picked several days earlier.",
+      "explanation": "Ngoại hình có thể đánh lừa người tiêu dùng vì thực phẩm có thể không còn tươi."
+    },
+    "18": {
+      "quote": "A recent trend is the sale of ‘fresh-cut’ fruit and vegetables... One in five adults in the UK regularly buys fruit and vegetables in this form...",
+      "explanation": "Đoạn D nói về sự phổ biến của thực phẩm sơ chế sẵn nhằm tiết kiệm thời gian cho người tiêu dùng."
+    },
+    "19": {
+      "quote": "...but they increase susceptibility to lots of different problems.",
+      "explanation": "Hàm lượng dinh dưỡng thấp có thể làm tăng nguy cơ mắc bệnh."
+    },
+    "20": {
+      "quote": "If their availability means that such vegetables are consumed in greater quantities, then the net effect is beneficial.",
+      "explanation": "Bà nói rằng việc chế biến rau củ để tiện sử dụng quan trọng hơn là lo ngại về mất chất dinh dưỡng."
+    },
+    "21": {
+      "quote": "Over the last century, lifespans have got longer, people are bigger and stronger...",
+      "explanation": "Ông cho rằng chế độ ăn cải thiện giúp con người sống lâu và khỏe mạnh hơn."
+    },
+    "22": {
+      "quote": "We eat a wider range of foods today than we did 10 years ago...",
+      "explanation": "Finglas nói rõ rằng ngày nay thực đơn của con người đã đa dạng hơn."
+    },
+    "23": {
+      "quote": "Lots of these reactions are driven by **enzymes**, says Carol Wagstaff... ‘chilling is the best way of slowing down such reactions.’",
+      "explanation": "Chính **enzymes** là nguyên nhân khiến hoa quả, rau củ mất dưỡng chất. Làm lạnh giúp giảm tác động của chúng."
+    },
+    "24": {
+      "quote": "...the **bruising** and other types of damage that would occur if ripe fruits were transported through a typical supply chain...",
+      "explanation": "Cà chua (và nhiều loại quả) được hái trước khi chín để tránh **bruising** (dập nát) trong khi vận chuyển."
+    },
+    "25": {
+      "quote": "Vitamin C, for example, breaks down in the dark, whereas glucosinolates — found in vegetables like cabbage — deplete in the **light**.",
+      "explanation": "Đối với cải bắp (cabbage), chất glucosinolate bị giảm nếu để trong **ánh sáng**."
+    },
+    "26": {
+      "quote": "‘Frozen **peas** are much more nutritious than those you buy ready to shell,’ says Catherine Collins...",
+      "explanation": "**Peas** tươi (vận chuyển thẳng đến siêu thị) thường mất nhiều chất dinh dưỡng hơn so với **peas** được đông lạnh."
+    },
+    "27": {
+      "quote": "Although this project may present a primeval impression, in reality it is a completely artificial thought-through courageous creation...",
+      "explanation": "Mặc dù trông hoang dã, nhưng dự án này **không hoàn toàn trung thành với triết lý “tự nhiên nguyên bản”**, nên đáp án là D."
+    },
+    "28": {
+      "quote": "Despite the contention that surrounds such projects, the Oostvaardersplassen has produced some inspirational results.",
+      "explanation": "Mặc dù có tranh cãi, tác giả vẫn **ngưỡng mộ kết quả đạt được**, do đó chọn A."
+    },
+    "29": {
+      "quote": "...an awareness of their critical function in the creation of wetland habitats has developed.” “Beaver-generated landscapes also play a significant part in the retention and purification of water.",
+      "explanation": "Đoạn này nói rõ về **tầm quan trọng sinh thái** của hải ly → chọn B."
+    },
+    "30": {
+      "quote": "Despite this well-established knowledge, the restoration of beavers in Britain has proven to be a pitifully slow process.",
+      "explanation": "Dù đã có kinh nghiệm từ châu Âu, **Anh vẫn thất bại**, là ví dụ về việc **thiếu học hỏi từ thành công trước đó** → chọn C."
+    },
+    "31": {
+      "quote": "...farmers’ groups have trapped them... kindergarten teachers have implored forest authorities... to ensure that this medieval menace does not lurk...",
+      "explanation": "Dùng ‘their’ để **mỉa mai việc coi hươu là tài sản riêng**, nên chọn D."
+    },
+    "32": {
+      "quote": "Political apathy and indifference have coupled with the total lack of knowledge of opponents...",
+      "explanation": "Việc tái thả hải ly bị cản trở bởi **sự thờ ơ** của chính phủ."
+    },
+    "33": {
+      "quote": "...the total lack of knowledge of opponents who simply want no change...",
+      "explanation": "Những người phản đối không hiểu biết rõ → **ignorance**."
+    },
+    "34": {
+      "quote": "There has been widespread anger against these animals...” “Attitude change, it would seem, is a slow and painful process...",
+      "explanation": "Người dân có định kiến, không dựa vào lý trí → **prejudice**."
+    },
+    "35": {
+      "quote": "...despite clear evidence that the species poses virtually no danger to them.",
+      "explanation": "Dù có **bằng chứng rõ ràng**, người dân vẫn phản đối."
+    },
+    "36": {
+      "quote": "...evidence that the species poses virtually no danger...",
+      "explanation": "Mặc dù không gây nguy hiểm, nhưng vẫn bị xem là mối đe dọa → từ đúng là **danger**."
+    },
+    "37": {
+      "quote": "There is an abundance of entirely suitable beaver habitat available in Britain...",
+      "explanation": "Không phải thiếu đất → mâu thuẫn → chọn NO."
+    },
+    "38": {
+      "explanation": "Không có thông tin nào nói **các nhà khoa học thuyết phục người dân về sói**, nên chọn NOT GIVEN."
+    },
+    "39": {
+      "quote": "Many farmers, despite the sums they would be paid, will not wish to see their once-drained bogs rehydrated...",
+      "explanation": "Nhiều nông dân vẫn **không ủng hộ**, dù được trả tiền → trái ngược → NO."
+    },
+    "40": {
+      "quote": "...rewilding... could become a base movement... more rewarding for the surprises it presents.",
+      "explanation": "Dự án có thể mang lại **những điều bất ngờ**, tức là **khó đoán trước** → chọn YES."
+    }
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "test": 10,
+  "audio": "audio/test-10.mp3",
+  "sections": [
+    {
+      "n": 1,
+      "title": "Garden Centre Job Enquiry",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [1, 10],
+          "intro": [
+            "Complete the notes below.",
+            "Write **ONE WORD AND/OR A NUMBER** for each answer."
+          ],
+          "limit": { "words": 1, "number": true },
+          "content": [
+            { "center": "**Garden Centre Job Enquiry**" },
+            "Job:",
+            "Example",
+            "Job title: garden centre __assistant__",
+            "working mainly as a cashier",
+            "will also",
+            "• help with plants, and in the shop",
+            "• help customers, starting after a [[1]]",
+            "**Requirements:**",
+            "• an interest in [[2]]",
+            "• preferably knowing something about plants",
+            "**Hours:**",
+            "• working hours are flexible",
+            "• 5 days a week, usually including [[3]]",
+            "• [[4]] hours a week",
+            "**What’s provided:**",
+            "• [[5]] (about everything they sell, and customer service)",
+            "• [[6]] (but not laundry)",
+            "• staff discount",
+            "• team [[7]]",
+            "• financial help including vouchers for [[8]]",
+            "Starting pay: £[[9]] per hour",
+            "Contact: Janice [[10]]"
+          ],
+          "answers": {
+            "1": "month",
+            "2": "selling",
+            "3": "Sunday",
+            "4": "35",
+            "5": "training",
+            "6": "uniform",
+            "7": "activities",
+            "8": "childcare",
+            "9": "8.70",
+            "10": "Ballera"
+          }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 0", "t": "You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections. At the end of the test, you will be given 10 minutes to check your answers. Section 1, you will hear a young woman telephoning an employment agency to inquire about jobs. First, you have some time to look at questions 1 to 4. You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first." },
+        { "s": "Speaker 1", "t": "Hello, this is Thurston Employment. You’re through to Daniel. How can I help you?" },
+        { "s": "Speaker 2", "t": "Hello. My name’s Jane McCloud. I came in last week and talked to one of your colleagues, and she told me to ring today." },
+        { "s": "Speaker 1", "t": "Jane McCloud. Ah, yes. Here are your details. You’re looking for a full-time job, aren’t you?" },
+        { "s": "Speaker 2", "t": "That’s right." },
+        { "s": "Speaker 1", "t": "Um, there’s a position at Bellfield Garden Center that’s just come in." },
+        { "s": "Speaker 2", "t": "Oh, I know the place. I’ve been there several times. What’s the job?" },
+        { "s": "Speaker 1", "t": "It’s as an assistant." },
+        { "s": "Speaker 0", "t": "The man says the job is an assistant at the garden center. So assistant has been written in the space. Now we shall begin. You should answer the questions as you listen because you will not hear the recording a second time. Listen carefully and answer questions 1 to 4." },
+        { "s": "Speaker 1", "t": "Hello, this is Thurston Employment. You’re through to Daniel. How can I help you?" },
+        { "s": "Speaker 2", "t": "Hello. My name’s Jane McCloud. I came in last week and talked to one of your colleagues, and she told me to ring today." },
+        { "s": "Speaker 1", "t": "Jane McCloud. Ah, yes. Here are your details. You’re looking for a full-time job, aren’t you?" },
+        { "s": "Speaker 2", "t": "That’s right." },
+        { "s": "Speaker 1", "t": "Um, there’s a position at Bellfield Garden Center that’s just come in." },
+        { "s": "Speaker 2", "t": "Oh, I know the place. I’ve been there several times. What’s the job?" },
+        { "s": "Speaker 1", "t": "It’s as an assistant." },
+        { "s": "Speaker 2", "t": "What does it involve?" },
+        { "s": "Speaker 1", "t": "The person they appoint will be a cashier. That’ll take up most of their time. Although they can also spend some time on other activities, like moving plants and looking after them, supervised by the horticulture manager." },
+        { "s": "Speaker 2", "t": "Okay. does And it also involve working in the shop? There’s quite a large one there." },
+        { "s": "Speaker 1", "t": "Yes, that’s also part of the job. And in addition, you’d give information and advice to customers. That wouldn’t start until you’ve been there for a month, though, and really know the place well." },
+        { "s": "Speaker 2", "t": "I’d enjoy that." },
+        { "s": "Speaker 1", "t": "Now, you don’t need any particular qualifications for this job, but they do say the person must be interested in selling, making the garden center one that people enjoy going to and spending money." },
+        { "s": "Speaker 2", "t": "Fine. And that means really thinking about what’ll be popular." },
+        { "s": "Speaker 1", "t": "That’s right. And ideally, some knowledge of plants, but that isn’t essential." },
+        { "s": "Speaker 2", "t": "Okay. And what are the hours? The center’s open seven days a week, so I presume they’re fairly flexible?" },
+        { "s": "Speaker 1", "t": "Yes, they are. You’d work five days a week. The actual days would vary, but you’d be required to work most Sundays. You’d have two consecutive days off, say Friday and Saturday. And you’d need to be able to work some shifts that include evenings." },
+        { "s": "Speaker 2", "t": "Right. Is it a 37 and a half hour week?" },
+        { "s": "Speaker 1", "t": "35, and you’d get 20 days holiday a year, plus the normal public holidays." },
+        { "s": "Speaker 0", "t": "Before you hear the rest of the conversation, you have some time to look at questions 5 to 10. Now listen and answer questions 5 to 10." },
+        { "s": "Speaker 2", "t": "And what do they provide? I suppose there’ll be training?" },
+        { "s": "Speaker 1", "t": "Yes, covering both the plants and other goods they sell and customer service. That’s ongoing and partly depends on what you’re interested in. There’s also a uniform which you’ll have to look after and wash yourself." },
+        { "s": "Speaker 2", "t": "Okay. I remember noticing it the first time I went there. It’s quite attractive, a lot better than in some garden centers.Is there a discount for staff on things they buy?" },
+        { "s": "Speaker 1", "t": "Yes, both on plants and in the shop. Then the staff are organized into teams, and there are also activities for these teams, although the center hasn’t let us know what these are." },
+        { "s": "Speaker 2", "t": "Hmm. Trips to famous gardens might be nice." },
+        { "s": "Speaker 1", "t": "Good idea. And something else that’s provided, apart from the obvious things like holiday and sick pay, is childcare vouchers. They’re tax-free and cover part of the cost of nurseries, child minders, and so on." },
+        { "s": "Speaker 2", "t": "That’d be useful as I’ve got a three-year-old. The job sounds very interesting, but what are the wages like?" },
+        { "s": "Speaker 1", "t": "At first, you’d be getting £8.70 an hour, on a scale that goes up to £10.50. There’s an increase at the beginning of each financial year." },
+        { "s": "Speaker 2", "t": "That’s not bad. And who should I contact about the job?" },
+        { "s": "Speaker 1", "t": "The manager is called Janice Ballera, spelt B-A-L-L-E-R-A." },
+        { "s": "Speaker 2", "t": "And what’s the best way to contact her?" },
+        { "s": "Speaker 1", "t": "By phone. The number is 01562..." },
+        { "s": "Speaker 0", "t": "That is the end of Section 1. You now have half a minute to check your answers." }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Volunteering in a Hospital Ward",
+      "groups": [
+        {
+          "type": "multi",
+          "range": [11, 12],
+          "title": "Questions 11 and 12",
+          "intro": ["Choose **TWO** letters, **A - E**."],
+          "stem": "In which **TWO** ways are ward volunteers expected to help patients at lunchtimes?",
+          "choose": 2,
+          "options": {
+            "A": "feeding them",
+            "B": "noting their food preferences",
+            "C": "making space to put their meal",
+            "D": "encouraging them to eat",
+            "E": "putting food on plates"
+          },
+          "answer": "C, E"
+        },
+        {
+          "type": "multi",
+          "range": [13, 14],
+          "title": "Questions 13 and 14",
+          "intro": ["Choose **TWO** letters, **A - E**."],
+          "stem": "Which **TWO** qualities are required in ward volunteers?",
+          "choose": 2,
+          "options": {
+            "A": "ability to cope with upsetting situations",
+            "B": "understanding of the effects of different illnesses",
+            "C": "ability to show initiative",
+            "D": "willingness to follow rules",
+            "E": "ability to make patients feel cheerful"
+          },
+          "answer": "A, C"
+        },
+        {
+          "type": "match",
+          "range": [15, 20],
+          "intro": [
+            "Which aspect of volunteering does each of the following volunteers comment on?",
+            "Choose **SIX** answers from the box and write the correct letter, **A - H**, next to questions 15 - 20.",
+            "**Volunteers**"
+          ],
+          "options": {
+            "title": ["**Aspects of volunteering**"],
+            "list": {
+              "A": "being welcomed by patients",
+              "B": "feeling part of a team",
+              "C": "gaining self-confidence",
+              "D": "having a regular routine",
+              "E": "having expert support",
+              "F": "hearing about patients’ lives",
+              "G": "seeing patients get better",
+              "H": "understanding patients’ needs"
+            },
+            "after": false
+          },
+          "items": {
+            "15": "Chris",
+            "16": "Shaheen",
+            "17": "Loc",
+            "18": "Stephen",
+            "19": "Magda",
+            "20": "Richard"
+          },
+          "answers": { "15": "C", "16": "C", "17": "B", "18": "G", "19": "F", "20": "A" }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 0", "t": "Now turn to Section 2. Section 2. You will hear a woman talking to some people who are interested in becoming volunteers to help in a hospital. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14." },
+        { "s": "Speaker 3", "t": "Good morning. It’s lovely to see so many of you here. My name’s Sophie, and I’m in charge of all the volunteers here at the hospital. Thank you for taking the time to come in and find out if volunteering is something you’d like to do. I’ll tell you about some of the volunteering roles we have and what they involve, and then there’ll be plenty of time for you to ask me questions. We believe it’s vital for patients to be as independent as possible in hospital, and volunteers support this by ensuring patients have everything they need to eat independently. So, at lunchtimes, ward volunteers help patients by giving out hand wipes, clearing their bedside tables for the tray, and telling them about the meal they’re going to have. Volunteers also help staff to hand out the meals, and they provide individual attention and motivate patients with poor appetites to eat by providing any cutlery or condiments they want, or perhaps just by offering them a smile and a friendly word. So, what do you need to be a good ward volunteer? Well, you must enjoy talking to people, feel at ease in the busy ward environment, and be able to understand and keep to certain guidelines. For example, you mustn’t move a patient. This role requires confidence and an ability to engage with other people, so good listening skills and being able to take conversational cues from others are vital. Volunteers can be working in areas with very sick patients, so you need a degree of emotional strength, which will stop you from getting too distressed." },
+        { "s": "Speaker 0", "t": "Before you hear the rest of the talk, you have some time to look at questions 15 to 20. Now listen and answer questions 15 to 20." },
+        { "s": "Speaker 3", "t": "Now I’d like to read you some comments from several of our volunteers who have been coming here for anything from six months to 10 or 11 years. Chris wrote: I’d never had much education and didn’t feel I had any real skills or talent, but by volunteering here I discovered that I can make things better for people while they’re in hospital. That made me realize I was capable of doing something useful.... a volunteer called Shaheen. Uh, she told me that she’s always been keen to learn about other people and she loves sitting by a patient’s bed and listening to their stories about what they’ve done and where they’ve been. She’s fascinated by how different people’s experiences can be. Locke wrote: I don’t much enjoy working on my own and it’s great that there are quite a lot of us. When I put on the red apron that shows I’m one of the ward volunteers, I’m really proud. Steven has been a volunteer for 10 years and he says: I hate imposing myself on people and I’ve learned to work out whether people want to talk or to be quiet. If someone isn’t very chatty at first and I start up a conversation, I can soon see how much to push them to talk. Often, they do talk, about their families maybe or their interests, but if they’d rather be quiet, I don’t put pressure on them. One of our newer volunteers is Magda, who’s been with us for six months. Because of her family situation and various personal problems, she used to have a fairly chaotic life, but a friend suggested she joined us and she says it’s helped her a lot. Volunteers spend one morning a week at the hospital, the same day each week, and that’s helped Magda by providing something predictable in her life. And here’s a comment from Richard. For me, the best thing about volunteering is being accepted by patients and seeing people smile at me when I go towards their bed, or just walking past them. It gives me a warm feeling inside. Okay. Now, I’ll go onto a different type of volunteer." },
+        { "s": "Speaker 0", "t": "That is the end of Section II. You now have half a minute to check your answers." }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Student Presentation on Lighthouses",
+      "groups": [
+        {
+          "type": "match",
+          "range": [21, 25],
+          "intro": [
+            "What changes will Tania and Andy make to each of the following sections of their presentation on lighthouses?",
+            "Choose **FIVE** answers from the box and write the correct letter, **A - G**, next to questions 21 - 25.",
+            "**Sections**"
+          ],
+          "options": {
+            "title": ["**Changes**"],
+            "list": {
+              "A": "add some information",
+              "B": "make the information less vague",
+              "C": "make the content more relevant",
+              "D": "increase the visual element",
+              "E": "reduce the amount of detail",
+              "F": "reduce the amount of repetition",
+              "G": "explain technical terms"
+            },
+            "after": false
+          },
+          "items": {
+            "21": "Introduction",
+            "22": "History",
+            "23": "Construction",
+            "24": "Recent developments",
+            "25": "The future"
+          },
+          "answers": { "21": "E", "22": "C", "23": "G", "24": "F", "25": "B" }
+        },
+        {
+          "type": "mcq",
+          "range": [26, 30],
+          "intro": [
+            "Choose the correct letter, **A**, **B** or **C**."
+          ],
+          "items": {
+            "26": { "stem": "Tania says that one reason why sailors have always liked lighthouses is that", "options": { "A": "they find the powerful lights reassuring.", "B": "they are likely to be familiar with some lighthouses.", "C": "they do not require special equipment." } },
+            "27": { "stem": "What was the main function of ancient lighthouses?", "options": { "A": "to show the entrance to a port", "B": "to warn about rocks and other dangers", "C": "to enable sailors to navigate far from land" } },
+            "28": { "stem": "No new lighthouses were constructed for several centuries before about 1100 because", "options": { "A": "traditional construction methods were forgotten.", "B": "there was less trade than previously.", "C": "beacons were used instead of lighthouses." } },
+            "29": { "stem": "What do Andy and Tania particularly admire about the third Eddystone lighthouse?", "options": { "A": "the building materials", "B": "the shape", "C": "the height" } },
+            "30": { "stem": "They decide to talk about decommissioned lighthouses that have been", "options": { "A": "converted into holiday homes.", "B": "abandoned.", "C": "turned into museums." } }
+          },
+          "answers": { "26": "A", "27": "C", "28": "A", "29": "B", "30": "C" }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 0", "t": "Now turn to Section III. Section III. You will hear two students of industrial history called Tanya and Andy discussing their presentation on lighthouses. First, you have some time to look at questions 21 to 25. Now listen carefully and answer questions 21 to 25." },
+        { "s": "Speaker 1", "t": "Tanya, we really ought to discuss our presentation on lighthouses and how they have helped shipping over the years. It’s only a week till we have to give it." },
+        { "s": "Speaker 4", "t": "This is a good time for me, Andy." },
+        { "s": "Speaker 1", "t": "Good. Well, I’ve been looking through the draft we’ve made, and I have to say there are a number of things I’m not happy with." },
+        { "s": "Speaker 4", "t": "Hmm. I thought the same. Like the introduction, I added to what you’d written, then you added some more and I think there’s just too much information in it. You hardly need to hear the rest of the presentation." },
+        { "s": "Speaker 1", "t": "Yes, I agree." },
+        { "s": "Speaker 4", "t": "Mm-hmm." },
+        { "s": "Speaker 1", "t": "Now, the section about the history of lighthouses, it’s very interesting and it’s about the right length, but there’s nothing about some important periods." },
+        { "s": "Speaker 4", "t": "Right. We’ll have to deal with that. What did you think about the bit I wrote about different ways of constructing lighthouses? It was quite difficult to write." },
+        { "s": "Speaker 1", "t": "That wasn’t obvious when I read it, but I found it quite hard to understand. There were lots of words that specialists would know, but I certainly didn’t." },
+        { "s": "Speaker 4", "t": "Hmm." },
+        { "s": "Speaker 1", "t": "And don’t forget, our audience knows even less about lighthouses than we do, so we need to say what those words mean." },
+        { "s": "Speaker 4", "t": "Good point. What about the section on recent developments? We seem to be making the same few comments over and over again. We’ll have to sort that out." },
+        { "s": "Speaker 1", "t": "Right. And I wasn’t keen on the final section about what might happen in the future. I read it twice and I still wasn’t sure what points we were trying to make." },
+        { "s": "Speaker 4", "t": "[laughs]" },
+        { "s": "Speaker 1", "t": "We need to express them more clearly." },
+        { "s": "Speaker 0", "t": "Before you hear the rest of the discussion, you have some time to look at Questions 26 to 30.Now listen and answer questions 26 to 30." },
+        { "s": "Speaker 1", "t": "I’ve got a few specific queries about things that aren’t clear to me. Can we go through those?" },
+        { "s": "Speaker 4", "t": "Yes, and I’ve got some too. Then we can decide whether those points need to be included, and if so, which section they belong in." },
+        { "s": "Speaker 1", "t": "Fine. Okay, we’ve said somewhere that lighthouses have always been popular with sailors, but I don’t think we’ve given a reason. Is it a question of familiarity, do you think? I mean, that when they see a lighthouse near their home, they’ll know their voyage is nearly finished? Or is it being able to see the light from quite a distance?" },
+        { "s": "Speaker 4", "t": "From what I’ve read, it seems it’s more the simplicity of navigating by them, even now. Sailors only need to see the lighthouse, and they know they have to avoid getting near it because there are rocks, for instance. With more sophisticated navigation systems, there’s always the risk that they’ll break down." },
+        { "s": "Speaker 1", "t": "Oh, I see." },
+        { "s": "Speaker 4", "t": "I’ve got the impression that the main purpose of lighthouses has changed over the years. Is that what you think too?" },
+        { "s": "Speaker 1", "t": "That’s right. Modern lighthouses are normally there to show that there are reefs or rocks, and a ship getting too close could be wrecked. But in ancient times, they were more like arrows, guiding ships into a harbor. The sailors didn’t travel much into the open sea, so they got to know the coastline very well and could work out where they were." },
+        { "s": "Speaker 4", "t": "Do you know why there was a period of hundreds of years when there were apparently no new lighthouses, up to around 1100?" },
+        { "s": "Speaker 1", "t": "That was the Dark Ages, wasn’t it? I suppose some ancient lighthouses survived, like the ones the Romans had constructed. But didn’t commerce decline after the collapse of the Roman Empire? So there wasn’t much of a need for any warnings for shipping, neither beacons nor lighthouses." },
+        { "s": "Speaker 4", "t": "Hmm. Oh, I’ve got a question for you, Andy. You wrote that lighthouses, like modern ones, really started around 1700. Do you know why that was?" },
+        { "s": "Speaker 1", "t": "I think it’s to do with the industrial developments of the time." },
+        { "s": "Speaker 4", "t": "And wasn’t that when the first Eddystone Lighthouse was built on rocks, surrounded by the sea?" },
+        { "s": "Speaker 1", "t": "That’s right. But the third one on that site was pretty significant, wasn’t it? It was made of blocks of granite fixed tightly together. It was larger at the base than at the top, and it curved upwards." },
+        { "s": "Speaker 4", "t": "Yes, to reduce the energy of the waves. Seems like a clever idea." },
+        { "s": "Speaker 1", "t": "It certainly does. By the way, we haven’t said anything about decommissioned lighthouses. I’m quite interested in the ones that have simply been abandoned." },
+        { "s": "Speaker 4", "t": "What about those that have been put to new uses? Several have become museums, for example." },
+        { "s": "Speaker 1", "t": "Yes, or holiday homes. That’s quite a fun idea. Shall we mention it? I’m sure we can find some images online." },
+        { "s": "Speaker 4", "t": "Okay, let’s do that." },
+        { "s": "Speaker 0", "t": "That is the end of Section 3. You now have half a minute to check your answers." }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "The first factories",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [31, 40],
+          "intro": [
+            "Complete the notes below.",
+            "Write **NO MORE THAN TWO WORDS** for each answer."
+          ],
+          "limit": { "words": 2, "number": false },
+          "content": [
+            { "center": "**The first factories**" },
+            "**Pre-industrial revolution**",
+            "Most people worked in the [[31]] sector",
+            "[[32]] were the major disadvantage for workers involved in the ‘putting out’ system",
+            "**Early factories**",
+            "New types of machines meant that the [[33]] of manufacturing became necessary",
+            "Workers were expected to obey orders about working and [[34]]",
+            "Factories could be built when a new type of cast iron became available for structural use",
+            "Daylight wasn’t necessary for factory workers because of the use of lamps fuelled by [[35]]",
+            "1721, probably the earliest factory: made [[36]]",
+            "Energy source for this factory was [[37]]",
+            "Major change in methods of production: in the [[38]] sector",
+            "Women living in dormitories had to follow many rules",
+            "Most factory workers lived in slums where there was a serious risk of [[39]]",
+            "The goal of factory owners was usually to [[40]] workers"
+          ],
+          "answers": {
+            "31": "agricultural",
+            "32": "low wages",
+            "33": "centralization",
+            "34": "timekeeping",
+            "35": "gas",
+            "36": "silk",
+            "37": "water",
+            "38": "textile",
+            "39": "disease",
+            "40": "replace"
+          }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 0", "t": "Now turn to Section 4. Section 4. You will hear a lecture about the development of factories. First, you have some time to look at questions 31 to 40. Now listen carefully, and answer questions 31 to 40." },
+        { "s": "Speaker 5", "t": "In the last few weeks, we’ve been examining the economic history of Europe in the Middle Ages and on into the early modern period, bringing us to the time immediately preceding the Industrial Revolution. The Industrial Revolution was the change to new manufacturing processes that started at different times in different countries, but it began in Britain around 1760, continuing into the 19th century. Before this transformation, there were two main forms of work for the majority of the population, children as well as adults. The sector that employed the largest number of people was agriculture, as you might expect. The other main sector was manufacturing. This was carried out by people working in their own homes, producing small quantities of goods-... with many people working for the same boss, or his agent. This is called the putting-out system, as the people who were going to sell the products put out the work to individuals and families, bringing them the raw materials they needed, and taking away the finished products. Probably the worst feature of putting out is low wages, and in some areas, such as Ireland, these delayed mechanization because of its high relative cost. The system seems to have come into existence in England in the 14th century, and in some places, it survived into the 20th. Industries organized in this way are known as cottage industries. The change that affected workers to a massive extent was the introduction of factories. Newly-invented machinery made centralization necessary, so factories were constructed where large-scale operations were possible. These employed hundreds of workers, compared with the 10 to 20 of large-scale operations in the 16th century. To optimize the efficiency of the factory, human activity had to be adapted to the machinery, and that required discipline in working practices and in timekeeping, neither of which had played such a significant role when people worked at home. The conditions for constructing large factories only existed from the late 18th century when improvements in cast iron led to it being usable for structural purposes, replacing the wood that had been used earlier. Industrial production after about 1800 also benefited from the fact that workers were no longer limited to daylight hours or to being near a window. This was because gas lamps had become available. The use of machinery led to specialization. Instead of making the complete product, a worker would make just part of it, or carry out a limited number of processes, and this led to the development of numerous new trades. The first factory in the modern sense is generally agreed to be one that opened in 1721. This was a silk mill in the English midlands, a newly built five-story structure employing about 300 workers. It used a large number of engines and production machines operated by water power. This mill was the result of an early example of industrial espionage, as the owner copied the process from Italy, the part of Europe where this industry was most technologically advanced. Not every industrial sector was affected at the same rate. The change between the earlier modes of working and the factory system was most radical in the textile sector, which accounted for the majority of new factory openings. Many towns in the north of England, for example, were dominated by cotton or wool mills. Workers were attracted by jobs in the new factories, and many left the countryside, where the majority of people lived, and moved into the industrial towns, a phenomenon that has been experienced in every country as it industrialized. Many factories opened dormitories for their workers, particularly for women and girls, and imposed numerous rules on them. However, most workers and their families lived in slums, and a number of 19th century writers, including the novelist Charles Dickens, drew public attention to the appalling living conditions and high levels of disease that they had to endure. On the whole, there was an extended period of transition from the pre-industrial model of work to the one that became familiar. In fact, manufacturing on a small scale in people’s own homes remained common in large parts of Europe well into the 19th century. Right from the beginning, though, the history of factories was linked with the aim of automation, ultimately to replace employees entirely with machines. That has happened to a considerable degree in some industries, though not to the extent that some people predicted in the early 19th century." },
+        { "s": "Speaker 6", "t": "That is the end of Section 4. You now have half a minute to check your answers. That is the end of the listening test. You now have 10 minutes to check all your answers." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "test": 3,
+  "audio": "audio/test-03.mp3",
+  "sections": [
+    {
+      "n": 1,
+      "title": "Festival Info Call",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [1, 6],
+          "intro": [
+            "Complete the table below.",
+            "Write **ONE WORD AND/OR A NUMBER** for each answer."
+          ],
+          "limit": {"words": 1, "number": true},
+          "content": [
+            {"center": "**Festival Info Call**"},
+            {"table": [
+              ["Date", "Time", "Activity", "Place", "Comments"],
+              ["June 19th", "7 p.m.", "Example concert.", "the [[1]]", ""],
+              ["June 20th", "[[2]] p.m.", "tour", "meet at the [[3]]", "includes a visit to an old flour mill"],
+              ["June 21st", "all day", "children’s [[4]] competition", "Beechen Community Centre", "bring a [[5]]"],
+              ["June 21st", "evening", "fireworks", "by the [[6]]", ""]
+            ]}
+          ],
+          "answers": {
+            "1": "theater",
+            "2": "4.30",
+            "3": "station",
+            "4": "cooking",
+            "5": "plate",
+            "6": "river"
+          }
+        },
+        {
+          "type": "gap",
+          "range": [7, 10],
+          "intro": [
+            "Complete the notes below.",
+            "Write **ONE WORD ONLY** for each answer."
+          ],
+          "limit": {"words": 1, "number": false},
+          "content": [
+            "• This year, activities end by [[7]] p.m.",
+            "• There won’t be any [[8]] in the town centre this year.",
+            "• The festival’s web address is www. [[9]] com.",
+            "• Festival organisers would like to receive [[10]]",
+            "• the cable was successfully laid in 1858"
+          ],
+          "answers": {
+            "7": "11.15",
+            "8": "parking",
+            "9": "events",
+            "10": "feedback"
+          }
+        }
+      ],
+      "transcript": [
+        {"s": "Speaker 0", "t": "IELTS Listening, version 16208. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections. Write all your answers in the listening question booklet. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to section one on page two of your question booklet. Section one. You will hear a man phoning to ask about a festival in a town called Beechen. First you have some time to look at questions one to six on page two. You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first."},
+        {"s": "Speaker 1", "t": "Beechen Festival office."},
+        {"s": "Speaker 2", "t": "Oh, hello. I want to check some details about the festival. I know tickets are running out fast, and I haven’t got access to the internet at present. My computer’s down."},
+        {"s": "Speaker 1", "t": "OK. Well, the first activity is on June the 19th at 7:00 PM, and it’s a concert with local musicians performing."},
+        {"s": "Speaker 2", "t": "Hmm. Lovely."},
+        {"s": "Speaker 0", "t": "The activity on June the 19th is a concert, so concert has been written in the space. Now we shall begin. You should answer the questions as you listen because you will not hear the recording a second time. Listen carefully and answer questions one to six."},
+        {"s": "Speaker 1", "t": "Beechen Festival office."},
+        {"s": "Speaker 2", "t": "Oh, hello. I want to check some details about the festival. I know tickets are running out fast, and I haven’t got access to the internet at present. My computer’s down."},
+        {"s": "Speaker 1", "t": "OK. Well, the first activity is on June the 19th at 7:00 PM, and it’s a concert with local musicians performing."},
+        {"s": "Speaker 2", "t": "Oh, lovely. Is it in the theater like last year?"},
+        {"s": "Speaker 1", "t": "Yes, that’s right. And for the next activity on the 20th, the time’s changed."},
+        {"s": "Speaker 2", "t": "I- Is that the tour?"},
+        {"s": "Speaker 1", "t": "Yes. Now, it does say on the tickets that it’s a 3:40 start, but that’s an error. There wasn’t time to update them, unfortunately. So it should say 4:30 instead. The correct time is on the website though."},
+        {"s": "Speaker 2", "t": "Oh, right. Because one of my friends wants to go on that to see Beechen with an expert and find out about the town and its history. Does she need to get a ticket in advance?"},
+        {"s": "Speaker 1", "t": "No, just turn up at the station where the guide will be waiting. They’ll start from there, and I think the plan is to stop for a break in the park. And there’s no charge for the tour. And the tour will finish with a visit to the 16th century mill where they used to make flour. It’s recently been restored."},
+        {"s": "Speaker 2", "t": "Fine."},
+        {"s": "Speaker 1", "t": "And then on the 21st, there’s an all-day event for children."},
+        {"s": "Speaker 2", "t": "Oh, that could be good for my visitors. They’re bringing theirs, you see?"},
+        {"s": "Speaker 1", "t": "Right. Well, the plan was to have a painting competition for the kids, but it’s now going to be cooking instead. And there’ll be prizes for all the different age groups."},
+        {"s": "Speaker 2", "t": "Oh, great."},
+        {"s": "Speaker 1", "t": "And it’s in Beechen Community Center."},
+        {"s": "Speaker 2", "t": "Oh, yes, I know where that is."},
+        {"s": "Speaker 1", "t": "They don’t need to bring any ingredients, but they’ll need to have a plate to put whatever they’ve made on so they can display it and then take it home."},
+        {"s": "Speaker 2", "t": "Sounds good. And are they going ahead with the fireworks in the evening, or is that canceled? There was an article in the paper after last year’s display which suggested it might not be happening again."},
+        {"s": "Speaker 1", "t": "That’s right. No, that’s still on. It’s getting more popular each year. And having it in the town square was starting to be a bit difficult because of the numbers, which is why it’s next to the river this time. It’ll be easy for large numbers of people to get to."},
+        {"s": "Speaker 2", "t": "Yes, of course. I’m sure there’s lots to look forward to."},
+        {"s": "Speaker 0", "t": "Before you hear the rest of the conversation, you have some time to look at questions seven to 10 on page two. Now listen and answer questions seven to 10."},
+        {"s": "Speaker 2", "t": "Okay. Now, I just want to check how it’s going to impact on me as a local resident. I mean, some people last year thought it was too noisy at night."},
+        {"s": "Speaker 1", "t": "Yes, I know. And that’s why this year, evening events won’t go on beyond 11:15. I know previously some activities lasted until 11:45, and the new time applies now to all the events every evening. And another change, perhaps you know about this already, is that because of high visitor numbers, parking in the town center isn’t going to be allowed. It’ll be outside town."},
+        {"s": "Speaker 2", "t": "Oh yes, to keep the streets clear I suppose for all the visitors. Uh, uh, I did know actually and it’s not really going to be a problem for me."},
+        {"s": "Speaker 1", "t": "Right."},
+        {"s": "Speaker 2", "t": "I mean, I can just walk into town from my home."},
+        {"s": "Speaker 1", "t": "Okay. Well anyway, if you want to check any more details about the festival once you’re back online, you can look at www.events.com and you’ll be able to comment on what activities you enjoyed. And what would really help the organizers would be if people could use the website to give feedback about what they enjoyed and that kind of thing. This will help them plan for next year."},
+        {"s": "Speaker 2", "t": "That’s probably a good idea. And with pricing, I know local residents..."},
+        {"s": "Speaker 0", "t": "That is the end of section one. You now have half a minute to check your answers. Now turn to section two on page three."}
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Water Changes Lives",
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [11, 17],
+          "intro": [
+            "Choose the correct letter, **A**, **B**, or **C**.",
+            {"center": "**Water Changes Lives**"}
+          ],
+          "items": {
+            "11": {"stem": "The speaker’s job requires", "options": {"A": "a great deal of walking", "B": "extensive travel", "C": "clean water"}},
+            "12": {"stem": "Why is this story being told?", "options": {"A": "to promote Charity-Water", "B": "for entertainment purposes", "C": "to encourage Helen"}},
+            "13": {"stem": "Why do the charity workers usually surprise communities?", "options": {"A": "It makes people happy", "B": "It is difficult to spread news.", "C": "It makes their work easier."}},
+            "14": {"stem": "When villagers heard of the charity worker’s arrival, they", "options": {"A": "had a party", "B": "were suspicious", "C": "took no notice"}},
+            "15": {"stem": "Helen is feeling", "options": {"A": "ecstatic about her new life", "B": "nostalgic about her old life", "C": "curious about the charity workers."}},
+            "16": {"stem": "What did the speaker notice about Helen?", "options": {"A": "She had bathed recently", "B": "the care she took with her appearance", "C": "she was wearing a green uniform"}},
+            "17": {"stem": "Making someone feel beautiful was", "options": {"A": "a part of the speaker’s job description.", "B": "an unexpected bonus for the speaker.", "C": "of little importance to the speaker."}}
+          },
+          "answers": {"11": "B", "12": "A", "13": "C", "14": "C", "15": "C", "16": "B", "17": "B"}
+        },
+        {
+          "type": "multi",
+          "range": [18, 20],
+          "title": "Questions 18–20",
+          "intro": [
+            "Choose **THREE** letters, **A-G**?"
+          ],
+          "stem": "Which **THREE** ways did the new well improve Helen’s life?",
+          "choose": 3,
+          "options": {
+            "A": "her children enjoyed better health",
+            "B": "it increased her household income",
+            "C": "it gave her more free time",
+            "D": "she got a leadership position",
+            "E": "she had more choices and options",
+            "F": "she made new friends in her village",
+            "G": "it allowed her to go to school"
+          },
+          "answer": "C, D, E"
+        }
+      ],
+      "transcript": [
+        {"s": "Speaker 3", "t": "You will now listen to a talk by the water project manager of a charity called Charity: Water. First, you have some time to look at questions 11 to 17."},
+        {"s": "Speaker 4", "t": "Now listen carefully and answer questions 18 to 20."},
+        {"s": "Speaker 5", "t": "As Charity: Water’s water project manager, I travel to some of the most desperate places on earth in search of clean water. And while the landscape changes, there’s always one thing that remains the same: The women are always walking. Whether I’m in the mountains of Haiti, in rural Liberia or the jungles of the Central African Republic, the women are always carrying water. To give you an idea of the work that Charity: Water does, I’ll tell you the story of one of these women. Driving down a bumpy road in the middle of northern Uganda, our truck suddenly swerves off the road and up over an embankment. We usually prefer to surprise communities by our arrival because it makes it easier to monitor how our water points are functioning without hundreds of people watching. But once you visit a few communities in the neighborhood, rumors of your presence spread like wildfire. We jump out of the truck and walk into a party. [laughs] This is when I met Helen Apis. She told me about the new freshwater well in her village. “I am happy now,” Helen beamed. “I have time to eat. My children can go to school and I can even work in my garden, take a shower and then come back for more water if I want. I am bathing so well.” A few of the men chuckled to hear a woman talk about bathing, but all I noticed was Helen’s glowing face, the fresh flowers in her hair, and the lovely green dress she wore for special occasions. Touching her forearm, I replied, “Well, you look great.” “Yes,” she paused, placing both hands on my shoulders and smiling. She said, “Now I am beautiful.” That really hit me. My job is to focus on sustainable development, health, hygiene, and sanitation to make sure Charity: Water’s projects are working in 20 years. But nowhere on any of my surveys or evaluations was a place to write, “Today we made someone feel beautiful.”"},
+        {"s": "Speaker 3", "t": "Before you hear the rest of the talk, you will have some time to look at questions 18 to 20. Now listen carefully and answer questions 19 to 20."},
+        {"s": "Speaker 4", "t": "Before she had clean water, th-"},
+        {"s": "Speaker 5", "t": "Helen would wake up before dawn, take her only two five-gallon jerricans, and walk almost a mile and a half to the nearest water point, which happened to be at a school. Because there simply wasn’t enough water for the area’s population, she’d wait in line with hundreds of other women who also valued clean water. Helen’s only other option was to skip the wait and collect contaminated water from a pond. Helen spent most of her day walking and waiting. She told me each day she’d say to herself: “How should I use this water today? Should I water my garden so we can grow food? Should I wash my children’s uniforms? Should I use it to cook a meal? Should we drink this water?” With two children, one husband, and 10 gallons, Helen had to make choices. I saw the shame in her eyes when she described how she would return from her long trek to find her two young children waiting for her. They were often sent home from school because their uniforms were dirty. With the new well in her village, her life was transformed. She now had choices, free time, options. Also, Helen had been chosen to be the Water Committee Treasurer, collecting nominal fees from 51 households to use for the maintenance of their well. Water Committees are often the first time women are ever elected to leadership positions in villages. Last month, Helen was standing in line waiting for water. This month, she’s standing up for her community, and now, she is beautiful."},
+        {"s": "Speaker 6", "t": "That is the end of Part 2. You now have 30 seconds to check your answers to Part 2."}
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Becoming a PSW",
+      "groups": [
+        {
+          "type": "multi",
+          "range": [21, 22],
+          "title": "Questions 21 and 22",
+          "intro": [
+            "Choose **TWO** letters, **A–E**."
+          ],
+          "stem": "Which are the **TWO** main duties for Personal Support Workers (PSWs)?",
+          "choose": 2,
+          "options": {
+            "A": "talking with clients",
+            "B": "helping clients to eat and drink",
+            "C": "helping with physical needs",
+            "D": "ensuring clients are well and safe",
+            "E": "managing clients’ pills"
+          },
+          "answer": "C, D"
+        },
+        {
+          "type": "multi",
+          "range": [23, 24],
+          "title": "Questions 23 and 24",
+          "intro": [
+            "Choose **TWO** letters, **A–E**."
+          ],
+          "stem": "Which are the **TWO** requirements to do the PSW programme?",
+          "choose": 2,
+          "options": {
+            "A": "high school completion",
+            "B": "a maths course",
+            "C": "a language qualification",
+            "D": "a clear driving record",
+            "E": "First Aid training"
+          },
+          "answer": "A, E"
+        },
+        {
+          "type": "match",
+          "range": [25, 30],
+          "intro": [
+            "What topic do students learn about in each of the following courses?",
+            "Choose **SIX** answers from the box and write the correct letter, **A–G**, next to Questions 25–30.",
+            "**Courses:**"
+          ],
+          "options": {
+            "title": ["**Findings**"],
+            "list": {
+              "A": "independent living",
+              "B": "the ageing process stages",
+              "C": "PSWs’ role in health care",
+              "D": "workplace communication",
+              "E": "memory stimulation activities",
+              "F": "handling stress",
+              "G": "biological systems"
+            },
+            "after": false
+          },
+          "items": {
+            "25": "Understanding is Essential",
+            "26": "Foundations",
+            "27": "The Way We Work",
+            "28": "Residence Care",
+            "29": "Dynamics",
+            "30": "The Power Within"
+          },
+          "answers": {"25": "D", "26": "C", "27": "G", "28": "A", "29": "F", "30": "E"}
+        }
+      ],
+      "transcript": [
+        {"s": "Speaker 7", "t": "Part 3. You will hear a discussion between two students about taking a course to become a personal support worker. First, you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24."},
+        {"s": "Speaker 8", "t": "Becky, hi. What are you doing here at the college?"},
+        {"s": "Speaker 9", "t": "Hi, Jason. Just using the library. What about you?"},
+        {"s": "Speaker 8", "t": "I’m taking the PSW program. You know, personal support worker."},
+        {"s": "Speaker 9", "t": "You’re kidding. I’ve just qualified as a PSW."},
+        {"s": "Speaker 8", "t": "Really? I’d love to talk to you about the program."},
+        {"s": "Speaker 9", "t": "Okay. Well, first off, the main duties they taught me here were exactly what I needed on the job."},
+        {"s": "Speaker 8", "t": "You mean like bathing and dressing people?"},
+        {"s": "Speaker 9", "t": "Yes. Young and old need this. Uh, you’ll work with people of all ages, from young people with disabilities to seniors. But, you know, nothing really prepares you for how alone many people are. They crave conversation, and I don’t mind chatting with them while I work, though that’s not officially in my job description. [laughs]"},
+        {"s": "Speaker 8", "t": "I think I’d like to focus on seniors care, and with the country’s older population growing, maybe I’ll get a job fast. Do we have to be responsible for any medications?"},
+        {"s": "Speaker 9", "t": "Uh, no, that’s not for us to do. And while you will prepare meals, you won’t feed people. But working to keep clients healthy and able to live on their own without risk as long as possible is always the goal. And we’re recognizing that with life spans increasing, long-term care facilities won’t be able to keep up with the number of people who will need care."},
+        {"s": "Speaker 8", "t": "I almost didn’t meet the requirements for entry into the PSW program. I was one course short getting my high school diploma, so I had to go back to summer school. I took science because I’m no good at math. Oh, and speaking of not getting in, having my first aid certificate was a real piece of luck. I would have been turned down without that, too."},
+        {"s": "Speaker 9", "t": "Hmm. And I would have had a problem with immunizations, except that I traveled the year before. And when the doctor checked my records, they were up-to-date. I also had to hand in a written essay on why I wanted to be a PSW."},
+        {"s": "Speaker 7", "t": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30. Now listen and answer questions 25 to 30."},
+        {"s": "Speaker 8", "t": "So, Becky, what did you think about the courses you had to take in the Personal Support Worker Program?"},
+        {"s": "Speaker 9", "t": "Well, I used to think I got my points across pretty well with people, until I took the Understanding is Essential course. For starters, it taught me how to express myself much more effectively. I also learned a lot about preparing clear reports for my supervisors, and dealing in a better way with people in general. You know, like giving facts without personal views. You’ll find that you need those skills every single day."},
+        {"s": "Speaker 8", "t": "I’m enjoying the Foundations course. I’m taking it now, and I’m getting a lot out of it, because support workers are a newer level of care in the province. I think we absolutely have to understand how we fit into the overall system. It’s a great place to voice your opinions freely. Some are quite personal. Did you have to take a course called The Way We Work? I didn’t know psychology was part of the program."},
+        {"s": "Speaker 9", "t": "Mm, that course was a favorite of mine, but it’s probably not what you’re thinking, Jason. It’s about what happens on the inside of the body and covers the functions that keep our bodies operating well. Even if you’re not a PSW, the course is really interesting. I learned so much."},
+        {"s": "Speaker 8", "t": "What do you think about Residence Care? I know the thinking now is that long-term care facilities aren’t the answer for our aging population."},
+        {"s": "Speaker 9", "t": "Mm, right, and so this course zeroes in on the changes people can make to their homes so they can stay there, like installing higher toilets, for example. You’ll also learn about specialized equipment people can get to help themselves, safety bars for the shower and so on."},
+        {"s": "Speaker 8", "t": "Do any of the courses focus on the families of our clients? After all, any kind of illness or disability affects everybody."},
+        {"s": "Speaker 9", "t": "So true. And yes, there is one. Uh, it’s called Dynamics. You usually get that in your last term. You’ll learn different strategies to help relieve some of the anxiety and strain that happens within the family. I got a lot out of that course. It’s the only one that focuses on emotions rather than facts. I think giving people this kind of help is just as valuable as any kind of expensive equipment they buy to help themselves."},
+        {"s": "Speaker 8", "t": "The course I’m really looking forward to is The Power Within."},
+        {"s": "Speaker 9", "t": "Oh, it’s terrific. Getting old has quite an impact on the mind, as you know, but you’ll be taught ways to help clients keep the mind active, so they’re not so forgetful. You’d be surprised how much improvement you can see in clients when you apply these methods."},
+        {"s": "Speaker 10", "t": "That is the end of Part Three. You now have 30 seconds to check your answers to Part Three."}
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Coal Mining History",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [31, 36],
+          "intro": [
+            "Complete the notes below.",
+            "Write **ONE WORD ONLY** for each answer."
+          ],
+          "limit": {"words": 1, "number": false},
+          "content": [
+            {"center": "**Coal Mining History**"},
+            {"h": "Early Beginnings and Population Changes"},
+            "• Mining activity began in the 1720s when settlers started to extract coal.",
+            "• Workers managed to move the first coal from the [[31]]",
+            "• If production was to increase, it depended on the development of the [[32]] system.",
+            "• More people came to work in the mines every year from the [[33]]",
+            "• The population was reduced in [[34]] areas as people relocated for work.",
+            {"h": "Growth of the Industry and Immigration"},
+            "• Coal production gradually increased throughout the 19th century.",
+            "• Eventually, the booming mine accounted for [[35]] of Canada’s coal supply.",
+            "• A wide range of nationalities were represented in the workforce.",
+            "• Around 1800, most miners were from [[36]], with others from Italy and other European countries."
+          ],
+          "answers": {
+            "31": "cliffs",
+            "32": "transport",
+            "33": "spring",
+            "34": "rural",
+            "35": "40%",
+            "36": "Scotland"
+          }
+        },
+        {
+          "type": "gap",
+          "range": [37, 40],
+          "intro": [
+            "Complete the table below.",
+            "Write **ONE WORD AND/OR A NUMBER** for each answer."
+          ],
+          "limit": {"words": 1, "number": true},
+          "content": [
+            {"table": [
+              ["Items", "Description", "Advantages"],
+              ["Grease torch", "Made by burning animal fat on a stick", "Provided minimal light but was dangerous and smoky"],
+              ["A [[37]] in a holder", "A simple open flame source placed in a holder near work areas", "Easy to use but increased risk of fire underground"],
+              ["Davy Lamp", "A flame lamp with a fitted link secured by a [[38]] to control air flow", "Helped reduce the number of underground [[39]]"],
+              ["Carbide Lamps", "Contained special material that, when mixed with [[40]] produced bright light", "Created a strong yellow-white flame called acetylene"]
+            ]}
+          ],
+          "answers": {
+            "37": "candle",
+            "38": "lock",
+            "39": "accidents",
+            "40": "water"
+          }
+        }
+      ],
+      "transcript": [
+        "Today, I’m going to talk about the history and technological development of coal mining on Cape Breton Island, located off the east coast of Canada in Nova Scotia. This area played a critical role in Canada’s energy production for over two centuries. Let’s begin with the early days. Coal mining in Cape Breton dates back to the 1720s, during the French colonial period. These first operations were extremely basic. The miners didn’t use machines. They relied on manual labor to gather the coal. In fact, the earliest coal was moved by hand from the base of the cliffs along the island’s coast. It was a harsh and dangerous task, as workers had to navigate slippery rocks while carrying heavy loads of coal in baskets. Now, as demand for coal increased, it became clear that new systems had to be developed to handle the growing volume. The ability to transport coal efficiently became one of the biggest challenges facing the industry. For production to grow, Cape Breton needed a well-organized transport network. Initially, they used horse-drawn carts, but as output rose, they introduced railway lines that could carry larger quantities to the port for shipping. This increase in industrial activity also brought about changes in the workforce. Every year, particularly in spring, new groups of laborers would arrive to take advantage of seasonal jobs. Spring was an ideal time, not just because of the weather, but because mining operations expanded significantly during the warmer months. By summer, mines would be fully staffed with both local residents and new arrivals from other parts of Canada and abroad. Naturally, this shift in employment patterns had consequences for local demographics. Many people who had lived in remote or agricultural areas began to relocate. Villages near the mines grew while the population in more rural regions started to decline. Families often moved together, and mining towns quickly expanded, sometimes without adequate planning or infrastructure. By the early 20th century, Cape Breton had become a major player in the national coal industry. At its peak, the island was supplying around 40% of all coal used in Canada. This boom not only supported the domestic energy supply, but also provided fuel for export to other countries. Let’s talk about the workers themselves. Around the year 1800, the local workforce could no longer meet the demand. To fill the gap, laborers were recruited from abroad. Most of the early migrants came from Scotland, particularly from mining towns in the central and western regions. These skilled Scottish miners brought valuable knowledge and traditions with them, shaping the way mining was carried out in Canada. Italian workers also played a key role, especially in the construction of railways and tunnels. Now, let’s look at the technology used in underground mining, specifically how the tunnels were lit before electricity became widespread. The earliest source of light was a grease torch. This simple tool burned animal fat to produce a flickering flame. It was cheap and easy to make, but produced a lot of smoke and posed a serious fire risk. A slightly improved version was to mount a candle in a metal or clay holder. These holders were usually attached to the timber supports inside the tunnels. While candles were more manageable than grease torches, they still had open flames and were far from safe in gas-prone environments. The invention of the Davy lamp marked a huge step forward in mine safety. This device had a flame enclosed in mesh and featured a fitted link sealed by a lock. The design controlled the airflow and prevented the flame from igniting any methane gas in the air. Because of this innovation, the number of accidents such as explosions or fires dropped significantly across many mining sites. Later, carbide lamps were introduced. These worked by combining calcium carbide with water, which created acetylene gas. When lit, it gave off a steady yellow-white flame that was much brighter than previous sources. These lamps were widely used until electric lighting eventually replaced them in the 20th century."
+      ]
+    }
+  ]
+}

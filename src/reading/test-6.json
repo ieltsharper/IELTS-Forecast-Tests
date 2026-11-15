@@ -1,0 +1,269 @@
+{
+  "test": 6,
+  "passages": [
+    {
+      "n": 1,
+      "title": "The Coelophysis dinosaur",
+      "paragraphs": [
+        "The Coelophysis dinosaur was a bird-like prehistoric inhabitant of New Mexico. Until recently, it was thought that this species was cannibalistic, meaning that it preyed on its own offspring. But now a new analysis of the existing fossil* evidence indicates that, in this belief, scientists may have been mistaken.",
+        "Bones preserved inside the fossilised stomach of an adult Coelophysis, long believed to be the remnants of a baby Coelophysis and the primary evidence for cannibalism in that species, have now been proved to be the bones of a type of crocodile. This discovery is a reminder of the difficulty of inferring animal behaviours from bits of fossilised bones. But as museums prepare to alter their displays, and publishers to revise their textbooks to take account of this new knowledge, it is also a reminder that science means never having to say you’re sorry. ‘In science, all ideas must be open for testing,’ said Sterling Nesbitt, the PhD student at Columbia University who led the research that debunked the decades-old presumption about Coelophysis.",
+        "The story begins in 1947, when scientists from New York’s American Museum of Natural History excavated a remarkable bed of prehistoric bones containing more than 1,000 skeletons of Coelophysis, one of the earliest dinosaurs to walk the Earth. The largely whole skeletons, which were up to nine feet long from tail tip to nose, were in many cases stacked on top of one another. Scientists suspect that a huge herd was wiped out in a flash flood and soon afterwards buried in mud and sand.",
+        "From this treasure trove of bones, two specimens in particular have taken on mythic lives of their own. Both were skeletons of Coelophysis adults that appeared to have remains of young Coelophysis in their stomachs. Over time, those specimens gained reputations as solid proof that this species fed on its own young.",
+        "Then, in recent years, Sterling Nesbitt noticed something peculiar while waiting in the 81st Street station of the New York City subway system. That is the station for the natural history museum, and its walls are decorated with replicas of the actual museum exhibits, including one of the famed Coelophysis dinosaurs. He thought it accurately represented the real specimen, which he had only ever seen behind glass in the museum. While in the subway station, Nesbitt ran his finger over a bone inside the dinosaur’s stomach, trying to feel the distinctive head of the femur - a small knob characteristic of these particular dinosaurs’ bones. However hard, he tried, he said, he could not locate it. After that, Nesbitt told his supervisor that they should definitely re-examine the original, because he was fairly sure that the bones inside the stomach were not from a dinosaur.",
+        "Arrangements were made to have the display’s glass removed early one morning before the museum opened. Employing specialised tools, the researchers removed the key bone from the 210-million-year-old specimen. The verdict was straightforward: that dinosaur’s last meal had not been a baby Coelophysis after all - indeed, was not any kind of dinosaur - but was most likely a kind of crocodile, although the precise species remains unknown.",
+        "That led to a closer examination of the other New Mexico specimen. In that case, the baby bones do appear to be those of Coelophysis, but one bone is far too large to have been swallowed intact. And other details, including the orientation of those supposedly swallowed bones, make it virtually certain that they are from a small dinosaur that was crushed beneath the larger animal when disaster struck, and was never inside the larger dinosaur’s gut. ‘Our results show that although stomach contents were remarkably preserved ... no evidence for cannibalism exists,’ the team concluded in a recent issue of Biology Letters, a publication of the Royal Society. It is hoped that the examination of additional Coelophysis fossils at the New Mexico location will help scientists learn more about their prey choices.",
+        "At the time of this publication, London’s Natural History Museum was in the middle of a blockbuster exhibition called ‘Dino Jaws’, which featured life-sized, motorised dinosaurs - including a model of an adult Coelophysis with a baby Coelophysis in its mouth. ‘It’s not embarrassing,’ said Paul Barrett, a palaeontologist at the museum, sounding reasonably cheerful even as he scrambled to add new information, to the display, and plan changes to the museum’s website. ‘It’s a convincing story,’ he said of the new work, and he was happy to accept it."
+      ],
+      "groups": [
+        {
+          "type": "tfng",
+          "range": [1, 6],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage 1?",
+            "In boxes 1-6 on your answer sheet, write",
+            "**TRUE**\tif the statement agrees with the information",
+            "**FALSE**\tif the statement contradicts the information",
+            "**NOT GIVEN**\tif there is no information on this"
+          ],
+          "items": {
+            "1": "In the past, people believed the Coelophysis ate their own young.",
+            "2": "It can be hard to produce reliable conclusions about how animals lived based on the evidence from fossilised bones.",
+            "3": "It took a long time to unearth the bones found in a fossil bed of 1,000 Coelophysis skeletons",
+            "4": "The Coelophysis skeletons in the fossil bed were mostly broken up.",
+            "5": "The herd of Coelophysis probably drowned.",
+            "6": "Prehistoric plants were also found among the stomach contents of the fossilised dinosaurs."
+          },
+          "answers": {"1": "True", "2": "True", "3": "Not Given", "4": "False", "5": "True", "6": "Not Given"}
+        },
+        {
+          "type": "gap",
+          "range": [7, 13],
+          "intro": [
+            "Complete the flow-chart.",
+            "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+            "Write your answers in boxes 7-13 on your answer sheet."
+          ],
+          "content": [
+            {"center": "**Reinterpreting the Coelophysis**"},
+            "Sterling Nesbitt was in a subway station which had [[7]] of dinosaurs and other exhibits from the natural history museum on its walls.",
+            "↓",
+            "He noticed something strange when he was feeling for the unusual top of the [[8]] found in these dinosaurs.",
+            "↓",
+            "Sterling Nesbitt reported to the [[9]] of his research that the genuine bones should be inspected again.",
+            "↓",
+            "Researchers used [[10]] to take out the bone from the museum exhibit.",
+            "↓",
+            "Researchers analysed the bone in the dinosaur’s stomach and discovered that it probably came from a species of [[11]] rather than from a dinosaur.",
+            "↓",
+            "After an inspection of the other New Mexico skeleton, it was decided that the young Coelophysis’s bones had not been [[12]].",
+            "↓",
+            "Paul Barrett in London had to update the exhibition and website at his museum, describing the new discovery as a [[13]]."
+          ],
+          "limit": {"words": 2, "number": false},
+          "answers": {"7": "replicas", "8": "femur", "9": "supervisor", "10": "specialised tools", "11": "crocodile", "12": "swallowed", "13": "convincing story"}
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Paternity Leave",
+      "standfirst": "Men have long been discouraged from playing an equal role at home. That is at last starting to change.",
+      "paragraphs": [
+        {"l": "A", "t": "At a course for fathers-to-be in New York, participants are introduced to baby maintenance for beginners: how to keep their babies fed, warm and clean. The City Dads Group was founded when Matt Schneider and Lance Somerfeld became fathers and discovered that people saw their place as firmly outside the home. New York was full of parents’ support groups, but nearly all were aimed at mothers. Frustrated, the friends set up their own group, which has spread to 17 cities in the USA, helping fathers who want to get involved from day one."},
+        {"l": "B", "t": "In general, legal and financial support for new parents is better than it has ever been. According to the International Labor Organization (ILO), 85% of countries now provide at least 12 weeks’ maternity leave. In all but two of the 185 countries it surveys, mothers are entitled to some leave paid for by the state, companies or some combination of the two. Although only a third of countries meet the ILO’s recommended minimum of at least 14 weeks off for new mothers, paid at two-thirds their salary and funded publicly, the picture is improving."},
+        "But how many countries meet the ILO’s guidelines on paternity leave? None because no such guidelines exist. Though it published detailed advice regarding female employees, the organization has drawn up no formal recommendations on fathers’ rights and duties. Until recently, national governments have been similarly uninterested; less than half of countries offer new fathers more than a fornight, and companies, not the state, usually foot the bill for the costs of paternity leave. In the eyes of most people, responsibility for bringing up baby still falls squarely on the mother.",
+        {"l": "C", "t": "Now a different view is slowly emerging, as growing evidence suggests that children benefit from seeing more of their fathers. But much of the demand for a shift in approaches to childcare has come from women, who have started to conclude that they are victims as well as beneficiaries of generous maternity-leave policies"},
+        {"l": "D", "t": "This may appear paradoxical, as most countries have found that when they offer decent maternity leave, they increase female employment. If women have no right to take time off, or are entitled only to short or poorly paid spells of absence, many have little choice but to leave the workforce when their baby is born. If they can take a few months of paid leave before returning to their old job, they are more likely to continue working. But it turns out that long maternity breaks have unintended consequences. Time away from the labour market reduces women’s earning power, as their skills degrade and they miss chances to gain experience and win promotion. Moving into senior management becomes particularly hard, partly because of discrimination by bosses and hiring committees, who reject candidates they think may be away a lot, and partly because many high-level jobs are hard to combine with serial leave-taking. And the effect is magnified when lengthy maternity leave is combined with policies to encourage part-time work, which tempt more women back into the labour force but help keep them in junior positions."},
+        {"l": "E", "t": "Rather than simply cutting maternity leave in response to such findings, a growing number of governments are trying to spread the child-rearing burden (or joy, depending on how one looks at it). Britain recently became the latest country to combine maternity and paternity leave into a single chunk of parental leave, to be split between mother and father however they see fit. Several European countries, as well as Australia and New Zealand, already have such a system."},
+        "The problem is that dads tend not to take up the offer. In Austria, the Czech Republic and Poland, where all parental leave is transferable, only about 3% of dads make use of it. In Britain, the government estimates that 2-8% of dads will take more than their existing fortnight.",
+        "The main reason for low take-up by fathers is financial: even pre-childbirth, women are paid less than men, meaning that their salaries are easier to forgo during a period of unpaid or low-paid leave. But pressure related to culture also weigh heavily. Mothers still tend to be seen as the main carers, with dads portrayed in domestic terms as blundering sidekicks or well-meaning buffoons.",
+        {"l": "F", "t": "To overcome these obstacles, some countries are giving fathers a firm nudge. In a few, including Chile, Italy and Portugal, paternity leave is compulsory. Others offer incentives that are hard to turn down. Sweden grants a bonus to parents who share leave more equally."},
+        "Swedish fathers now account for more than a fifth of all parental leave taken, compared with almost none when shared leave was introduced. Germany introduced the same system and saw the proportion of fathers taking time off rise from 3% in 2006 to 32% in 2013, and Poland has switched to gender-specific quotas, replacing the previous system of shared leave.",
+        "Where leave is well-paid and not seen as ‘belonging’ to the mother, fathers seem willing to request it. State meddling in what has historically been regarded as a natural division of labour may annoy some people. But traditional maternity leave, which channels men into breadwinning and women into child-rearing, is hardly neutral. And shared involvement by parents stands to improve women’s careers, children’s development and perhaps even dads’ life satisfaction."
+      ],
+      "groups": [
+        {
+          "type": "headings",
+          "range": [14, 19],
+          "intro": [
+            "Reading Passage 2 has seven paragraphs, **A-F**.",
+            "Choose the correct heading for each paragraph from the list of headings below.",
+            "Write the correct number, **i-viii**, in boxes 14-19 on your answer sheet."
+          ],
+          "options": {
+            "title": ["**List of Headings**"],
+            "list": {
+              "i": "Opposition by employers to parental leave",
+              "ii": "An illustration of a trend in one country",
+              "iii": "An explanation for the limited success of government initiatives",
+              "iv": "Pressure for change from an unlikely source",
+              "v": "The need for cooperation at a global level",
+              "vi": "The contrast in attitudes towards leave for mothers and fathers",
+              "vii": "A range of measures to encourage more equal responsibility",
+              "viii": "The implications of maternity leave"
+            },
+            "after": false
+          },
+          "items": {"14": "Paragraph **A**", "15": "Paragraph **B**", "16": "Paragraph **C**", "17": "Paragraph **D**", "18": "Paragraph **E**", "19": "Paragraph **F**"},
+          "answers": {"14": "iv", "15": "viii", "16": "vi", "17": "iii", "18": "i", "19": "vii"}
+        },
+        {
+          "type": "multi",
+          "range": [20, 21],
+          "intro": [
+            "Choose **TWO** letters, **A-E**",
+            "Write the correct letters in boxes 20 and 21 on your answer sheet."
+          ],
+          "choose": 2,
+          "stem": "According to the writer, which **TWO** problems may be caused by maternity leave?",
+          "options": {
+            "A": "women may be less effective at work after maternity leave",
+            "B": "women may find it difficult to find suitable part-time work",
+            "C": "women may find they are paid less for doing the same work",
+            "D": "women’s chances of professional advancement may be affected",
+            "E": "women’s pay may be insufficient to support them during maternity leave."
+          },
+          "answer": "B, D"
+        },
+        {
+          "type": "gap",
+          "range": [22, 26],
+          "intro": [
+            "Complete the summary below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer Write your answers in boxes 22-26 on your answer sheet."
+          ],
+          "content": [
+            {"center": "**Encouraging more fathers to take paternity leave**"},
+            "Even in countries where paternity leave is easy to get, few fathers make use of it chiefly for [[22]] reasons. However, issues connected with [[23]], including traditional views of male and female roles in the family, may also play a part.",
+            "Some countries, such as Chile, have made it [[24]] for men to take paternity leave. Sweden and Germany both offer a bonus to families where parents share leave, and in Poland, mothers and fathers each have [[25]] of leave which are specified for them. Sharing children in this way may be good for both mothers and fathers and may also support the [[26]] of the child."
+          ],
+          "limit": {"words": 1, "number": false},
+          "answers": {"22": "financial", "23": "culture", "24": "compulsory", "25": "quotas", "26": "development"}
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Understanding symbols",
+      "standfirst": "Judy Deloache describes her research into the difficulties children experience with symbols",
+      "paragraphs": [
+        "About 20 years ago I had one of those wonderful moments when research takes an unexpected but fruitful turn. I had been studying toddler memory and was beginning a new experiment with two-and-a-half- and three-year-olds. For the project, I had built a model of a room that was in my laboratory. The real space contained basic furniture such as a couch and table. The miniature version was as similar as possible to its larger counterpart: the furniture was the same shape and material and was arranged in the same position. For the study a child watched as we hid a miniature toy - a plastic dog we called Little Snoopy* - in the model. We then encouraged the child to find ‘Big Snoopy,’ a large version of the toy ‘hiding in the same place in his big room’.",
+        "The three-year-olds were very successful. After they observed the small toy being placed behind the miniature couch, they ran into the room and found the large toy behind the real couch. But the two-and-a-half-year-olds failed abysmally. They cheerfully ran into the room to retrieve the large toy, but most had no idea where to look, even though they remembered where the tiny toy was hidden in the miniature room and could readily find it there.",
+        "Their failure to use what they knew about the model to draw an inference about the real room indicated that they did not appreciate the relation between the model and the room. I realised my memory study was instead a study of symbolic understanding and that the children’s failure might be telling us something about how and when children acquire the ability to understand that one object stands for another.",
+        "The first type of symbolic object that infants and young children master is the picture. No symbols seem simpler to adults, but infants initially find pictures perplexing. The problem stems from the duality inherent in all symbolic objects: they are real in themselves and also representations of something else. A few years ago I became intrigued by anecdotes suggesting that infants do not appreciate this duality - stories of a baby trying to pick up a depicted toy or fit a foot into a photograph of a shoe. We assumed such behaviour would be rare and therefore difficult to study",
+        "Fortunately we were wrong. We began testing infants’ understanding of pictures by putting a book of highly realistic colour photographs of individual objects in front of nine-month-olds. To our surprise, every child in the study reached out to feel or scratch the pictures. The confusion seems to be conceptual not perceptual. Infants can perfectly well perceive the difference between objects and pictures and given the choice they will choose the real thing. But they do not yet fully understand what pictures are and how they differ from real objects. However, when depicted objects bear little resemblance to the real thing - as in a black and white drawing - infants rarely explore them. By 18 months, babies have come to appreciate that a picture merely represents an object; instead of manipulating the paper, they point to pictures and name objects. Nevertheless, it takes several years for the nature of pictures to be completely understood.",
+        "Studies have shown that, until the age of four, many children think that turning a picture of a bowl of popcorn upside down will result in the depicted popcorn falling out of the bowl.",
+        "Pictures are not the only source of confusion for very young children. In a third experiment, we brought a group of toddlers (18- to 30-month-old children) Into a room containing a child’s slide, a chair, and a toddler-sized car. The children played with these for a while. Then we secretly replaced each object with an identical miniature version. Most children attempted to perform the same actions with the miniature items that they had with the larger ones. Some tried to sit on the chair, others attempted to climb into the car. Interestingly, most of the children showed little or no reaction to their failed attempts. We think this probably reflects the fact that toddlers’ daily lives are full of unsuccessful attempts to do one thing or another.",
+        "This confusion has implications for educational practice. Teachers everywhere use blocks or other objects to represent numerical quantity. However, if young children do not understand the relation between an object and what it represents, this could be counterproductive. To demonstrate this, we taught six- and seven-year-olds a difficult subtraction problem using blocks.",
+        "We taught an identical comparison group the same concept, but using pencil and paper. Both groups learned to solve the problems equally well, but the group using blocks took three times as long to do so.",
+        "Dual representation also comes into play in many children’s books. Modern children’s books are often 3D, with features that encourage children to interact directly with the book itself, for example flaps that can be lifted to reveal pictures. Graduate student Cynthia Chong and I reasoned that these features might distract children from the information. Accordingly we used different types of book to teach letters to 30-month-old children. One was a simple old-fashioned alphabet book with each letter accompanied by an appropriate picture. The other was a 3-D version, The children using the traditional book subsequently recognised more letters than those using the 3-D book.",
+        "Presumably, the children could concentrate more easily with the plain 2-D book, whereas with the other one they were distracted by the 3-D activities. Less may be more when it comes to educational books for young children."
+      ],
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [27, 32],
+          "intro": [
+            "Choose the correct letter, **A**, **B**, **C** or **D**.",
+            "Write the correct letter in boxes 27-32 on your answer sheet."
+          ],
+          "items": {
+            "27": {"stem": "In the first paragraph, what did the children in the experiment have to do?", "options": {"A": "spot the differences between a real room and a smaller version", "B": "make a copy of a life-sized room using small furniture", "C": "hide a large toy in a tiny room", "D": "locate a toy in a life-sized room"}},
+            "28": {"stem": "What was the result of the first experiment?", "options": {"A": "Both two-and-a-half- and three-year-olds completed the task successfully.", "B": "Three-year-olds could mentally relate the two rooms they had been shown.", "C": "Two-and-a-half-year-olds could relate more closely to the toys as symbols.", "D": "Two-and-a-half-year-olds had poorer memory than three-year-olds."}},
+            "29": {"stem": "In the fourth paragraph, what does the writer say about children and pictures?", "options": {"A": "Infants are unable to understand that pictures serve a double purpose.", "B": "Young children may understand pictures more readily than adults", "C": "Infants can understand that a picture of food cannot be eaten.", "D": "Adults should encourage children to look at pictures from an early age."}},
+            "30": {"stem": "In the third experiment, what did the writer notice about the reactions of the toddlers?", "options": {"A": "They often behaved in an unpredictable way.", "B": "They were only comfortable performing very familiar tasks.", "C": "They became frustrated when they could not achieve a task.", "D": "They behaved the same whether they were successful or not."}},
+            "31": {"stem": "What did the experiment involving a mathematical problem suggest about children’s learning?", "options": {"A": "Children are able to understand complex concepts at an early age.", "B": "Children younger than seven cannot learn using pencil and paper alone.", "C": "Using blocks can make it harder for children to learn new concepts.", "D": "Teachers should try using blocks to teach mathematics to lower level students."}},
+            "32": {"stem": "What does Deloache conclude about the results of her and Chong’s experiment?", "options": {"A": "Children’s books should be more interactive", "B": "2-D books should contain realistic images.", "C": "Simpler books may be better learning tools", "D": "3-D books help weaker students to progress."}}
+          },
+          "answers": {"27": "D", "28": "B", "29": "A", "30": "D", "31": "C", "32": "C"}
+        },
+        {
+          "type": "match",
+          "range": [33, 35],
+          "intro": [
+            "Complete each sentence with the correct ending, **A-F**, below.",
+            "Write the correct letter, **A-F** in boxes 33-35 on your answer sheet."
+          ],
+          "options": {
+            "title": null,
+            "list": {
+              "A": "that a three-year-old may still expect an image to perform a real task.",
+              "B": "how quickly children can learn the alphabet.",
+              "C": "the best age for children to begin school.",
+              "D": "the effectiveness of symbolic objects as teaching tools.",
+              "E": "whether young children are puzzled by pictures.",
+              "F": "that young children expect tiny objects to function in the same way as life-sized ones."
+            },
+            "after": true
+          },
+          "items": {
+            "33": "The test involving 9-month-old babies attempted to find out",
+            "34": "The third experiment revealed",
+            "35": "The maths experiment was designed to assess"
+          },
+          "answers": {"33": "E", "34": "F", "35": "D"}
+        },
+        {
+          "type": "ynng",
+          "range": [36, 40],
+          "intro": [
+            "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+            "In boxes 36-40 on your answer sheet, write",
+            "**YES**\tif the statement agrees with the claims of the writer",
+            "**NO**\tif the statement contradicts the claims of the writer",
+            "**NOT GIVEN**\tif it is impossible to say what the writer thinks about this"
+          ],
+          "items": {
+            "36": "The results of the first experiment revealed unexpected information.",
+            "37": "Infants react the same way to both drawings and photographs.",
+            "38": "Toddlers are used to failing in many of the tasks they try to perform.",
+            "39": "The confusion of symbols and real objects has little significance for educational practice",
+            "40": "Children enjoy reading 3-D books more than 2-D books."
+          },
+          "answers": {"36": "Yes", "37": "No", "38": "Yes", "39": "No", "40": "Not Given"}
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "1": {"quote": "Until recently, it was thought that this species was cannibalistic, meaning that it preyed on its own offspring.", "explanation": "Câu này khẳng định đúng vì trước đây người ta **tin rằng Coelophysis ăn thịt con của mình**, tức là **hành vi ăn thịt đồng loại (cannibalism)**."},
+    "2": {"quote": "This discovery is a reminder of the difficulty of inferring animal behaviours from bits of fossilised bones.", "explanation": "Bài nhấn mạnh rằng **rất khó để suy luận chính xác hành vi từ hóa thạch**, do đó khẳng định này là đúng."},
+    "3": {"quote": "...containing more than 1,000 skeletons of Coelophysis...", "explanation": "Bài chỉ nói về **số lượng hóa thạch**, **không đề cập thời gian khai quật**, nên **không đủ thông tin để xác định** → NOT GIVEN."},
+    "4": {"quote": "The largely whole skeletons... were in many cases stacked on top of one another.", "explanation": "Bộ xương được mô tả là **gần như nguyên vẹn (largely whole)**, do đó nói chúng **bị vỡ nhiều là sai** → FALSE."},
+    "5": {"quote": "Scientists suspect that a huge herd was wiped out in a flash flood and soon afterwards buried in mud and sand.", "explanation": "Lũ quét gây chết hàng loạt, nghĩa là **chết đuối** → khẳng định đúng."},
+    "6": {"explanation": "Bài chỉ nói về **xương của các con vật** trong dạ dày, **không hề đề cập đến thực vật**, nên ta không thể kết luận được → NOT GIVEN."},
+    "7": {"quote": "...its walls are decorated with replicas of the actual museum exhibits...", "explanation": "Ga tàu nơi Nesbitt đứng **trưng bày mô hình (replicas)** của các mẫu vật thật."},
+    "8": {"quote": "...trying to feel the distinctive head of the femur...", "explanation": "Nesbitt kiểm tra đầu xương **đùi (femur)** – đặc trưng của loài Coelophysis."},
+    "9": {"quote": "Nesbitt told his supervisor that they should definitely re-examine the original...", "explanation": "Sau khi phát hiện điều bất thường, Nesbitt báo cho **giám sát viên** của mình."},
+    "10": {"quote": "Employing specialised tools, the researchers removed the key bone...", "explanation": "Họ sử dụng **dụng cụ chuyên biệt** để lấy mẫu xương khỏi mẫu trưng bày."},
+    "11": {"quote": "...was most likely a kind of crocodile, although the precise species remains unknown.", "explanation": "Sau khi phân tích, họ xác định xương không phải từ khủng long mà từ **một loài cá sấu**."},
+    "12": {"quote": "...never inside the larger dinosaur’s gut... the young Coelophysis’s bones had not been swallowed.", "explanation": "Kết luận là xương **không bị nuốt vào** bởi Coelophysis."},
+    "13": {"quote": "‘It’s a convincing story,’ he said of the new work.", "explanation": "Paul Barrett gọi phát hiện này là **một câu chuyện thuyết phục**, và sẵn sàng cập nhật lại triển lãm."},
+    "14": {"quote": "...people saw their place as firmly outside the home...Frustrated, the friends set up their own group...", "explanation": "Đoạn A mô tả hai người cha bắt đầu một nhóm để hỗ trợ các ông bố, từ đó tạo áp lực thay đổi từ một nguồn không ngờ – chính là các người cha."},
+    "15": {"quote": "...only a third of countries meet the ILO’s recommended minimum...", "explanation": "Đoạn B nói về tác động của việc nghỉ thai sản cho phụ nữ, và so sánh giữa các quốc gia – liên quan đến hệ quả của chính sách nghỉ thai sản."},
+    "16": {"quote": "But much of the demand...has come from women, who have started to conclude that they are victims...", "explanation": "Đoạn này nhấn mạnh sự khác biệt trong cách xã hội nhìn nhận việc nghỉ phép của cha và mẹ, với các bà mẹ bắt đầu cảm thấy bị thiệt thòi."},
+    "17": {"quote": "...maternity breaks have unintended consequences... reduce women’s earning power...", "explanation": "Đoạn này giải thích vì sao một số sáng kiến của chính phủ không hiệu quả – do các tác dụng phụ không mong muốn."},
+    "18": {"quote": "...employers tend to see men as the main earners... harder to take unpaid or low-paid leave.", "explanation": "Đoạn E nói về sự phản đối gián tiếp của giới chủ lao động khi họ coi đàn ông là trụ cột tài chính, khiến họ khó nghỉ phép."},
+    "19": {"quote": "...paternity leave is compulsory. Others offer incentives...", "explanation": "Đoạn này liệt kê nhiều biện pháp (phép nghỉ bắt buộc, thưởng tiền, chia đều thời gian nghỉ) nhằm thúc đẩy chia sẻ trách nhiệm giữa cha và mẹ."},
+    "20": {"quote": "...policies to encourage part-time work, which tempt more women back into the labor force but help keep them in junior positions...” “...their skills degrade and they miss chances to gain experience and win promotion.", "explanation": ["B đúng vì phụ nữ khó tìm được công việc bán thời gian phù hợp.", "D đúng vì cơ hội thăng tiến bị ảnh hưởng do nghỉ dài, kỹ năng suy giảm."]},
+    "22": {"quote": "The main reason for low take-up by fathers is financial...", "explanation": "Lý do chính là yếu tố tài chính – lương thấp khiến họ không muốn nghỉ."},
+    "23": {"quote": "...traditional views of male and female roles in the family...", "explanation": "Văn hóa và quan điểm truyền thống cũng là nguyên nhân khiến đàn ông ít nghỉ."},
+    "24": {"quote": "...paternity leave is compulsory.", "explanation": "Một số nước bắt buộc phải nghỉ phép làm cha – đây là biện pháp mạnh."},
+    "25": {"quote": "...fathers each have quotas of leave...", "explanation": "Từng người có một **quota** (chỉ tiêu) nghỉ riêng biệt."},
+    "26": {"quote": "...may also support the development of the child.", "explanation": "Chia sẻ việc nuôi con giúp ích cho **sự phát triển** của trẻ."},
+    "27": {"quote": "We then encouraged the child to find ‘Big Snoopy’, a large version of the toy hiding in the same place in his big room.", "explanation": "Trẻ phải tìm món đồ chơi lớn trong phòng thật sau khi thấy món nhỏ được giấu trong mô hình."},
+    "28": {"quote": "The three-year-olds were very successful… ran into the room and found the large toy…", "explanation": "Chỉ ba tuổi thành công vì có thể liên hệ phòng thật với mô hình."},
+    "29": {"quote": "They are real in themselves and also representations of something else… infants initially find pictures perplexing.", "explanation": "Trẻ sơ sinh không hiểu rằng hình ảnh vừa là vật thật, vừa đại diện cho thứ khác."},
+    "30": {"quote": "Most of the children showed little or no reaction to their failed attempts.", "explanation": "Trẻ không phản ứng khác biệt khi thất bại – hành vi tương tự dù thành công hay không."},
+    "31": {"quote": "The group using blocks took three times as long to do so.", "explanation": "Dù nội dung giống nhau, nhóm dùng khối mất thời gian gấp 3 lần => khó hơn."},
+    "32": {"quote": "...children using the traditional book subsequently recognised more letters...", "explanation": "Trẻ học tốt hơn với sách đơn giản vì không bị sao nhãng như sách 3D."},
+    "33": {"quote": "To our surprise, every child… tried to feel or scratch the pictures…", "explanation": "Trẻ bối rối vì tưởng tranh là đồ thật – mục đích là kiểm tra điều đó."},
+    "34": {"quote": "...most children attempted to perform the same actions with the miniature items...", "explanation": "Thử nghiệm cho thấy trẻ nghĩ đồ vật nhỏ có thể sử dụng như đồ thật."},
+    "35": {"quote": "...children taught with blocks took three times as long…", "explanation": "Kiểm tra xem biểu tượng như khối gỗ có giúp dạy toán hiệu quả hay không."},
+    "36": {"quote": "...when research takes an unexpected but fruitful turn...", "explanation": "Tác giả nói kết quả không như mong đợi ban đầu."},
+    "37": {"quote": "...infants rarely explore black and white drawings...", "explanation": "Trẻ phản ứng khác nhau với tranh và ảnh màu thật."},
+    "38": {"quote": "...toddlers’ daily lives are full of unsuccessful attempts...", "explanation": "Tác giả cho rằng trẻ nhỏ thường xuyên thất bại nên không thấy bất ngờ."},
+    "39": {"quote": "This confusion has implications for educational practice...", "explanation": "Nó **có ảnh hưởng**, không phải không có."},
+    "40": {"explanation": "Đoạn văn chỉ nói sách 3D **gây xao nhãng** chứ không bàn đến việc trẻ **thích hơn hay không**."}
+  }
+}

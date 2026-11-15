@@ -1,0 +1,207 @@
+{
+  "test": 2,
+  "audio": "audio/test-02.mp3",
+  "sections": [
+    {
+      "n": 1,
+      "title": "Details of museum booking form",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [1, 10],
+          "intro": ["Complete the notes below.", "Write **ONE WORD AND/OR A NUMBER** for each answer."],
+          "limit": {"words": 1, "number": true},
+          "content": [
+            {"center": "**Details of museum booking form**"},
+            "**Name:** James [[1]]",
+            "**Address:** [[2]] Hill Road, London",
+            "**Postcode:** [[3]]",
+            "**Telephone:** [[4]]",
+            "**Discounts and price:**",
+            "• Group of more than 4 people get [[5]] of discount",
+            "• Group of more than 10 people or [[6]] get the same discount",
+            "• Price of entry: [[7]]",
+            "**Special exhibitions:**",
+            "• Industrial [[8]] (coming soon)",
+            "• [[9]] London (currently)",
+            "• Booking date: [[10]]"
+          ],
+          "answers": {"1": "Graeme", "2": "16 Mount", "3": "E15 2TP", "4": "770 464", "5": "10 percent", "6": "students", "7": "4.25 pounds", "8": "Revolution", "9": "Underground", "10": "12 July"}
+        }
+      ],
+      "transcript": [
+        {"s": "Speaker 1", "t": "You will hear a telephone conversation between a booking agent and a student who wants to visit the museum."},
+        {"s": "Speaker 0", "t": "First, you have some time to look at questions one to three. (phone rings) (answering machine beeps)"},
+        {"s": "Speaker 2", "t": "Hello, the Museum of London Life. How can I help?"},
+        {"s": "Speaker 3", "t": "Oh, hi. Uh, I was wondering if you could send me some information? I’ve been looking on your website and can’t seem to find what I need to know."},
+        {"s": "Speaker 2", "t": "Certainly, sir. Can I take your name, first of all?"},
+        {"s": "Speaker 3", "t": "Yes, it’s James Graham."},
+        {"s": "Speaker 2", "t": "Ah, okay. So that’s G-R-A-H-A-M, correct?"},
+        {"s": "Speaker 3", "t": "No, it’s G-R-A-E-M-E."},
+        {"s": "Speaker 2", "t": "Okay, great. Got there in the end. So how can I help?"},
+        {"s": "Speaker 3", "t": "Well, it says that I can print off some vouchers for reduced entry, but I haven’t got a printer. Could you send me some through the post?"},
+        {"s": "Speaker 2", "t": "Sure. What’s your address?"},
+        {"s": "Speaker 3", "t": "16 Mount Hill Road. That’s M-O-U-N-T Hill Road, London, E15 2TP."},
+        {"s": "Speaker 2", "t": "Okay."},
+        {"s": "Speaker 0", "t": "Before you hear the rest of the conversation, you have some time to look at questions four to ten."},
+        {"s": "Speaker 2", "t": "Based on (...)’s website."},
+        {"s": "Speaker 0", "t": "Now listen and answer questions four to ten."},
+        {"s": "Speaker 2", "t": "Can I take a contact number for you, for our records?"},
+        {"s": "Speaker 3", "t": "Yes, it’s double seven oh three six four... Sorry, I mean double seven oh four six four."},
+        {"s": "Speaker 2", "t": "Okay, great. I’ll get some vouchers sent out to you."},
+        {"s": "Speaker 3", "t": "Thanks. Could you just clarify what the discount structure is?"},
+        {"s": "Speaker 2", "t": "Of course. So for groups of four or more, there’s a 10% discount applied. If you manage to get together a larger gang of people, 10 or more to be precise, then that figure goes up to 15%."},
+        {"s": "Speaker 3", "t": "Oh, and what about students like me? Anything extra?"},
+        {"s": "Speaker 2", "t": "Yes. All students get that same 15% discount automatically, but in groups of four or more, that goes up by another 5% to 20%. Would you be coming with friends?"},
+        {"s": "Speaker 3", "t": "No, I think the likelihood is that I’ll be on my own. So how much exactly would that cost me for entry?"},
+        {"s": "Speaker 2", "t": "That’s 4.25."},
+        {"s": "Speaker 3", "t": "So with the discount, that makes, uh, 3.61 pounds, doesn’t it?"},
+        {"s": "Speaker 2", "t": "No, sorry. That price was with the discount already applied."},
+        {"s": "Speaker 3", "t": "Oh, okay. And are there any special exhibitions at the moment? I’ll book tickets for that as well today, provided there’s something special that I’m particularly interested in."},
+        {"s": "Speaker 2", "t": "There is, actually. You’ve just missed a really popular one that took in the Viking period, and coming up we’ve got the period known as the Industrial Revolution, but the one we’re currently running is called Underground London, which looks at the tunnels, sewers, and catacombs beneath the streets of the city."},
+        {"s": "Speaker 3", "t": "Great. Ideally, I’d like to visit on my birthday, the 13th of July."},
+        {"s": "Speaker 2", "t": "Let me check. No, that’s a Monday. We’re closed on Mondays."},
+        {"s": "Speaker 3", "t": "Oh, that’s a shame. Never mind, I’ll come the day before. Can I book over the phone now?"},
+        {"s": "Speaker 2", "t": "Certainly. So that’s one student ticket for the 12th. Let me take your payment details."},
+        {"s": "Speaker 0", "t": "That is the end of part one. You now have one minute to check your answers to part one."}
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Livestocks",
+      "groups": [
+        {
+          "type": "grid",
+          "range": [11, 16],
+          "intro": [
+            "The map has **SIX** gaps. Choose the correct letter, **A-I**, to the suitable places below.",
+            "**List of places**",
+            "[[img:t2-p2-map]]"
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F", "G", "H", "I"],
+          "items": {"11": "Gift Shop", "12": "Beehives", "13": "Holiday Cottages", "14": "Dairy", "15": "Museum", "16": "Estate Office"},
+          "answers": {"11": "E", "12": "G", "13": "A", "14": "C", "15": "B", "16": "I"}
+        },
+        {
+          "type": "mcq",
+          "range": [17, 20],
+          "intro": ["Choose the correct letter, **A, B** or **C**."],
+          "items": {
+            "17": {"stem": "How many unpaid helpers does the National Trust have?", "options": {"A": "about 62,000", "B": "approximately 59,000", "C": "nearly 4.24 million"}},
+            "18": {"stem": "The main aim of the National Trust is", "options": {"A": "to make money from its properties.", "B": "to preserve historical properties.", "C": "to donate money to property owners in financial difficulties."}},
+            "19": {"stem": "A couple can join the National Trust for a year for", "options": {"A": "64 pounds.", "B": "108 pounds.", "C": "114 pounds."}},
+            "20": {"stem": "Paying membership fees by direct debit also gets you", "options": {"A": "a pair of binoculars.", "B": "a National Trust handbook.", "C": "three copies of the National Trust magazine per year."}}
+          },
+          "answers": {"17": "A", "18": "B", "19": "B", "20": "A"}
+        }
+      ],
+      "transcript": [
+        {"s": "Speaker 1", "t": "Part two."},
+        {"s": "Speaker 4", "t": "You will hear a tour guide giving information about a historic house and the organization that owns it."},
+        {"s": "Speaker 1", "t": "First, you have some time to look at questions 11 to 16. Now listen carefully and answer questions 11 to 16."},
+        {"s": "Speaker 5", "t": "As you know, Holloway Estate is one of the few surviving estates in this area that still retains many of the farming features of the past. Let me quickly explain where you can find some of the key attractions. If you take a look on your map, we are now standing at the foot of the steps to the Manor House. Can everyone see it marked with an arrow? Don’t forget, this is our meeting point for when we leave. So directly behind us is the fountain. From here, heading left, the path takes you to a gate which leads into the famous Holloway Orchards, where for hundreds of years the estate has been growing its highly prized apples, cherries, and plums. Incidentally, if you fancy trying them, a range of delicious Holloway jams and preserves are available in the gift shop. Speaking of which, the gift shop is to the right of the main house. If you go through the gate, the left-hand path takes you to the apiary, that’s to say the beehives, where Holloway honey has been collected for more than 250 years. And yes, before anyone asks, you can also buy Holloway honey. If you take the right-hand path, you will come to some old farmers cottages which have been renovated and are rented out as holiday cottages. Please feel free to admire them from the outside, but as there may be guests staying in them right now, please respect their privacy. From the back of the main house, crossing the car park and just before you get to the cattle fields, you will find a row of three buildings. The middle one is the old dairy. The dairy is actually working, producing butter and cheeses using traditional methods. Next to that on the left are the former cattle sheds where the livestock was kept. Nowadays it’s used as a museum, so those of you who are keen to explore Holloway’s farming past should pay it a visit. The building furthest from the Manor House is the old ice house, which is no longer in use and is due to be restored hopefully next year. Last but not least, you may have noticed on the way in that on either side of the main gates are two small houses. This is a traditional feature of country houses of the period. On the right-hand side as you enter the estate is what was known as the gatekeeper’s lodge. This has now become the estate office and the estate manager runs the estate from there. Okay, I think that just about covers everything."},
+        {"s": "Speaker 1", "t": "Before you hear the rest of the recording, you have some time to look at questions 17 to 20."},
+        {"s": "Speaker 6", "t": "Based on Krakow’s with Rob’s website..."},
+        {"s": "Speaker 1", "t": "Now listen carefully and answer questions 17 to 20."},
+        {"s": "Speaker 5", "t": "Okay, everyone, before we begin the tour of the Manor House, I’d like to take a few minutes to tell you about the organization that now owns the estate and for which I work, the National Trust. The National Trust is the largest membership organization in the UK with 4.24 million members. Our annual revenue is £494 million. At the present time, we have 5,899 paid members of staff and an additional 62,000 volunteers. That’s an approximate number because new volunteers are joining us all the time. The trust owns about 350 heritage properties. Many of these are large country houses that the owners donated to us because they could no longer afford to maintain them. The trust also owns gardens and industrial monuments. The trust’s sources of income include membership subscriptions, entrance fees, donations, and revenue from the gift shops and restaurants within our properties with much of the money raised being invested back in the preservation of the properties themselves. And of course, this is the principal purpose of the National Trust, the conservation and protection of historical places and spaces with a view to making them available to the public. As well as owning stately homes and houses associated with famous people, the National Trust has gradually extended its collection of art, and it also owns valuable books, clothing, furniture, ceramics, and all kinds of unusual objects. Now, if you would like to join the National Trust, I have the forms here, or you can visit our website and join online. You’ll get unlimited access to hundreds of wonderful days out across the country.Lifetime membership costs £1,555, but most members join for a year at a time. Individual membership is currently £64 annually, but it’s cheaper to join with your partner or another family member, as it’ll be £108 for two people living at the same address. For a family of four, two adults and two children, a year’s membership costs £114. It’s a great gift for a birthday or other special event. There are lots of benefits to being a member. As well as free parking at all our locations, you receive a National Trust handbook full of information to help you plan your visits, and if you pay by direct debit, you’ll receive a free pair of binoculars. Oh, I almost forgot. All members receive a free copy of the National Trust magazine, sent to you by post three times a year."},
+        {"s": "Speaker 7", "t": "That is the end of part two. You now have 30 seconds to check your answers to part two."}
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Presentation Preparation",
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [21, 25],
+          "intro": [
+            "Choose the correct letter, **A, B** or **C**.",
+            {"center": "**Presentation Preparation**"}
+          ],
+          "items": {
+            "21": {"stem": "The presentation will start", "options": {"A": "on next Wednesday.", "B": "later this week.", "C": "before Wednesday next week."}},
+            "22": {"stem": "The subject of the presentation is about", "options": {"A": "Women in Education.", "B": "Women in Politics.", "C": "Vocation and Education."}},
+            "23": {"stem": "The presentation lasts for", "options": {"A": "one hour.", "B": "30 minutes.", "C": "15 minutes."}},
+            "24": {"stem": "Which kind of equipment do they need for their presentation?", "options": {"A": "handouts and PowerPoint slides", "B": "projector and laptop", "C": "pointer and laptop"}},
+            "25": {"stem": "Where is the location of the presentation?", "options": {"A": "Lecture Hall", "B": "Lecture Theatre", "C": "Seminar room"}}
+          },
+          "answers": {"21": "C", "22": "A", "23": "B", "24": "B", "25": "C"}
+        },
+        {
+          "type": "match",
+          "range": [26, 30],
+          "intro": [
+            "Which person is responsible for the following tasks?",
+            "Write the correct letter, **A**, **B** or **C**, next to Questions 26-30.",
+            "**List of tasks**"
+          ],
+          "options": {"title": ["**List of persons**"], "list": {"A": "Simon", "B": "Kelly", "C": "Fiona"}, "after": false},
+          "items": {"26": "Introduce and end the talk", "27": "Talk about the historical perspective", "28": "Talk about the contemporary situation", "29": "Book the technical equipment", "30": "Build the presentation"},
+          "answers": {"26": "C", "27": "B", "28": "A", "29": "B", "30": "A"}
+        }
+      ],
+      "transcript": [
+        {"s": "Speaker 7", "t": "Now listen and answer questions 21 to 25."},
+        {"s": "Speaker 8", "t": "Hi Kelly. How are you?"},
+        {"s": "Speaker 9", "t": "Fine, thanks. Do you still have time to talk about our presentation?"},
+        {"s": "Speaker 8", "t": "Yeah, for sure. We need to get going on this, don’t we?"},
+        {"s": "Speaker 9", "t": "Well, it’s next Wednesday, so yes."},
+        {"s": "Speaker 8", "t": "Thought it was Thursday."},
+        {"s": "Speaker 9", "t": "No, that’s the other group. We’re doing ours the day before. I’ve just seen Fiona. She’s going to be a bit late, so shall we just get started?"},
+        {"s": "Speaker 8", "t": "Yes, fine. We’re definitely doing it on women in education, aren’t we? I know we talked about women in politics, but are we going for education?"},
+        {"s": "Speaker 9", "t": "Yes, that’s right. Now, it’s not too long, is it, the presentation? They said to keep it to about half an hour. Maybe we can sort out who’s doing what today."},
+        {"s": "Speaker 8", "t": "Yes, good idea. One thing we do need to sort out is a projector and laptop. We’re going to use PowerPoint or something like that for the talk, aren’t we?"},
+        {"s": "Speaker 9", "t": "Yes, they said we could book a projector and laptop from technical services if we needed them, because it’s not in the lecture theater, is it? I know there’s already one set up in there, but-"},
+        {"s": "Speaker 8", "t": "No, the lecture theater was booked. We’re in the seminar room."},
+        {"s": "Speaker 7", "t": "Before you hear more of the conversation, you have some time to look at questions 26 to 30."},
+        {"s": "Speaker 9", "t": "Okay, so what’s the next step? We need to work out who’s doing what, don’t we?"},
+        {"s": "Speaker 8", "t": "Well, we all know the subject, seeing as our last essay was on this topic."},
+        {"s": "Speaker 9", "t": "Yes, but we can’t just stand up and ramble on (laughs). It’ll need to be structured. I’ve got an idea. Fiona’s essay was brilliant, wasn’t it? Why don’t we base the talk on that? We can always add bits here and there if we think it needs padding out anywhere."},
+        {"s": "Speaker 8", "t": "That’s a good idea. Shall we ask her to get a copy of it for both of us?"},
+        {"s": "Speaker 9", "t": "Yes, I’m sure she won’t mind. We can always let everyone know at the start of the presentation that it’s Fiona’s work. But we don’t want to just read it out. That’ll be really boring. It’s probably best to make notes from it so that we can improvise a bit on the day."},
+        {"s": "Speaker 8", "t": "Why don’t we break the essay down into sections and the three of us can each take on one section? We can all make notes on our own part and add to it where we think it needs it. That way, we can try to make it our own."},
+        {"s": "Speaker 9", "t": "Yes, I like it. So let’s ask Fiona to start the talk off and bring it to a close. She can take on the introduction and conclusion. I know she divided the essay into the situation for women in the past and then compared it to how things are now. So why don’t I take the bet on the past and you talk about the situation for women as it is now?"},
+        {"s": "Speaker 8", "t": "Okay. If we give ourselves till the weekend to work on it, we can get together on Saturday to see how it’s looking. Now, what about the presentation itself? Someone will need to build that and find images. We don’t just want to fill each slide with a load of text, do we?"},
+        {"s": "Speaker 9", "t": "No, we don’t. Before I forget, I can sort out the laptop and projector. I’ve got to go down to technical services to get them to have a look at my laptop. They reckon they can get it to run a bit faster. But the presentation, who’s good with computers? Do you fancy having a go?"},
+        {"s": "Speaker 8", "t": "I don’t mind.But I’ll wait until we’ve met up on Saturday just to make sure we’ve all got our notes."},
+        {"s": "Speaker 9", "t": "We’ll need images, won’t we? Shall we all search for our own to fit our section of the talk?"},
+        {"s": "Speaker 8", "t": "Yes. And then if you and Fiona email them to me, I’ll add them to the presentation."},
+        {"s": "Speaker 9", "t": "Right. That was easy, wasn’t it? And look, here comes Fiona. Let’s ask her about her essay."},
+        {"s": "Speaker 10", "t": "That is the end of part three. You now have 30 seconds to check your answers to part three."}
+      ]
+    },
+    {
+      "n": 4,
+      "title": "A case study on newspapers",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [31, 40],
+          "intro": ["Complete the notes below.", "Write **ONE WORD ONLY** for each answer."],
+          "limit": {"words": 1, "number": false},
+          "content": [
+            {"center": "**A case study on newspapers**"},
+            "**Decision-making process:**",
+            "• A basic [[31]] of the news story is anything new",
+            "• Television editors must be more [[32]] than print news stories",
+            "• Nowadays, news stories engage readers if they have private [[33]]",
+            "• What an editor chooses to report is highly dependent on their [[34]]",
+            "• A good news editor also needs to pay attention to the stories being published by the [[35]]",
+            "**Producing process:**",
+            "• News [[36]] stage: researching and writing news items, arranging advertisement",
+            "• Editing: editor marks their [[37]] using different colours",
+            "• Pre-press: designing page layout, a(n) [[38]] of page is produced",
+            "• Press stage: each page is transferred to a metal [[39]]",
+            "• Impression stage: news stories are inserted on the [[40]] process"
+          ],
+          "answers": {"31": "definition", "32": "selective", "33": "relevance", "34": "audience", "35": "competition", "36": "gathering", "37": "changes", "38": "prototype", "39": "plate", "40": "printing"}
+        }
+      ],
+      "transcript": [
+        {"s": "Speaker 11", "t": "Part four. You will hear someone giving a talk about writing for a newspaper and the printing process. First, you have some time to look at questions 31 to 40."},
+        {"s": "Speaker 12", "t": "Good afternoon, everyone. So today’s talk is divided into two parts. In the first part, I’m going to try to explain the decision-making process behind choosing what stories to publish in the newspaper. Later, in the second part of my talk, I will explain the process of producing a print newspaper. So first of all, I’d like to consider the question, what is news? It’s a question I get asked all the time. Well, to put it in very simple terms, it is anything new. However, that definition is extremely vague and open to interpretation. In other words, it doesn’t really help a newspaper editor decide what stories to include. So a better question would be, what factors help newspaper editors decide which stories make it into their newspaper? Well, of course, it’s a slightly different process for TV news programs because TV editors have to be more selective about what to include. TV news shows are restricted by length and can be as short as five minutes. Newspapers don’t have these restrictions, but even with print or online newspapers, there are many more stories vying for attention than those that actually appear in the final edition. Returning to the question then, what makes a news story newsworthy? What is it that grabs the attention and makes you want to interact with the story? Basically, it is anything with personal relevance for the reader. This presents us with two more questions. How do we as newspaper editors decide what is relevant and what is not? And what is it that makes a story personal? The answer is that it very much depends on your audience, and a good newspaper editor chooses stories based on their relevance and personal interest to their audience. He or she needs to know what sells their newspaper because at the end of the day, if our newspapers don’t sell, we don’t have a job. A successful editor doesn’t just think about their audience. They also need to keep an eye on the competition, and this is the final factor I want to address in this part of my talk. To clarify, the competition is other newspapers or news channels. If a story is getting a lot of attention and coverage elsewhere, then as an editor, you need to find a way to include it in your newspaper. So now to move on to the second part of my talk, which is the process of putting together an edition of a printed newspaper. The first stage is a continuous process in which journalists are collecting and writing up stories and the marketing people are positioning the advertisements, and this is known as the news gathering stage. As soon as an article is finished, it’s passed on to the second stage of the process, editing. Both content and language have to be edited. Facts may need to be checked and changes made to the language to ensure the tone of the piece fits the style of the newspaper and the message the editor wants to convey. There may be a number of different editors depending on the size of the newspaper, and each editor needs to use a contrasting color to edit so that it’s easy to see who has made the changes. For example, subeditors use red, the chief subeditor uses blue, and the editor uses green.Once all the editing is finished, we move on to the next stage, which is called pre-press. This stage is concerned with layout. Each page of the newspaper is laid out and designed with stories, pictures, and adverts. A prototype, or first version, of each page is made. Nowadays these are then transformed into digital form by graphic designers. The pre-press stage is followed by the press or lithographic stage. Traditionally, and in places where digital printing isn’t used, the stories and adverts are registered on a plate, an iron sheet in the size and shape of the newspaper. Next comes the impression stage. The plates are hung on the printing press and the final copies are printed out. For some of the national newspapers this can run to thousands of copies that need to be collected and put in order before the final stage, circulation, when the newspapers are sent out to be distributed across the country. Although digital technology now plays a part in this whole process, it’s actually remarkably similar to the way it has always been done. The process from beginning to end typically takes about 12 hours as it’s a very fast-moving business."},
+        {"s": "Speaker 13", "t": "That is the end of Part Four. You now have one minute to check your answers to Part Four. That is the end of the listening test. In the IELTS test you would now have ten minutes to transfer your answers to the answer sheet."}
+      ]
+    }
+  ]
+}

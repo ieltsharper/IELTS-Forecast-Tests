@@ -1,0 +1,425 @@
+{
+  "test": 8,
+  "passages": [
+    {
+      "n": 1,
+      "title": "Think Small",
+      "standfirst": "Izon is a New Zealand company specialising in nanoscience - the study of atoms, molecules and other very small pieces of matter",
+      "paragraphs": [
+        "The new US headquarters of Izon are situated in Cambridge, Massachusetts, one of the most important global centres of scientific research and technology. Half the other offices in the building Izon shares have scientific names like Stemgent, or the word ‘pharmaceutical” in the name. In the past three years, Izon has expanded to 17 times its previous size. It’s done so selling only one product that it’s been developing since 2004, the qNano. This is an adjustable tool for the measurement and analysis of tiny particles in scientific research, which comes with a $27,000 price tag. Izon’s success results from the fact that the qNano machine provides precise measurements, while similar machines of the same price only offer averaging techniques. In effect, researchers using the q Nano are able to gather information about very small things, and it has many possible applications from drug delivery analysis through to environmental research.",
+        "Kristoffer Bolen is Izon’s US head of sales. Alongside his full-time role with the company, he’s just finished the fifth semester of six for his High Tech Masters of Business Administration at Northeastern University, which will be his second Masters degree alongside a Masters of Science. These soon to be twin Masters degrees provide Bolen with the perfect combination of skills for his job, which depends on him being able to manage the sales process and also comprehend in depth a very complicated piece of technology. When a customer buys a gNano device, an Izon representative will fly anywhere in America to train them how to use the instrument. The representative then checks in with the client on an ongoing basis to be completely informed about how each qNano is being used, and then liaises with technicians back in New Zealand.",
+        "The Izon story started 8 years ago in New Zealand. Hans van der Voorn was aimless, having sold his own company, and was looking for something more taxing to set his mind to, Van der Voor was introduced to three scientists with an idea that involved simply a small plastic membrane with a tiny adjustable hole to measure a range of very small particles. Initially he put up an investment of $1.5 million to move the process forwards to the development of a prototype, and this led to the founding of Izon and the production of the qNano. Van der Voor believes that the worlds of science and business sometimes don’t understand each other very well. However, he thinks that engineering can be a bridge between the two, and his long experience in that field has been crucial to the company’s success. He soon realised that 1zon was going to need people on the ground overseas if it was going to grow, so the US office was opened. For now Izon trades in the US as a foreign company, so avoids the high level of compliance that comes with being an American registered company But he sees that one day soon this will change, as Izon’s current position disallows it from entering into partnerships locally.",
+        "Marketing the gNano is complicated. Izon needs scientists both to buy and advertise the product. The science world may seem like a big playing field, but it’s actually a small group.",
+        "As a result, the critical part of the company’s marketing is articles that clients publish describing work they have performed with the qNnno. So for on the sale isn’t enough in itself, it also has a stake in how customers are using the qNano. That’s where Yaniv Gaynor comes in. As development and training manager, he’s involved throughout the sales process and manages most of the customer’s post-sale experience. The sales process is new for Gavnor, who shifted cities and switched from a role as teacher at the University of Minnesota to his first private sector role with Izon, ‘It’s tricky, it’s challenging and it’s not in my comfort zone, he concedes. But nine out of ten times, if there’s an unhappy customer he’s able to turn their experience around. And there’s another part to this, because sitting with customers as they learn about the qNano, Gaynor gets to see how they are using the product. ‘People ask very good questions and these are great triggers for future development’, he says.",
+        "“Our business Is selling research tools.’ van der Voorn says. But he knows that the application range of this tool is wide. For instance, Izon is engaged in a project with Harvard University, looking for a particular type of particle of blood that is a symptom of the medical condition of thrombosis. If in the future they can identify this particle, they can design a simple test for it.",
+        "This would make it easier for doctors to diagnose thrombosis. Another planned development is eventually to shift the US base to more spacious offices on the other side of town. With larger headquarters, the company will be able to bring clients into the Izon building for training with its product, rather than travelling to them, which will hopefully result in an even closer relationship between the company and its customers."
+      ],
+      "groups": [
+        {
+          "type": "tfng",
+          "range": [1, 7],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage?",
+            "In boxes 1-7 on your answer sheet, write",
+            "**TRUE**\tif the statement is true",
+            "**FALSE**\tif the statement is false",
+            "**NOT GIVEN**\tif the information is not given in the passage"
+          ],
+          "items": {
+            "1": "Ion’s new US headquarters are located in an area popular with other science businesses",
+            "2": "Ion’s growth in the last three years has been faster than the company predicted.",
+            "3": "Since 2004, Izon has developed a range of equipment for use in scientific research.",
+            "4": "One advantage of the qNano is that it is cheaper than its competitors.",
+            "5": "Drug delivery analysis will be the most profitable application of the qNano.",
+            "6": "Kristoffer Bolen is still completing his studies.",
+            "7": "Bolen’s job requires him to fully understand how the gNano works."
+          },
+          "answers": {"1": "True", "2": "Not Given", "3": "False", "4": "False", "5": "Not Given", "6": "True", "7": "True"}
+        },
+        {
+          "type": "gap",
+          "range": [8, 13],
+          "intro": [
+            "Complete the notes below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer.",
+            "Write your answers in boxes 8-13 on your answer sheet."
+          ],
+          "content": [
+            {"center": "**The Izon Story**"},
+            {"h": "Hans van der Voorn"},
+            "He made the [[8]] which enabled the prototype to be created.",
+            "His background in [[9]] as well as business gave him the skills to run Izon.",
+            {"h": "Izon in the United States"},
+            "It is unable to form partnerships in the US because it’s not registered there.",
+            "The company’s marketing relies on [[10]] about its customers’ research.",
+            "Yaniv Gaynor was formerly a [[11]] with no experience in sales.",
+            "Development of the product is influenced by customers’ questions.",
+            {"h": "Plans for the future"},
+            "To diagnose for thrombosis, a [[12]] may be developed.",
+            "[[13]] will be done at Izon’s US headquarters."
+          ],
+          "limit": {"words": 1, "number": false},
+          "answers": {"8": "investment", "9": "engineering", "10": "articles", "11": "teacher", "12": "test", "13": "training"}
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Conscious and Unconscious Thought",
+      "paragraphs": [
+        "Great scientists and artists have long known about the unconscious mind. The founder of psychoanalysis, Sigmund Freud, argued that most of our real motivation lies below conscious awareness and that we require the services of a psychoanalyst to explain ourselves to ourselves. Even those celebrated scientists who believe that Freud exaggerated the importance of the unconscious argue that it is a part of our minds which we should learn to control and take advantage of.",
+        "The great mathematician Alfred North Whitehead seemed to be a supporter of unconscious mental processing when he said: ‘It is a profoundly erroneous truism, repeated by all copybooks and by eminent people making speeches, that we should cultivate the habit of thinking about what we are doing. The precise opposite is the case.’ What Whitehead meant by this is that some of the greatest breakthroughs in creativity occur when a problem is consciously shelved for a while - ‘don’t think about it, just sleep on it’ - after which the unconscious mind offers a solution. This is a process which psychoanalysts call ‘incubation’.",
+        "Now the latest psychological research confirms that we can all incubate a problem to our own advantage. Ap Dijksterhuis, a psychologist at the University of Amsterdam, has recently published a series of experiments in which students were presented with complex everyday problems to solve. In one experiment they were given the opportunity to think carefully about a decision; in another experiment they were distracted by an irrelevant task whilst making a decision. The surprising result, published in the Journal of Personality and Social Psychology, was that ‘unconscious’ thinkers made the better decisions.",
+        "Timothy Wilson and colleagues from the University of Virginia’s psychology department conducted another experiment. Participants were presented with five posters and asked to choose one to take home. A little later, they were telephoned and asked how satisfied they were with their choice - a measure of whether they had made the right decision from a subjective point of view. Some participants had picked their poster straight away, whereas others were asked to analyse carefully the pros and cons of each poster. It turned out that people who had analysed were less satisfied with their choice than people who had not applied logic. Paradoxically, it seems that those who had consciously weighed up the various attributes had made relatively poor decisions.",
+        "The conclusion that has to be drawn from current research suggests the somewhat counter-intuitive idea that the more complex a problem is, the less likely it becomes that conscious thought can contribute much. If a dilemma is particularly difficult, a lot of information has to be taken into account and it appears that conscious thought is not good at this. The message is that when it comes to intricate problems with many variables, you should let the unconscious deal with it.",
+        "Using dreaming is one way of doing this Dreams are the part of sleep most strongly correlated with rapid eye movement (REM) and have been associated with enhanced creativity and novel solutions. The latest research suggests that, if you want to enhance unconscious problem-solving, you should try to think about your problems immediately after dreaming. In a recent experiment, psychiatrist Matthew Walker and colleagues from the Laboratory of Neurophysiology at Harvard Medical School woke up half of their experimental subjects immediately after REM sleep, and the other half just after sleep with no dreams, and then asked them to solve crossword puzzles. REM awakenings provided a 32 per cent advantage in the number of puzzles solved, compared with non-REM awakenings.",
+        "But you don’t have to be asleep to use the unconscious mind when you are not thinking of anything in particular, which is why daydreams are so useful in the quest for creativity. Daniel Goleman, the famous psychologist who proposed the theory of emotional intelligence’, urges us to be more aware of, and discount, a key obstacle that the conscious mind imposes on the unconscious: that of self-censorship. This is the voice that whispers to you, ‘they’ll think I’m foolish’ or ‘that will never work, keeping you imprisoned within the boundaries of what is deemed acceptable. Howard Gardner, a professor of cognition and education at Harvard University, suggests that we free ourselves from the straitjacket of always doing things the same way. In seeking to go beyond the routine and conventional, you will gain confidence in trusting your unconscious, he says."
+      ],
+      "groups": [
+        {
+          "type": "match",
+          "range": [14, 17],
+          "intro": [
+            "Look at the following statements (Questions 14-17) and the list of people below.",
+            "Match each statement with the correct person, **A-F**.",
+            "Write the correct letter, **A-F**, in boxes 14-17 on your answer sheet."
+          ],
+          "options": {
+            "title": ["**List of People**"],
+            "list": {
+              "A": "Alfred North Whitehead",
+              "B": "Ap Dijksterhuis",
+              "C": "Timothy Wilson",
+              "D": "Matthew Walker",
+              "E": "Daniel Goleman",
+              "F": "Howard Gardner"
+            },
+            "after": true
+          },
+          "extra": ["*Note: the book's scan does not print the list of people for Questions 14–17. This list was rebuilt from the people named in the passage (in order of appearance) and the answer book's explanations.*"],
+          "items": {
+            "14": "People find it easier to solve problems at a particular point in the sleep cycle.",
+            "15": "People should change their general behaviour patterns in order benefit more from the unconscious.",
+            "16": "When solving problems, people should try to ignore negative thoughts.",
+            "17": "People can come up with ideas which are more innovative if they temporarily put a problem aside."
+          },
+          "answers": {"14": "D", "15": "F", "16": "E", "17": "A"}
+        },
+        {
+          "type": "gap",
+          "range": [18, 20],
+          "intro": [
+            "Complete the summary below.",
+            "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+            "Write your answers in boxes 18-20 on your answer sheet."
+          ],
+          "content": [
+            "Many scientists argue that people should make better use of their unconscious mind. Alfred North Whitehead, for example, gave support for the idea of [[18]] a term for people deliberately ignoring a problem over a period of time.",
+            "Experiments in Amsterdam that required students to consider a tricky situation found them making good decisions while carrying out an unconnected [[19]] Similarly, an experiment in Virginia which required subjects to make a selection from a number of different [[20]] found people feeling happier with their decisions if they had made them quickly."
+          ],
+          "limit": {"words": 2, "number": false},
+          "answers": {"18": "incubation", "19": "task", "20": "posters"}
+        },
+        {
+          "type": "tfng",
+          "range": [21, 26],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage 2?",
+            "In boxes 21-26 on your answer sheet, write",
+            "**TRUE**\tif the statement agrees with the information",
+            "**FALSE**\tif the statement contradicts the information",
+            "**NOT GIVEN**\tif there is no information on this"
+          ],
+          "items": {
+            "21": "Our unconscious mind helps us more than our conscious mind with complex problems.",
+            "22": "Resting before going to sleep can result in improved solutions to problems.",
+            "23": "Problems are more likely to be solved after dreamless sleep.",
+            "24": "Matthew Walker’s team assessed their subjects using a memory test.",
+            "25": "Daydreams are more helpful to the unconscious than dreams which occur during sleep.",
+            "26": "People often create their own barriers to problem-solving."
+          },
+          "answers": {"21": "True", "22": "Not Given", "23": "False", "24": "False", "25": "Not Given", "26": "True"}
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "How plants fight back",
+      "paragraphs": [
+        {"l": "A", "t": "Recent research has shown that plants are more aware of their environment and more active in their responses than was ever previously imagined. Simon Gilroy, a professor of botany at the University of Wisconsin-Madison in the USA, has spent much of his career trying to understand how plants work. Now, Gilroy and one of his postdoctoral researchers, Masatsugu Toyota, have produced a series of videos that shows how plants responded when they subjected them to wounds, including scissor cuts and caterpillar bites."},
+        {"l": "B", "t": "Gilroy and Toyota discovered that when one part of a plant is attacked or damaged, a wave of calcium spreads throughout the rest of the plant. The calcium alerts the plant to danger and the need to deploy defence tactics. The team were able to see this by utilising a naturally occurring fluorescent-green protein which binds to the calcium, making its path visible."},
+        "While scientists already knew that plants reacted to danger via an electrical charge that moves across the plant, they didn’t know exactly how it happened. Gilroy and Toyota suspected it had something to do with calcium and were able to confirm their suspicions. They were also able to reveal how glutamate - an abundant neurotransmitter in animals - triggers this wave of calcium.",
+        {"l": "C", "t": "The find was fortuitous given that Gilroy hadn’t intended to study wounding at all. His real passion is understanding how plants sense gravity and seem to know which way is up-something that’s proving extremely hard to work out. It was during the early stages of an experiment into gravity that Toyota came across the wounding response."},
+        "‘We work very intensely on the calcium signal, because it’s a ubiquitous signal. Biology uses it absolutely everywhere,’ explains Gilroy. ‘It makes your heart beat, it makes your muscles contract. Plants use it for a lot of their signalling machinery. We had some hints that the gravity-sensing system is based around the calcium signal, and so we were developing the technology to image calcium cells in real-time.’ It was during this process that Gilroy and Toyota realised they’d captured something never usually visible to humans.",
+        {"l": "D", "t": "The team found that the calcium travels at one millimetre per second, fast enough to spread to other leaves in just a couple of minutes. From the data collected up to now, it appears that how far the calcium travels depends on the extent of the wound, or, as Gilroy puts it, ‘The more you hurt it, the louder it screams.”"},
+        "That ‘scream’ can result in a range of responses. ‘Plants are masters of chemistry,’ says Gilroy. We deal with the world by running away from it, plants deal with the world by growing in response to it, or by making a tonne of stuff. That ‘tonne of stuff’ could be chemicals that poison a hungry insect, or that make the plant unattractive, tough or unpalatable. Some plants even make proteins that block the ability of a caterpillar’s gut to digest the plant material. This is dinner that fights back.",
+        {"l": "E", "t": "The next step for Gilroy and his team is to delve deeper into the signalling response on a cellular level, dissecting the genes and proteins responsible. In contrast to our understanding of human nerve cells, Gilroy admits that the equivalent responses in plants are still barely understood. He is also going to widen the scope of the study and look at other signals that plants send out - signals regarding temperature and changes in light and touch."},
+        "Gilroy explains that there may be a wider use for the research, albeit a long way in the future. Once scientists have managed to identify the specific genes that make the signalling process work and can understand what happens when you switch those genes on and off, it’s not hard to think about the potential. You can imagine that we should be able to take a crop plant and switch on its defences on-call,’ says Gilroy. ‘We’re nowhere near that point yet, but once we get there - say you’re in a field and you predict there’s going to be an outbreak of some pest, you could go in and pre-defend all of the plants in the field, but you do it on-call so the plants aren’t wasting their resources defending themselves the whole time.”",
+        {"l": "F", "t": "For now, though, Gilroy is happy to simply increase understanding of plants. He is energetic in his insistence that they are not the inactive and unreceptive organisms that people generally believe them to be. For that reason, he’s as enthusiastic about the way the videos bring the response process to life as he is about the future potential of the research. ‘When you look at a plant, just because it doesn’t do what we do, and it doesn’t move, that doesn’t mean it isn’t doing anything. They’re hugely dynamic organisms,’ he says."}
+      ],
+      "groups": [
+        {
+          "type": "grid",
+          "range": [27, 31],
+          "intro": [
+            "Reading Passage 3 has six sections, **A-F**",
+            "Which section contains the following information?",
+            "Write the correct letter, **A-F** in boxes 27-31 on your answer sheet.",
+            "**NB**\tYou may use any letter more than once."
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F"],
+          "items": {
+            "27": "an explanation of how scientists were able to observe plants sending warning signals",
+            "28": "examples of the means used by scientists to provoke plants’ signalling response",
+            "29": "reference to the idea that we could one day manipulate plants’ signalling abilities",
+            "30": "the purpose of the research which led to Gilroy and Toyota’s discovery",
+            "31": "a comparison regarding levels of scientific knowledge about responses in plants and humans"
+          },
+          "answers": {"27": "B", "28": "A", "29": "E", "30": "C", "31": "E"}
+        },
+        {
+          "type": "gap",
+          "range": [32, 36],
+          "intro": [
+            "Complete the summary below.",
+            "Choose **ONE WORD ONLY** from the passage for each answer.",
+            "Write your answers in boxes 32-36 on your answer sheet."
+          ],
+          "content": [
+            {"center": "**Gilroy and Toyota’s research**"},
+            "As part of their research at the University of Wisconsin-Madison, Simon Gilroy and Masatsugu Toyota made several [[32]] revealing plants’ reactions to cuts, bites and other [[33]].",
+            "These indicated how the spread of calcium warns plants about the presence of [[34]] The use of a brightly coloured [[35]] enabled the researchers to see the movement of calcium through the plant. The research also showed how [[36]] activates the release of calcium in the plant."
+          ],
+          "limit": {"words": 1, "number": false},
+          "answers": {"32": "videos", "33": "wounds", "34": "danger", "35": "protein", "36": "glutamate"}
+        },
+        {
+          "type": "multi",
+          "range": [37, 38],
+          "intro": [
+            "Choose **TWO** letters, **A-E**.",
+            "Write the correct letters in boxes 37 and 38 on your answer sheet."
+          ],
+          "choose": 2,
+          "stem": "Which **TWO** aspects of the calcium signal in plants does the writer mention?",
+          "options": {
+            "A": "the volume of calcium released following an attack",
+            "B": "the rate at which calcium flows through plants",
+            "C": "the different parts of the plant where calcium is produced",
+            "D": "the species of plants which produce calcium as a warning signal",
+            "E": "the link between the severity of an attack and the distance calcium moves"
+          },
+          "answer": "B, E"
+        },
+        {
+          "type": "multi",
+          "range": [39, 40],
+          "intro": [
+            "Choose **TWO** letters, **A-E**.",
+            "Write the correct letters in boxes 39 and 40 on your answer sheet.",
+            "Gilroy’s team have made certain plans for the future."
+          ],
+          "choose": 2,
+          "stem": "Which **TWO** plans are mentioned by the writer?",
+          "options": {
+            "A": "research plants’ reactions to heat and cold",
+            "B": "use their findings to help grow a greater variety of crops",
+            "C": "investigate warning signals in organisms other than plants",
+            "D": "analyse further the chemical processes involved in signalling responses",
+            "E": "conduct studies to compare human cell and plant cell behavior"
+          },
+          "answer": "A, D"
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "1": {
+      "quote": "The new US headquarters of Izon are situated in Cambridge, Massachusetts, one of the most important global centres of scientific research...",
+      "explanation": "Cambridge là khu trung tâm nghiên cứu khoa học → đúng."
+    },
+    "2": {
+      "explanation": "Không có thông tin nào so sánh **tốc độ tăng trưởng** với **dự đoán của công ty**."
+    },
+    "3": {
+      "quote": "It’s done so selling only one product that it’s been developing since 2004, the qNano.",
+      "explanation": "Chỉ có **một sản phẩm**, không phải **nhiều thiết bị** → sai."
+    },
+    "4": {
+      "quote": "...the qNano machine provides precise measurements... similar machines... only offer averaging techniques.",
+      "explanation": "Không rẻ hơn đối thủ, mà **chính xác hơn → không đúng với đề**."
+    },
+    "5": {
+      "explanation": "Dù có nói đến **drug delivery**, nhưng **không nói** nó sẽ là ứng dụng **lợi nhuận cao nhất** → NOT GIVEN."
+    },
+    "6": {
+      "quote": "...he’s just finished the fifth semester of six...",
+      "explanation": "Kristoffer Bolen vẫn đang học → **TRUE**."
+    },
+    "7": {
+      "quote": "...depends on him being able to manage the sales process and also comprehend in depth a very complicated piece of technology.",
+      "explanation": "Công việc của Bolen yêu cầu hiểu rõ qNano → **TRUE**"
+    },
+    "8": {
+      "quote": "Initially he put up an investment of $1.5 million...",
+      "explanation": "Hans đầu tư tiền để làm prototype → **investment**"
+    },
+    "9": {
+      "quote": "His long experience in that field has been crucial to the company’s success.",
+      "explanation": "Kỹ sư giúp kết nối kỹ thuật và kinh doanh → **engineering**"
+    },
+    "10": {
+      "quote": "...marketing is articles that clients publish describing work they have performed with the qNano.",
+      "explanation": "Chiến lược quảng bá dựa vào **bài viết nghiên cứu của khách hàng → articles**"
+    },
+    "11": {
+      "quote": "...switched from a role as teacher at the University of Minnesota...",
+      "explanation": "Yaniv Gaynor là **giáo viên** trước khi làm ở Izon."
+    },
+    "12": {
+      "quote": "...they can design a simple test for it.",
+      "explanation": "Nếu phát hiện đúng hạt, họ có thể phát triển một **test**."
+    },
+    "13": {
+      "quote": "...bring clients into the Izon building for training...",
+      "explanation": "Kế hoạch tương lai: **đào tạo** khách hàng tại trụ sở chính → **training**"
+    },
+    "14": {
+      "quote": "REM awakenings led to a 32 percent advantage in the number of puzzles solved compared with non-REM awakenings.",
+      "explanation": [
+        "Location: Paragraph 6",
+        "Walker’s research showed that solving problems immediately after **REM sleep** (a specific sleep stage) led to better results, confirming that **timing within the sleep cycle** matters for problem-solving."
+      ]
+    },
+    "15": {
+      "quote": "Howard Gardner... suggests that we free ourselves from the straitjacket of always doing things the same way.",
+      "explanation": [
+        "Location: Paragraph 6",
+        "Gardner advises breaking free from habitual thinking and routine, which allows us to better access and trust our unconscious mind."
+      ]
+    },
+    "16": {
+      "quote": "Daniel Goleman... urges us to be more aware of, and discount... the obstacle that the conscious mind imposes: that of self-censorship.",
+      "explanation": [
+        "Location: Paragraph 6",
+        "Goleman refers to self-censorship as a mental block created by fear or doubt. Ignoring these negative thoughts can enhance creative and effective thinking."
+      ]
+    },
+    "17": {
+      "quote": "...some of the greatest breakthroughs in creativity occur when a problem is consciously shelved for a while - ‘don’t think about it, just sleep on it’...",
+      "explanation": [
+        "Location: Paragraph 2",
+        "Whitehead describes the concept of incubation, where stepping away from a problem allows the unconscious mind to generate more innovative solutions."
+      ]
+    },
+    "18": {
+      "quote": "This is a process which psychoanalysts call ‘incubation’.",
+      "explanation": [
+        "Location: Paragraph 2",
+        "Whitehead describes how putting a problem aside can lead to creative breakthroughs through a process called incubation."
+      ]
+    },
+    "19": {
+      "quote": "...they were distracted by an irrelevant task whilst making a decision...",
+      "explanation": [
+        "Location: Paragraph 3",
+        "An experiment showed that participants made better decisions when their conscious mind was occupied with an unrelated task, allowing the unconscious mind to work."
+      ]
+    },
+    "20": {
+      "quote": "Participants were presented with five posters and asked to choose one to take home...",
+      "explanation": [
+        "Location: Paragraph 4",
+        "In this experiment, subjects who made a quick choice among posters felt more satisfied with their decision, supporting the value of intuitive thinking."
+      ]
+    },
+    "21": {
+      "quote": "...the more complex a problem is, the less likely it becomes that conscious thought could contribute much...",
+      "explanation": [
+        "Location: Paragraph 5",
+        "Research indicates that unconscious thought handles complex, information-heavy problems more effectively than conscious reasoning."
+      ]
+    },
+    "22": {
+      "explanation": "The passage discusses sleep and REM, but it does not mention whether resting before sleep improves problem-solving."
+    },
+    "23": {
+      "quote": "REM awakenings led to a 32 percent advantage... compared with non-REM awakenings.",
+      "explanation": [
+        "Location: Paragraph 6",
+        "REM sleep (which includes dreaming) leads to better problem-solving than non-REM (dreamless) sleep, contradicting the statement."
+      ]
+    },
+    "24": {
+      "quote": "...then asked them to solve crossword puzzles...",
+      "explanation": [
+        "Location: Paragraph 6",
+        "The team assessed problem-solving, not memory. Subjects solved puzzles, not memory tasks."
+      ]
+    },
+    "25": {
+      "explanation": "Although the text discusses both daydreams and REM sleep, it does not directly compare their effectiveness in aiding unconscious thought."
+    },
+    "26": {
+      "quote": "...the voice that whispers to you... keeping you imprisoned within the boundaries of what is deemed acceptable.",
+      "explanation": [
+        "Location: Paragraph 6",
+        "This refers to self-imposed mental limitations, or self-censorship, which hinder creative thinking and problem-solving."
+      ]
+    },
+    "27": {
+      "quote": "A fluorescent-green protein... was used to make its path visible.",
+      "explanation": "Paragraph B describes how researchers tracked calcium signals by inserting a fluorescent protein into plants. This protein glowed under the microscope, making it possible to visually observe how the signal traveled, which allowed them to confirm the signaling process."
+    },
+    "28": {
+      "quote": "Cuts, burns and caterpillar bites were used to simulate damage.",
+      "explanation": "Paragraph A outlines physical stimuli used to trigger defense responses in plants, such as scissor cuts and insect bites. These examples show how scientists intentionally caused injury to study plant signaling."
+    },
+    "29": {
+      "quote": "You do it on-call so the plants aren’t wasting their resources.",
+      "explanation": "In Paragraph E, scientists suggest the possibility of controlling when and how plants activate their defense mechanisms. This could allow us to induce protective responses only when needed, making crop management more efficient."
+    },
+    "30": {
+      "quote": "Gilroy’s real passion is understanding how plants sense gravity.",
+      "explanation": "Paragraph C reveals that the researchers were originally studying how plants sense gravity. The discovery about calcium signaling happened during this unrelated research, indicating it was a byproduct of another scientific goal."
+    },
+    "31": {
+      "quote": "Our understanding of plant responses lags far behind that of human nerve cells.",
+      "explanation": "Paragraph E compares what we know about human vs. plant responses. It emphasizes that plants are still poorly understood, especially in how they transmit signals internally, whereas human neural pathways are much better documented."
+    },
+    "32": {
+      "quote": "A series of videos that shows how plants responded to wounds.",
+      "explanation": "Researchers created videos to document the fluorescent signals traveling through the plant, allowing them to observe and analyze the responses in real time."
+    },
+    "33": {
+      "quote": "...how plants responded to cuts, bites and other wounds.",
+      "explanation": "The summary refers to physical damage inflicted to stimulate plant defense. The word “wounds” covers the examples given, such as cuts and bites."
+    },
+    "34": {
+      "quote": "The calcium alerts the plant to danger.",
+      "explanation": "The role of calcium in plants is to signal danger, functioning like a warning system that triggers defense responses across the plant."
+    },
+    "35": {
+      "quote": "...a fluorescent-green protein was used to track calcium.",
+      "explanation": "This protein allowed researchers to visualize calcium movement, which helped them prove that plants use calcium signals in response to damage."
+    },
+    "36": {
+      "quote": "...glutamate triggers this wave of calcium.",
+      "explanation": "The compound glutamate acts as a chemical messenger that initiates the calcium signal in plants, similar to its role in animal nervous systems."
+    },
+    "37": {
+      "quote": "Calcium travels at the speed of about one millimeter per second.” “The more you hurt it, the louder it screams.",
+      "explanation": [
+        "37. What did the scientists discover about the calcium signal in plants? Answer: B — The rate at which calcium flows through plants. The experiment revealed the speed of calcium movement through plant tissue, giving insight into how quickly a signal can be transmitted after damage.",
+        "38. What else did they learn about this calcium signal? Answer: E — The link between the severity of an attack and the distance calcium moves. This metaphor describes how the intensity of damage affects the range and strength of the calcium signal. A more severe injury leads to a more widespread signal within the plant."
+      ]
+    },
+    "39": {
+      "quote": "...temperature and changes in light and touch.” “...dissecting the genes and proteins responsible...",
+      "explanation": [
+        "39. What are Gilroy and his team planning to study in future research? Answer: A — Research plants’ reactions to heat and cold. Gilroy’s future work includes investigating how plants respond to environmental factors like temperature and light, expanding the scope of signaling studies beyond physical injury.",
+        "40. What else are they hoping to explore? Answer: D — Analyse further the chemical processes involved in signalling responses. The team plans to analyze the biochemical mechanisms, such as the genes and proteins involved in signal transmission, to understand how these responses are generated and regulated."
+      ]
+    }
+  }
+}

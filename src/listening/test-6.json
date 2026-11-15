@@ -1,0 +1,358 @@
+{
+  "test": 6,
+  "audio": "audio/test-06.mp3",
+  "sections": [
+    {
+      "n": 1,
+      "title": "Coxhead Motorhomes",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [1, 10],
+          "intro": [
+            "Complete the notes below.",
+            "Write **ONE WORD AND/OR A NUMBER** for each answer."
+          ],
+          "limit": { "words": 1, "number": true },
+          "content": [
+            { "center": "**Coxhead Motorhomes**" },
+            "**Representative**: Dave Sparrow",
+            "Model of motorhome recommended: **Two berth end kitchen’**",
+            "Cost: **£545 – £755 per week**",
+            "Damage deposit: **£1** [[1]] (for drivers of 21–25)",
+            "No charge for an extra [[2]] driver",
+            "An [[3]] driving licence is acceptable",
+            "All vehicles are under 30 months old",
+            "All motorhomes have [[4]] gearboxes",
+            "Customers’ [[5]] are allowed",
+            { "h": "Facilities" },
+            "All cooking facilities including a [[6]] and a microwave",
+            "A [[7]] (new this year)",
+            "Satellite navigation system",
+            "A [[8]] rack",
+            "Electricity: mains hook-up or can hire a [[9]]",
+            { "h": "Collection" },
+            "Nearest station: [[10]] (customers can be picked up from there)"
+          ],
+          "answers": {
+            "1": "deposit",
+            "2": "second",
+            "3": "international",
+            "4": "manual",
+            "5": "pets",
+            "6": "fridge",
+            "7": "kettle",
+            "8": "bike",
+            "9": "generator",
+            "10": "station"
+          }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 0", "t": "IELTS Listening, version 58033. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. Write all your answers in the listening question booklet. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to part one on page two of your question booklet. Part one. You will hear a telephone conversation between a UK company representative and a woman who wants to hire a motorhome. First, you have some time to look at questions one to five. Now listen carefully and answer questions one to five." },
+        { "s": "Speaker 1", "t": "Hello, Coxhead Motorhomes, Dave Sparrow speaking." },
+        { "s": "Speaker 2", "t": "Oh, hi. I would like to inquire about renting an RV for a week. I think you call them motorhomes in the UK?" },
+        { "s": "Speaker 1", "t": "Yes, we do. Well, we should be able to help you there. So what type were you thinking of?" },
+        { "s": "Speaker 2", "t": "It’s just for two of us, uh, me and my husband." },
+        { "s": "Speaker 1", "t": "Right. The best model for you would be the two berth-end kitchen. That’s the one with the sitting and sleeping area in the middle and the other facilities at the back." },
+        { "s": "Speaker 2", "t": "Yes, that sounds good. And what sort of price is that?" },
+        { "s": "Speaker 1", "t": "The cost starts at 545 pounds a week depending on when you want it for. If it’s high season, it goes up to 755 pounds." },
+        { "s": "Speaker 2", "t": "And is that all inclusive?" },
+        { "s": "Speaker 1", "t": "There’s what we call a damage deposit. That’s fully refundable if the vehicle is returned in good condition. That depends on the driver’s age. You do have to be at least 21 to drive one of these vehicles." },
+        { "s": "Speaker 2", "t": "That’s okay. I’m 24." },
+        { "s": "Speaker 1", "t": "Well, in that case, if you’re driving the vehicle, the deposit would be 460 pounds. It goes down to 250 pounds for drivers of 26 and above." },
+        { "s": "Speaker 2", "t": "And do I have to pay more if my husband drives as well?" },
+        { "s": "Speaker 1", "t": "No, extra drivers are free." },
+        { "s": "Speaker 2", "t": "Great. We have to pay a supplement for that in the States." },
+        { "s": "Speaker 1", "t": "So you’ve driven one of these before, have you?" },
+        { "s": "Speaker 2", "t": "Yes, but only in America. Oh, that reminds me, uh, about my driving license. I’ve got an international one. Is that okay?" },
+        { "s": "Speaker 1", "t": "That’s fine." },
+        { "s": "Speaker 2", "t": "And I just have a few questions about the motorhomes, if that’s all right?" },
+        { "s": "Speaker 1", "t": "Go ahead." },
+        { "s": "Speaker 2", "t": "So first of all, can you tell me how old your vehicles are, on average?" },
+        { "s": "Speaker 1", "t": "They’re all less than 30 months, so you’re getting a vehicle in peak condition." },
+        { "s": "Speaker 2", "t": "Okay. And I’d prefer an automatic gearbox if possible. Can you do that?" },
+        { "s": "Speaker 1", "t": "I’m afraid not. They’re all manual. Will that be a problem?" },
+        { "s": "Speaker 2", "t": "Oh, I- I guess I’ll be okay. [laughs] It was just a thought." },
+        { "s": "Speaker 1", "t": "And also, our customers sometimes ask if they can bring their pets along. So if you wanted to do that, it’s fine, as long as you make sure they’re properly looked after." },
+        { "s": "Speaker 2", "t": "Oh, well, that won’t apply to us, but it’s nice to know." }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Ski and Snowboard Exhibition",
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [11, 15],
+          "intro": [
+            "Choose the correct letter, **A**, **B** or **C**.",
+            { "center": "**Ski and Snowboard Exhibition**" }
+          ],
+          "items": {
+            "11": {
+              "stem": "Why does the speaker recommend the Sky Hotel?",
+              "options": {
+                "A": "Because it is quite comfortable.",
+                "B": "Because it provides ski and snowboard equipment rentals.",
+                "C": "Because it has health and sports club."
+              }
+            },
+            "12": {
+              "stem": "What is new in this year’s exhibition?",
+              "options": {
+                "A": "photos of top ski resorts worldwide",
+                "B": "ski equipment",
+                "C": "computer simulation"
+              }
+            },
+            "13": {
+              "stem": "How do people enter the skiing and snowboarding competition?",
+              "options": {
+                "A": "They can send emails to the committee.",
+                "B": "They can fill out the back of the entrance ticket.",
+                "C": "They can check out the exhibition newsletter"
+              }
+            },
+            "14": {
+              "stem": "What did the media focus on this year?",
+              "options": {
+                "A": "not enough snow",
+                "B": "reduction in fee",
+                "C": "the decline of participants"
+              }
+            },
+            "15": {
+              "stem": "Why does the speaker recommend the ski program?",
+              "options": {
+                "A": "The instructors are quite friendly and patient.",
+                "B": "It includes lessons and sessions that suit only beginners",
+                "C": "It provides special offers at the moment."
+              }
+            }
+          },
+          "answers": { "11": "A", "12": "C", "13": "C", "14": "B", "15": "C" }
+        },
+        {
+          "type": "match",
+          "range": [16, 20],
+          "intro": [
+            "Choose **FIVE** answers from the box and write the correct letter, **A-F**, next to Questions 16-20.",
+            "**Presentation**"
+          ],
+          "options": {
+            "list": {
+              "A": "exploring new destinations",
+              "B": "how to make the skiing boots comfortable",
+              "C": "how to become a ski instructor",
+              "D": "how to combine other activities with skiing",
+              "E": "how to improve the skills of skiing",
+              "F": "information about skiing safety"
+            },
+            "after": false
+          },
+          "items": {
+            "16": "Simon’s talk",
+            "17": "Solution",
+            "18": "Film",
+            "19": "Tricks",
+            "20": "Johnson’s talk"
+          },
+          "answers": { "16": "F", "17": "B", "18": "A", "19": "E", "20": "D" }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 0", "t": "Section two. You’ll hear a coordinator for the annual Ski and Snowboard Exhibition talking to the audience about some practical information for the whole event. First, you have some time to look at questions 11 to 15. Now listen carefully and answer questions 11 to 15." },
+        { "s": "Speaker 3", "t": "Good morning, everyone, and welcome to the Annual Ski and Snowboard Exhibition held from April the 8th to 17th. I am Mary Grainger, coordinator of the event this year. The 10-day event features many highlights. As a snow sports lover, I know you’re looking forward to a great time here. Now, I’d like to offer you some practical information about the whole event and what to expect from it. This might be the first time coming here for some of you, so for those who are still wondering about the right accommodation, I recommend Sky Hotel. It has its own health and sports clubs just like most of the hotels here, but I love it because of its incredibly cozy beds, which guarantees good rest after an exhausting day of exploration. If you haven’t brought your own equipment, like poles, boots, and skis, they are available for purchase or rent at Skiset or Snow Rental. The exhibition this year provides a colorful look into the history of skiing and an inspiring peek into the future prospects of the sport. Apart from the fascinating photo exhibitions and the most up-to-date skiing gear like always, they...This year, we have added four computers which can imitate the process of skiing, ensuring the same physical activity and sensations that appear during the skiing process on downhill slopes. But I have to warn you that it might be quite time-consuming to line up for the free trial experience. Many have posed the question as to how to enter the skiing and snowboarding competition. Well, rather than filling out the back of the entrance ticket or bombarding the committee with emails, the most effective method is by checking out the exhibition newsletter, delivered every month, for availability. At the most beloved local event, the exhibition has also drawn attention from the press. Last year, massive media coverage was on the worrisome amount of snowfalls. In order to avoid the same predicament, several artificial skiing slopes have been built. With more participants this year, we have lowered the entrance fee, which has been widely reported to local newspapers. A bonus for our participants is the ski program. It offers a wide variety of lessons and sessions with qualified instructors, ensuring that all ages and abilities are catered to, from the first-timers to seasoned amateurs. I strongly advise you to sign up for the program, as it is offering an unprecedented 30% discount. That’s mainly because we are cooperating with the program organizer, who promises affordable prices only for the participants of the festival this year." },
+        { "s": "Speaker 0", "t": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20. Now listen and answer questions 16 to 20." },
+        { "s": "Speaker 3", "t": "Now, I would like to introduce you to the list of presentations during the following week so that you can better plan your schedule. The first presenter, Simon, is one of our best ski instructors. As an experienced instructor, he will inform you about the dangers that face skiers and snowboarders. Accidents happen mostly to those who are careless or ignorant. Good risk management involves considering both the probability and consequences of an accident. The next speech titled Solution is given by Jamie Kurt. A list of problems may occur to novice skiers and snowboarders, so he is going to offer useful information for first-timers on choosing the appropriate gears, the right dress code, and ways of protecting your skin. For instance, some of you may have rented the skiing equipment, but rental footwear is notoriously uncomfortable. Then Jamie will provide instructions to help make your footwear fit better. The third speech is about a documentary introducing skiing and snowboarding and the difference between the two sports. It also depicts a group of snow-lovers exploring new slopes with breathtaking views. The director, Andy Fisher, will be there addressing the whole shooting experience. The fourth talk is about the tricks of skiing presented by Harry Tyson. It is most useful for those who have already tried skiing, yet still need more practice to master the sport. Harry will teach you how to turn more skillfully. A lot of people can keep their skis roughly parallel, but there’s no point if you make it hard to work with and slide around out of control. Useful exercises will also be suggested to improve your parallel-skiing technique so that you can tackle steeper slopes and enjoy yourself more. Jason Smith will be the last presenter, mainly addressing towards advanced skiers. He manages to apply snow climbing into skiing. Climbing in soft snow, you are floundering around. Walking becomes harder, so a good trick during climbing is to maintain a wider gait, approximately shoulder-width, so that you are more stable while walking. This works for skiing as well." },
+        { "s": "Speaker 0", "t": "That is the end of section two. You now have half a minute to check your answers." }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Choosing electives",
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [21, 26],
+          "intro": [
+            "Choose the correct letter, **A**, **B** or **C**.",
+            { "center": "**Choosing electives**" }
+          ],
+          "items": {
+            "21": {
+              "stem": "Why do Rick and Anita decide to discuss their electives immediately?",
+              "options": {
+                "A": "They have to make their choices of electives that day.",
+                "B": "Some electives will fill up quickly.",
+                "C": "They will both be busy later."
+              }
+            },
+            "22": {
+              "stem": "What is included in the compulsory courses for all students?",
+              "options": {
+                "A": "a language class",
+                "B": "a business class",
+                "C": "a mathematics class"
+              }
+            },
+            "23": {
+              "stem": "In order to choose a new class Rick and Anita will",
+              "options": {
+                "A": "consult some other students about the teaching.",
+                "B": "ask the professor what he recommends.",
+                "C": "look at whether it is examined or not."
+              }
+            },
+            "24": {
+              "stem": "Rick and Anita agree that the Statistics class",
+              "options": {
+                "A": "would be useful.",
+                "B": "is at an inconvenient time",
+                "C": "would mean a lot of work."
+              }
+            },
+            "25": {
+              "stem": "Anita found her adviser’s comment about the Art and Design course",
+              "options": {
+                "A": "surprising.",
+                "B": "confusing.",
+                "C": "valuable."
+              }
+            },
+            "26": {
+              "stem": "Rick and Anita are both unsure about",
+              "options": {
+                "A": "how they have to register their choices.",
+                "B": "when some of the courses take place.",
+                "C": "the amount of practical work each course involves."
+              }
+            }
+          },
+          "answers": { "21": "B", "22": "C", "23": "A", "24": "A", "25": "C", "26": "C" }
+        },
+        {
+          "type": "match",
+          "range": [27, 30],
+          "intro": [
+            "Which opinion is expressed about each of the following electives the students did last year?",
+            "Choose **FOUR** answers from the box and write the correct letter, **A-F**. next to questions 27-30.",
+            "**Last year’s electives**"
+          ],
+          "options": {
+            "title": ["**Opinions**"],
+            "list": {
+              "A": "It improved as it went on",
+              "B": "The professor’s notes were very detailed.",
+              "C": "It involved a lot of practical work.",
+              "D": "The professor explained things clearly.",
+              "E": "There were useful materials online.",
+              "F": "It was harder than expected."
+            },
+            "after": false
+          },
+          "items": {
+            "27": "Metallurgy",
+            "28": "Fluid Mechanics",
+            "29": "Computing",
+            "30": "Energy Economics"
+          },
+          "answers": { "27": "F", "28": "D", "29": "A", "30": "E" }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 0", "t": "Part 3. You will hear two second-year students called Rick and Anita discussing the electives they can choose from on their engineering course. First, you have some time to look at questions 21 to 26. Now listen carefully and answer questions 21 to 26." },
+        { "s": "Speaker 4", "t": "Hi, Anita. Did you see that the information about the electives we can choose from this year has just gone up on the class website?" },
+        { "s": "Speaker 5", "t": "Really? Great! Do you want to look at it together? We’d better sign up as soon as possible." },
+        { "s": "Speaker 4", "t": "I guess so, but it says on the site that we can’t register any choices until 3:00." },
+        { "s": "Speaker 5", "t": "Oh, okay, but we need to get a move on, I think.Some people told me last year that they got turned away from a couple of the choices they wanted because they were too slow to decide." },
+        { "s": "Speaker 4", "t": "Let’s have a look at it all on my laptop then. It’s pretty complicated working out which classes are compulsory and what restrictions there are on your choices." },
+        { "s": "Speaker 5", "t": "Yes. We all have to do a language class of some kind, don’t we? I think that’s a really good idea." },
+        { "s": "Speaker 4", "t": "That’s not quite right. We can do a business class or a philosophy or economics one instead if we want. The required classes are thermodynamics, machine system dynamics, and mathematics." },
+        { "s": "Speaker 5", "t": "Oh, no. I was sure we had finished with that last year." },
+        { "s": "Speaker 4", "t": "[laughs] Well, I suppose it’s important for us." },
+        { "s": "Speaker 5", "t": "Mm, guess you must be right. So let’s look at the descriptions of the topics covered by the classes we can choose from. Can you get them up on the screen?" },
+        { "s": "Speaker 4", "t": "Sure. The information also tells you how the classes are graded. Some of them have exams, but others just have classwork." },
+        { "s": "Speaker 5", "t": "Yes. But that shouldn’t influence our choices, should it? I’d say it’d be more important to try to find out how good the professor is." },
+        { "s": "Speaker 4", "t": "True. That can make or break any class." },
+        { "s": "Speaker 5", "t": "Well, we’ll have to ask the seniors to get that kind of information." },
+        { "s": "Speaker 4", "t": "True. I know several people have recommended the statistics class, but it would mean a very early start on Monday morning." },
+        { "s": "Speaker 5", "t": "Well, that’s not a bad thing, is it? What puts me off more is that everyone says it’s very hard work." },
+        { "s": "Speaker 4", "t": "Oh, I don’t know. Not if you’ve done lots of stats before. And I did a special elective on it in high school. And it’s very relevant, isn’t it? We’re bound to need it whatever work we end up doing." },
+        { "s": "Speaker 5", "t": "Fair enough. Then there’s an art and design class. My advisor said he wouldn’t recommend doing that one." },
+        { "s": "Speaker 4", "t": "Really?" },
+        { "s": "Speaker 5", "t": "Well, he said lots of people think it’s an easy elective, but that actually, it’s very time-consuming." },
+        { "s": "Speaker 4", "t": "I wouldn’t have expected that." },
+        { "s": "Speaker 5", "t": "Well, I thought it might be, but it’s useful to know for sure, isn’t it? Sometimes people’s advice can make decisions even harder, but I found that really helpful." },
+        { "s": "Speaker 4", "t": "Hmm. What I don’t know is the amount of practical work each class involves. I’d like to find that out." },
+        { "s": "Speaker 5", "t": "No, it’s there. Look, if you click on that link, you’ll get all that sort of information." },
+        { "s": "Speaker 4", "t": "Great. And the class times are there too. So how do we tell them when we’ve made our choices?" },
+        { "s": "Speaker 5", "t": "Maybe we need to go and see our advisors. Or is there something we have to do online?" },
+        { "s": "Speaker 4", "t": "Okay. Let’s go and talk to the secretary and find out." },
+        { "s": "Speaker 5", "t": "Good idea." },
+        { "s": "Speaker 6", "t": "Before you hear the rest of the discussion, you have some time to look at questions 27 to 30. Now listen and answer questions 27 to 30." },
+        { "s": "Speaker 4", "t": "How about thinking about the electives we did last year? Maybe that’d help us decide." },
+        { "s": "Speaker 5", "t": "Okay. We both did metallurgy, didn’t we? It was pretty good, I think. It involved a lot of library work, but I quite enjoyed that." },
+        { "s": "Speaker 4", "t": "Yes, it was definitely useful and well-structured, but it was the most difficult class I chose. I didn’t think it would be that bad." },
+        { "s": "Speaker 5", "t": "Neither did I. [laughs] But I didn’t mind because some of my other electives were fairly straightforward." },
+        { "s": "Speaker 4", "t": "Yes, even fluid mechanics wasn’t too bad." },
+        { "s": "Speaker 5", "t": "No. The online tutorials weren’t much help, but the professor made some hard stuff seem pretty easy, I thought." },
+        { "s": "Speaker 4", "t": "Yes. He was great at simplifying concepts that were actually really hard to grasp." },
+        { "s": "Speaker 5", "t": "Mm-hmm." },
+        { "s": "Speaker 4", "t": "You did computing too, didn’t you? What was that like?" },
+        { "s": "Speaker 5", "t": "It was okay. The later classes were much better than the earlier ones. Initially, I didn’t like it much, but I liked it once we started getting more hands-on stuff. And what did you think about the energy economics course we both did?" },
+        { "s": "Speaker 4", "t": "Well, it was useful, except for the notes on the internet. They were pretty disappointing." },
+        { "s": "Speaker 5", "t": "Mm. I liked the way it wasn’t too theoretical though, and the fact that much of it was based on solving real problems. It really helped me get better at working through the questions we’d have to answer for our coursework." },
+        { "s": "Speaker 4", "t": "Yes. But more input from our advisors might’ve been helpful, don’t you think?" },
+        { "s": "Speaker 6", "t": "That is the end of Part 3. You now have 30 seconds to check your answers to Part 3." }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Urban development in Bridlington",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [31, 40],
+          "intro": [
+            "Complete the notes below.",
+            "Write **NO MORE THAN TWO WORDS** for each answer."
+          ],
+          "limit": { "words": 2, "number": false },
+          "content": [
+            { "center": "**Urban development in Bridlington**" },
+            { "h": "Past and Present Economy" },
+            "• In the past, Bridlington’s economy focused on the [[31]] industry.",
+            "• Today, the most important sector in Bridlington is [[32]]",
+            "• Job opportunities have been created by [[33]] companies.",
+            { "h": "Community and Housing Developments" },
+            "• Traffic problems occur when [[34]] pick up their children near schools.",
+            "• The council plans to build 16,000 new homes and create 20,000 new [[35]]",
+            "• A new university [[36]] is planned to attract students and staff.",
+            { "h": "Transport and Commercial Planning" },
+            "• One goal is to cut [[37]] flow by 20% in the town centre.",
+            "• The government is encouraging people to use [[38]] more often.",
+            "• Less urban space will be used for [[39]] in the future.",
+            "• 80,000 square metres will be reserved for [[40]] use or business tenants."
+          ],
+          "answers": {
+            "31": "furniture",
+            "32": "services",
+            "33": "insurance",
+            "34": "parents",
+            "35": "jobs",
+            "36": "campus",
+            "37": "vehicle",
+            "38": "bicycles",
+            "39": "retail",
+            "40": "office"
+          }
+        }
+      ],
+      "transcript": [
+        { "s": "Speaker 8", "t": "Today, we’ll be looking at how the town of Bridlington has evolved over time, economically, socially, and structurally. And we’ll also explore some of the initiatives that have been proposed for its continued growth. Let’s begin with the town’s economic background. Historically, Bridlington relied heavily on manufacturing. One particular trade that stood out was the production of furniture, chairs, tables, wardrobes, and other wooden household goods.This craft developed into a full-scale industry that, for decades, defined the town’s identity and served as a major employment hub. In fact, it was once the most prominent sector within the town’s economy. However, over the years, industrial decline paired with globalization has shifted the economic base of the town. What we see now is an economy that thrives not on manual labor, but on intangible services. The sector, including financial consultancy, customer support, and digital marketing, has risen rapidly. This area now surpasses traditional manufacturing in terms of revenue generation and job creation. In fact, numerous insurance firms that offer coverage for accidents, health, and property have set up local offices here, and these companies have brought in a wide range of positions, from entry-level call center staff to data analysts and IT specialists. This has significantly helped in reducing unemployment figures in the region. Now, turning to community development. One problem that’s been observed regularly, especially during term time, is the traffic buildup in residential zones. The cause? Parents stopping to gather their children in areas located just meters away from educational institutions. The resulting congestion during morning and afternoon school runs has become a real concern for urban planners. To accommodate the town’s growing population, the municipal government has proposed an extensive residential expansion project. According to official estimates, the town will require upwards of 16,000 new dwellings within the next decade. And to support this population boom, it’s expected that around 20,000 jobs will also be created across various sectors, both public and private. In the realm of education, plans have also been laid out to support higher learning. The local authority is collaborating with a well-known regional university to construct a dedicated campus for advanced study. This new institution, which will include accommodation, lecture halls, and research centers, is expected to draw not only domestic students, but international scholars as well. Next, let’s address the town’s transport strategy. As part of the wider sustainability plan, Bridlington aims to reduce the flow of motor vehicles across its center. The target is to lower the number of cars on the road by approximately one-fifth. A bold figure, but one that town officials believe is achievable through a combination of incentives and awareness campaigns. Tackling traffic effectively will require community-wide cooperation. Encouraging eco-friendly modes of transport is also central to this vision. There has been a notable push to promote cycling, particularly for shorter commutes. Expanded bike paths, upgraded safety measures, and even reward schemes for daily cyclists are all part of the agenda. Finally, let’s look at how the use of commercial space is expected to shift. With the increasing trend towards online shopping and digital marketplaces, the demand for high street shop fronts has diminished. As a result, less emphasis will be placed on space allocated to retail. Instead, approximately 80,000 square meters of space in and around the town center have been earmarked for a different purpose. The focus will shift to flexible working environments, spaces that can accommodate small companies, freelancers, and digital startups. In other words, future construction will prioritize office use and rental business spaces over traditional stores." }
+      ]
+    }
+  ]
+}

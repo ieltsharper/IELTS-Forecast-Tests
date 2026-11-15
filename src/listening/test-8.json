@@ -1,0 +1,677 @@
+{
+  "test": 8,
+  "audio": "audio/test-08.mp3",
+  "sections": [
+    {
+      "n": 1,
+      "title": "Gresham Garage New Job Details",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [
+            1,
+            5
+          ],
+          "intro": [
+            "Complete the form below.",
+            "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** from the listening for each answer."
+          ],
+          "limit": {
+            "words": 3,
+            "number": true
+          },
+          "content": [
+            {
+              "center": "**Gresham Garage**"
+            },
+            {
+              "center": "**New Job Details**"
+            },
+            "Customer’s Name: [[1]]",
+            "Address: 18 Green Lane",
+            "Cranford",
+            "Postcode: CR8 [[2]]",
+            "Telephone:",
+            "Home: Not given",
+            "Work: Not given",
+            "Cell: 07538 [[3]]983",
+            "Bill Payment Method: [[4]]",
+            "Work Details: Problem with the [[5]]"
+          ],
+          "answers": {
+            "1": "Stuart",
+            "2": "6FR",
+            "3": "645",
+            "4": "Cash",
+            "5": "Brakes"
+          }
+        },
+        {
+          "type": "gap",
+          "range": [
+            6,
+            9
+          ],
+          "intro": [
+            "Complete the summary below.",
+            "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** from the listening for each answer."
+          ],
+          "limit": {
+            "words": 2,
+            "number": true
+          },
+          "content": [
+            {
+              "center": "**Work on Mr. Clarke’s Toyota**"
+            },
+            "Mr. Clarke left the car at the garage and so he got a taxi to take him home. The last service was approximately [[6]] months ago, so he booked a service at the garage. He mustn’t forget the car [[7]] when he goes to pick up the car. Mr. Clarke or his wife can pick the car up on [[8]] 26th. The service costs [[9]] pounds (including all the work the car needs) plus parts. The garage will ring Mr. Clarke if they need permission for any unexpected or expensive work."
+          ],
+          "answers": {
+            "6": "7",
+            "7": "log book",
+            "8": "Wednesday",
+            "9": "200"
+          }
+        },
+        {
+          "type": "mcq",
+          "range": [
+            10,
+            10
+          ],
+          "intro": [
+            "Choose the correct letter **A, B or C**.",
+            "Write the correct letter in box **10** on your answer sheet."
+          ],
+          "items": {
+            "10": {
+              "stem": "How did Mr. Clarke initially find out about Gresham garage?",
+              "options": {
+                "A": "Some friends of his told him",
+                "B": "An advertisement in a newspaper",
+                "C": "Online"
+              }
+            }
+          },
+          "answers": {
+            "10": "B"
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "Speaker 0",
+          "t": "In the IELTS test, you hear some recordings and you have to answer questions on them. You have time to read the instructions and questions and check your work. All recordings are played only once. The test is in four sections. Now turn to Section 1. Section 1. You will hear a conversation between a man and a woman discussing a repair to a car in a garage. First, you have some time to look at questions 1 to 5. Now the full test will begin. You should answer the questions as you listen, as the recording is not played twice. Listen carefully to the conversation and answer questions 1 to 5."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "Good morning. Welcome to Gresham Garage. How can we help you today?"
+        },
+        {
+          "s": "Speaker 2",
+          "t": "Hello. My name is Clarke. I have a problem with my car and I’d like someone to have a look at it."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "Of course. Can I ask what kind of car it is?"
+        },
+        {
+          "s": "Speaker 2",
+          "t": "It’s a Toyota."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "Oh, we specialize in them."
+        },
+        {
+          "s": "Speaker 2",
+          "t": "I know. That’s why I came."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "Now, can I take some details first?"
+        },
+        {
+          "s": "Speaker 2",
+          "t": "Of course."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "Can I have your full name?"
+        },
+        {
+          "s": "Speaker 2",
+          "t": "Stuart Clarke. That’s Stuart spelled S-T-U-A-R-T, and Clarke with an E. That’s C-L-A-R-K-E."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "And what’s your address?"
+        },
+        {
+          "s": "Speaker 2",
+          "t": "18 Green Lane, Cranford."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "And the postcode?"
+        },
+        {
+          "s": "Speaker 2",
+          "t": "CR8 6FR."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "Can I take a telephone number?"
+        },
+        {
+          "s": "Speaker 2",
+          "t": "I’ll give you my mobile number, as you’re more likely to catch me on that. It’s 07538 645983."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "How would you like to pay for your bill?"
+        },
+        {
+          "s": "Speaker 2",
+          "t": "Cash, please."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "Fine. Now, what seems to be the problem with the car?"
+        },
+        {
+          "s": "Speaker 2",
+          "t": "It’s the brakes, I think. When I drove to work this morning, I felt that they were slipping a bit when I slowed down."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "Well, I’m sure we can do something about that."
+        },
+        {
+          "s": "Speaker 0",
+          "t": "Before the conversation continues, you have some time to look at questions 6 to 10. Now listen carefully and answer questions 6 to 10."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "Now, can you leave the car with us today?"
+        },
+        {
+          "s": "Speaker 2",
+          "t": "That won’t be a problem if I can get a taxi to get me home."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "We can call you one without a problem. By the way, when was the last time you had your car serviced?"
+        },
+        {
+          "s": "Speaker 2",
+          "t": "It was about seven months ago, in February."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "You really should have your car serviced now. As we’re an accredited service station for Toyota and specialize in them, we can do a good job for you."
+        },
+        {
+          "s": "Speaker 2",
+          "t": "I suppose that’s a good idea. I don’t have my log book with me today, though."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "That’s okay. Just bring it with you when you come to pick up the car, and we’ll fill it in and stamp it for you."
+        },
+        {
+          "s": "Speaker 2",
+          "t": "That’s great. When can I pick up the car?"
+        },
+        {
+          "s": "Speaker 1",
+          "t": "We should be able to look at it later today. It should be ready tomorrow, but to be sure, we’d better make it the day after tomorrow. That’s Wednesday, the 26th."
+        },
+        {
+          "s": "Speaker 2",
+          "t": "That’ll be fine. If I can’t come, my wife will be able to. By the way, how much do you charge for the service?"
+        },
+        {
+          "s": "Speaker 1",
+          "t": "We charge 200 pounds for a service, plus parts. As a bonus for you, we’ll do the work you came in for as part of the service. Of course, we’ll give you a ring if there’s a problem or if we need your go-ahead for any unexpected or costly work."
+        },
+        {
+          "s": "Speaker 2",
+          "t": "Is that all?"
+        },
+        {
+          "s": "Speaker 1",
+          "t": "Can I ask how you found out about us?"
+        },
+        {
+          "s": "Speaker 2",
+          "t": "I was meeting some friends in town, and while I was waiting, I saw your advertisement in the local paper. I checked you online after that and saw that you had good reviews."
+        },
+        {
+          "s": "Speaker 1",
+          "t": "Thank you."
+        },
+        {
+          "s": "Speaker 0",
+          "t": "That is the end of Section 1. You will now have half a minute to check your answers."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Hospital Admission Information Session",
+      "groups": [
+        {
+          "type": "short",
+          "range": [
+            11,
+            15
+          ],
+          "intro": [
+            "Answer the questions below.",
+            "Write **NO MORE THAN THREE WORDS** from the listening for each answer.",
+            {
+              "center": "**Hospital Admission Information Session**"
+            }
+          ],
+          "limit": {
+            "words": 3,
+            "number": false
+          },
+          "items": {
+            "11": "Who is the principal audience for the hospital information talk?",
+            "12": "Which document will give the telephone number of an inpatient’s ward?",
+            "13": "For what reason are scheduled beds not sometimes available?",
+            "14": "How are pre-admissions assessments usually conducted?",
+            "15": "What should inpatients give to the nurses after arriving at the hospital?"
+          },
+          "answers": {
+            "11": "Patients",
+            "12": "(The) admission letter",
+            "13": "Emergencies",
+            "14": "(By) telephone",
+            "15": "Medication"
+          }
+        },
+        {
+          "type": "mcq",
+          "range": [
+            16,
+            17
+          ],
+          "intro": [
+            "Choose the correct letter **A, B, or C**."
+          ],
+          "items": {
+            "16": {
+              "stem": "All people staying overnight at the hospital must",
+              "options": {
+                "A": "wear hospital nightclothes.",
+                "B": "bring their own towels.",
+                "C": "bring books to read."
+              }
+            },
+            "17": {
+              "stem": "Computers are permitted in the hospital, but",
+              "options": {
+                "A": "not e-books, as they can affect hospital equipment.",
+                "B": "people will have to pay a small fee for charging them.",
+                "C": "people have to use headphones."
+              }
+            }
+          },
+          "answers": {
+            "16": "A",
+            "17": "C"
+          }
+        },
+        {
+          "type": "gap",
+          "range": [
+            18,
+            20
+          ],
+          "intro": [
+            "Label the plan below.",
+            "Write **NO MORE THAN THREE WORDS** from the listening for each answer.",
+            "[[img:t8-p2-plan]]"
+          ],
+          "limit": {
+            "words": 3,
+            "number": false
+          },
+          "content": [
+            "To: MRI, X-ray and the [[18]]",
+            "[[19]]",
+            "[[20]]"
+          ],
+          "answers": {
+            "18": "eye unit",
+            "19": "(The) pharmacy",
+            "20": "(The) information point"
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "Speaker 0",
+          "t": "Now turn to Section 2. Section 2. You will hear a woman presenting an information talk at a hospital. First, you have some time to look at questions 11 to 15. Now, listen carefully to the information talk and answer questions 11 to 15."
+        },
+        {
+          "s": "Speaker 3",
+          "t": "Hello, everyone, and welcome to this information evening at our hospital. This evening is mainly aimed at patients, but it will also be useful for their friends and families. Your admission to hospital will depend on the type of procedure or care you will be receiving. You can attend as an outpatient or be admitted as a day patient or an inpatient. As an outpatient, you will go to hospital for an appointment to see a specialist, but you will not stay overnight. A day patient is admitted into the hospital, but also does not stay overnight. An inpatient is admitted into the hospital and stays overnight. If you are due to go to hospital for prearranged care, you will usually receive an admission letter beforehand. This will tell you the date of your admittance to hospital, which ward you are going to be in, and the consultant who will be taking care of you. The admission letter will also give you a contact number for your ward and will contain any special instructions you need to follow before your hospital procedure. For example, you may be asked not to eat or drink for a certain period of time before attending hospital. One thing to note is that it may be necessary for you to contact the hospital on the morning of your admission date to ensure that a bed is available for you. Sometimes emergencies mean hospital beds are not available when scheduled. If a bed is not available, your admission date will be rearranged. If a bed is available, you will normally be asked to arrive at the hospital in the mid or late afternoon. At our hospital, you will be asked to take part in a pre-admissions assessment. This may be an appointment with a nurse or doctor, but it is usually done by telephone to save time and money for everyone. You will be asked questions about your health, your medical history, and your home circumstances. You will also be given advice about your admission, including where to report on arrival. As I said before, it’s very important to realize that you may be asked not to eat or drink before coming into hospital for your tests or operation. Finally, you will also be given advice about when to take medication if you have any prescribed. You should always bring this to the hospital with you and give it to the nurses when you arrive, even if you have stopped taking it."
+        },
+        {
+          "s": "Speaker 0",
+          "t": "You now have some time to look at questions 16 to 20. Now listen to the rest of the information talk and answer questions 16 to 20."
+        },
+        {
+          "s": "Speaker 3",
+          "t": "Now, I’d like to let you know about what patients should bring with them when they come here for their procedure. Think of it as being at home and stuck in bed. You’ll need a dressing gown and slippers for when you get out of bed. Don’t bring pajamas or anything though, as all patients in the hospital have to wear our nightgowns. These allow patients to be easily examined by doctors. Bring all your teethcare equipment, such as floss, brush, toothpaste, and mouthwash. You should also bring a face flannel if you have one, but don’t worry about towels as we supply all those. If you have to stay for any period of time at the hospital, you should ask a friend or family member to bring fresh things and take away the dirty things to launder. Now, as you’ll be staying quite a long time in bed, it’s good to bring some things to help time pass. Books are a good idea, and these can sometimes help send you to sleep as well, which is the best thing to help you heal. Many people today bring in e-books, and as you’ll have your own free power socket next to your bed, you’ll be able to charge your mobile device when necessary. Computers, tablets, and smartphones are all permitted, but if you’re watching or listening to any media, it is obligatory to wear headphones or earphones so that you don’t disturb others around you. When you arrive in the car park at the hospital, go into the main reception area. There are a number of corridors going off it. The first on the right is for outpatients, and people should go there if they’re having a procedure but not staying overnight. The corridor next to that goes to the MRI and X-ray department and also to the eye unit. People should not go to any of these departments unless they have a referral or if they’re being taken there directly from their ward. The next corridor goes to the oncology department, the orthopedics department, and the renal unit. You’ll see the signposting for these departments as you walk down. The next corridor is very short and only goes to the pharmacy. Drugs and medicines can be bought here, and as it’s in a hospital, it has a much wider range of prescription and non-prescription drugs.... of course, if you’re on a ward, the nursing staff will organize all your medication and you won’t need to come here until maybe when you leave. We’re running a little short of time now, so I’ll stop as I want you to be able to ask some questions. I’ll hand out some leaflets at the end. And there’s a map included, so don’t worry if I haven’t mentioned where you’re going. If you experience any problems finding where to go when you get to the hospital, just go to the information point in the middle of the reception area and ask. So let’s move on to the questions."
+        },
+        {
+          "s": "Speaker 0",
+          "t": "That is the end of section two. You will now have half a minute to check your answers."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Lake Baikal",
+      "groups": [
+        {
+          "type": "short",
+          "range": [
+            21,
+            25
+          ],
+          "intro": [
+            "Answer the questions below.",
+            "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** from the listening for each answer."
+          ],
+          "limit": {
+            "words": 3,
+            "number": true
+          },
+          "items": {
+            "21": "What geological feature from millions of years ago is it thought Lake Baikal resembles?",
+            "22": "Lake Baikal is located in what type of geographical formation?",
+            "23": "What is found between the bottom of the water in Lake Baikal and the rock of the lake’s bottom?",
+            "24": "What proportion of animal life found in Lake Baikal is unique to the region?",
+            "25": "What do Lake Baikal’s seals have more of that allows them to swim underwater for more than 70 minutes?"
+          },
+          "answers": {
+            "21": "Seaboards",
+            "22": "(A) rift",
+            "23": "Sediment",
+            "24": "70%",
+            "25": "Blood"
+          }
+        },
+        {
+          "type": "gap",
+          "range": [
+            26,
+            30
+          ],
+          "intro": [
+            "Complete the table below.",
+            "Write **NO MORE THAN TWO WORDS** from the listening for each answer."
+          ],
+          "limit": {
+            "words": 2,
+            "number": false
+          },
+          "content": [
+            {
+              "center": "**Lake Baikal**"
+            },
+            "**Climate:** Lake Baikal is warmer in winter than the rest of southern Siberia due to the size of the lake.",
+            "**Temperature:**",
+            {
+              "table": [
+                [
+                  "",
+                  "**Lake Baikal**",
+                  "**Rest of Siberia**"
+                ],
+                [
+                  "Mid Winter Temperature",
+                  "- 21 °C (average)",
+                  "- 90 °C (lowest)"
+                ],
+                [
+                  "Summer (August) Temperature",
+                  "11 °C (average)",
+                  "16 °C (average)"
+                ]
+              ]
+            },
+            "The lake is frozen from January - May / June. In August, the lake’s mean [[26]] is on average 10 - 12 °C.",
+            "**Water Quality:** Lake Baikal is very clear as it contains few [[27]]. The clarity is helped by plankton that eat debris.",
+            "[[28]] is available all through the lake, even at the bottom.",
+            "**Water Sources:** Water enters Lake Baikal from the Selenga River in the south east + 300 other sources.",
+            "The Angara River is the sole [[29]] in the south west.",
+            "Because of the lake’s low temperatures, only relatively little water is lost through [[30]]."
+          ],
+          "answers": {
+            "26": "surface temperature",
+            "27": "Minerals",
+            "28": "Oxygen",
+            "29": "Outlet",
+            "30": "evaporation"
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "Speaker 0",
+          "t": "Now turn to section three. Section three. You will hear two students discussing their presentation on Lake Baikal. First, you have some time to look at questions 21 to 25. Now listen carefully, and answer questions 21 to 25."
+        },
+        {
+          "s": "Speaker 4",
+          "t": "Hi, Alice, how are you today?"
+        },
+        {
+          "s": "Speaker 5",
+          "t": "I’m good. Thanks, Sam. A bit busy, but I’ll be better when we get this presentation over with."
+        },
+        {
+          "s": "Speaker 4",
+          "t": "I know how you feel. Shall we get started straightaway?"
+        },
+        {
+          "s": "Speaker 5",
+          "t": "Yes. So, to recap, we’re going to do a presentation on Lake Baikal in Russia. I’m going to start and give an introduction, and then I’ll give some information on the fauna there."
+        },
+        {
+          "s": "Speaker 4",
+          "t": "That’s right. Then I’ll take over and talk a little bit about the climate at the lake. So did you have any success preparing for your part?"
+        },
+        {
+          "s": "Speaker 5",
+          "t": "Yes. I’ll run through my introduction first. You can make some notes and tell me what doesn’t sound so good."
+        },
+        {
+          "s": "Speaker 4",
+          "t": "Good idea."
+        },
+        {
+          "s": "Speaker 5",
+          "t": "Okay. So, here goes. Lake Baikal is the world’s oldest and deepest freshwater lake. What geologists find interesting is that today’s Lake Baikal shows what seaboards of North America, Africa, and Europe looked like when they began to separate millions of years ago. Lake Baikal gives us an insight into what these areas were like at those times."
+        },
+        {
+          "s": "Speaker 4",
+          "t": "That’s a good start, but shouldn’t you give some of the basic dimensions first?"
+        },
+        {
+          "s": "Speaker 5",
+          "t": "Yes, you’re right. I’ve got that information in my next bit. I’ll just move it up to the beginning and fit it in. I’ll read that part for you now."
+        },
+        {
+          "s": "Speaker 4",
+          "t": "Good."
+        },
+        {
+          "s": "Speaker 5",
+          "t": "Lake Baikal is in a rift, where the continent of Asia is literally splitting apart. Continental rifts and their end products, such as the passive continental margins on the US East Coast, are ubiquitous with the Earth’s geological record. If Baikal’s rift valley had existed millions of years ago, it would have created the beginnings of a future ocean. At 600 kilometers long and 79 kilometers wide, Lake Baikal has the largest surface area of any freshwater lake in Asia at 31,722 square kilometers. It is also the deepest lake in the world at 1,642 meters. The bottom of the lake’s water is 1,186 meters below sea level, but below this lie vast quantities of sediment, placing the lake’s rock floor some 8 to 11 kilometers below the surface."
+        },
+        {
+          "s": "Speaker 4",
+          "t": "Yes, that’s perfect. Just join those two bits together. How about the part about the fauna?"
+        },
+        {
+          "s": "Speaker 5",
+          "t": "I found there’s more information than I can really include as Lake Baikal has so many different animal species. Some of them developed 25 million years ago, and 70% of them are found only in the Lake Baikal region, making its preservation crucial."
+        },
+        {
+          "s": "Speaker 4",
+          "t": "Maybe you could focus on one key species as an example."
+        },
+        {
+          "s": "Speaker 5",
+          "t": "There are two key things to mention actually. The first is that Lake Baikal has one of only three freshwater seal populations in the world. The Baikal seals have a greater abundance of blood, which makes it possible for them to swim under the water for more than 70 minutes. They can also travel at great depths, sometimes going so far as 300 meters under the surface. Second, some of the fish that live in Lake Baikal survive more than a mile below the surface. They are so well-adapted to these pressures that they will literally explode if brought to the surface, where the pressure is dramatically different."
+        },
+        {
+          "s": "Speaker 4",
+          "t": "Good work on that. I think that’ll be fine."
+        },
+        {
+          "s": "Speaker 0",
+          "t": "You now have some time to look at questions 26 to 30. Now listen to the rest of the discussion and answer questions 26 to 30."
+        },
+        {
+          "s": "Speaker 5",
+          "t": "So, how about your section on climate?"
+        },
+        {
+          "s": "Speaker 4",
+          "t": "I think it’s all fine now. I’ll run through my section for you."
+        },
+        {
+          "s": "Speaker 5",
+          "t": "Okay."
+        },
+        {
+          "s": "Speaker 4",
+          "t": "Although Lake Baikal is in Siberia, the climate around it is much milder in the winter than in the rest of southern Siberia.... due to the fact that large bodies of water retain heat longer than land. Even in the depths of winter, the average air temperature is -21 degrees Celsius, compared with minimum temperatures of -90 degrees Celsius elsewhere in Siberia. In the summer, the temperature does not get very warm. In August, the average air temperature is 9 degrees Celsius, whereas the rest of Siberia has an average of 16 degrees Celsius. The lake freezes over from January until May or June, but its average surface temperature in August lies between 10 and 12 degrees Celsius."
+        },
+        {
+          "s": "Speaker 6",
+          "t": "That seems like a good basic introduction. Did you address the issue of water quality?"
+        },
+        {
+          "s": "Speaker 4",
+          "t": "Yes, I... I did research that. Lake Baikal’s water is very clear because it lacks minerals. This clarity is maintained by large numbers of planktonic animals eating floating debris. In spite of its great depth, the water in the lake is well-mixed and oxygen is plentiful, even in the lower waters."
+        },
+        {
+          "s": "Speaker 6",
+          "t": "Where does Lake Baikal’s water come from?"
+        },
+        {
+          "s": "Speaker 4",
+          "t": "Half the water floating into the lake comes down from the Selenga River in the southeast. The rest comes from more than 300 other rivers and streams, most of which flow down from the surrounding mountains. Lake Baikal’s only outlet is the Angara River, which flows westward from the lake’s southwestern end."
+        },
+        {
+          "s": "Speaker 6",
+          "t": "Really? That’s the only way water leaves the lake?"
+        },
+        {
+          "s": "Speaker 4",
+          "t": "Yes. The lake doesn’t even lose much water through evaporation due to the comparatively low temperatures."
+        },
+        {
+          "s": "Speaker 6",
+          "t": "Is that all you have?"
+        },
+        {
+          "s": "Speaker 4",
+          "t": "It is at the moment. I’ve got plenty of notes, though, and I’ll finish it off tonight."
+        },
+        {
+          "s": "Speaker 6",
+          "t": "You’d better. The presentation is in two days."
+        },
+        {
+          "s": "Speaker 4",
+          "t": "I’m sorry. I... I’ve been busy on that essay we were given last week. Don’t worry, though. I’ll have it all ready by tomorrow morning."
+        },
+        {
+          "s": "Speaker 0",
+          "t": "That is the end of Section 3. You will now have half a minute to check your answers."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "The Siberian Tiger",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [
+            31,
+            40
+          ],
+          "intro": [
+            "Complete the notes below.",
+            "Write **NO MORE THAN TWO WORDS** from the listening for each answer."
+          ],
+          "limit": {
+            "words": 2,
+            "number": false
+          },
+          "content": [
+            {
+              "center": "**The Siberian Tiger**"
+            },
+            "Largest sub-species of tiger.",
+            "Location - south-eastern Russia + northern China.",
+            "• 1940’s - 1960’s - danger of extinction due to hunting (only approx. 40 tigers in wild).",
+            "• Russia was the first to give the tiger total [[31]] + the Cold War closed the tigers’ forest environment.",
+            "• 1980’s - approx. five hundred tigers in wild.",
+            "• Soviet Union’s collapse led to poaching and the devastation of the tigers’ [[32]] (this led to only approx. 450 tigers left in the wild at that time).",
+            "• Conservation + anti-poaching has now led to a stable population of approx. 450 tigers in wild.",
+            "• Originally found in the boreal forests of Russian Far East, China + Korean peninsula.",
+            "• Now only in Russian Far East + border areas of China and North Korea.",
+            "• Northern boreal forests are [[33]] with coniferous trees (spruce, fir, and pine).",
+            "• Bordered by tundra in the north and steppes in the south.",
+            "• Extremely cold - The [[34]] creates long winters with little sun - temperatures can be minus 45 °C.",
+            "• The Siberian tiger is protected from the cold by very thick fur and lots of [[35]].",
+            "• Poaching to supply tiger parts for Chinese medicine leads to many tigers being killed - there is a belief that tiger parts can treat diseases and rejuvenate the body.",
+            "• Specialists from the west have rejected the [[36]] of tiger parts.",
+            "• Habitat loss is also a significant threat - this has also led to a lack of the tigers’ [[37]].",
+            "• The reduced tiger numbers have also led to a lack of [[38]], which makes successful breeding a problem. This also has weakened the tigers’ [[39]], so that the tigers are very vulnerable to illness.",
+            "• Various stakeholders are taking action to preserve the Siberian tiger.",
+            "• The most important element in the Siberian tiger’s conservation is to plan [[40]] that everyone must embrace."
+          ],
+          "answers": {
+            "31": "protection",
+            "32": "Habitat",
+            "33": "Temperate",
+            "34": "Latitude",
+            "35": "Fat",
+            "36": "(curative) power",
+            "37": "Prey",
+            "38": "genetic diversity",
+            "39": "immune systems",
+            "40": "educational programmes"
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "Speaker 0",
+          "t": "Now turn to Section 4. Section 4. You will hear part of a conservation lecture on the Siberian tiger. First you have some time to look at questions 31 to 40. Now listen carefully and answer questions 31 to 40."
+        },
+        {
+          "s": "Speaker 7",
+          "t": "Good morning, and welcome to this conservation lecture. Of all the animals we have looked at, the tiger is one of the most magnificent. The tiger has many different subspecies, but today we are going to discuss the Siberian tiger. The Siberian tiger is the largest subspecies of tiger and is primarily found in Southeastern Russia and Northern China. From the 1940s to the 1960s, it was close to extinction because of hunting, with only around 40 individuals left in the wild. However, its numbers recovered, and by the 1980s, there were around 500 living in the wild. The subspecies was saved by Russia, which became the first country in the world to grant the tiger full protection. And also by the Cold War, which saw the tiger’s forest home completely closed off to most people. However, at the time of the collapse of the Soviet Union, poaching and habitat destruction once again affected the Siberian tiger, and numbers dropped to 450. Since then, continued conservation and anti-poaching efforts by many partners have helped keep the population stable at today’s figure of around 450. Siberian tigers were once found throughout the boreal forests in the Russian Far East, China, and the Korean Peninsula. The subspecies is now restricted to certain provinces of the Russian Far East, and possibly to small pockets in the border areas of China and North Korea. Boreal forests are temperate, with mainly coniferous trees such as spruce, fir, and pine. They are bordered to the north by treeless tundra, and to the south by steps. These are amongst the coldest areas in the world. The latitude means long winters, where the sun does not rise far above the horizon, and the winter temperatures can drop below -45 degrees Celsius in the Siberian tiger habitat.... since the typical Siberian tiger habitat is cold and the land is covered by snow during the long winters, the Siberian tiger has developed remarkably thick fur. The harsh climate in this part of the world has also made it necessary for the Siberian tiger to store excessive fat along the belly and flanks. The most immediate threat to the survival of Siberian tigers is poaching to supply demand for tiger parts for use in traditional Chinese medicine. For more than a thousand years, the use of tiger parts has been included in the traditional Chinese medicine regimen. The Chinese culture believes that some parts of the tiger have medicinal qualities which help cure chronic diseases and replenish the body’s essential energy. Tiger parts such as bones, eyes, whiskers, and teeth are used to treat ailments and diseases ranging from insomnia and malaria to meningitis and bad skin. Chinese texts state that the active ingredients in tiger bone can help promote healing and that they also have anti-inflammatory properties. Western medical experts tend to discount all claims of any curative power in tiger bone as they do with rhinoceros horn, another popular Chinese medicine. Also, it is well known that aspirin contains the properties believed to be in tiger products and will achieve the same supposed results. Another significant long-term threat to Siberian tigers is habitat loss, and, as a result there, is a decrease in prey. Tiger forests are at risk from logging, conversion to agriculture, urban expansion, road construction, mining, fires and inadequate law enforcement. The latter in particular fails to deal with the problem of illegal logging which is widespread throughout the Russian Far East. Elk, wild boar and sika deer have also all been over-hunted by people which, in this remote area, service a primary source of protein for humans. Finally, one further problem Siberian tigers face is the fact that the current population is derived from just a few dozen individuals that survived the human attentions of the first half of the 20th century. As a result, scientists fear the tigers lack sufficient genetic diversity. This means that all of today’s wild Siberian tigers may be so genetically similar to one another that healthy breeding is a serious issue. Many of the Siberian tigers are now as close as siblings, or even twins so that amongst other problems, an illness capable of killing one of them would likely also be able to kill all of them, because of the fact that their immune systems have the same weaknesses. So, what’s being done? Wildlife conservation agencies are trying to conserve tiger populations and regional biodiversity by channeling funds to appropriate agencies to control widespread poaching of tigers and other wildlife. Russian scientists, politicians, conservationists and local stakeholders are continually preparing and implementing habitat conservation plans to develop a comprehensive wildlife and resource management plan for the Siberian tigers’ habitats. Finally, the really key element is that everyone must support educational programs aimed at promoting habitat and conservation issues within local communities that share the environment with the Siberian tiger."
+        },
+        {
+          "s": "Speaker 0",
+          "t": "That is the end of section four. You will now have half a minute to check your answers. This is the end of listening test 21. In the IELTS test, you would now have 10 minutes to transfer your answers to the listening answer sheet."
+        }
+      ]
+    }
+  ]
+}

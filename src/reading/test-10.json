@@ -1,0 +1,427 @@
+{
+  "test": 10,
+  "passages": [
+    {
+      "n": 1,
+      "title": "Clipper Race",
+      "paragraphs": [
+        "The nineteenth century was a period of great technological development in Britain, and for shipping the major changes were from wind to steam power, and from wood to iron and steel.",
+        "The fastest commercial sailing vessels of all time were clippers, three-masted ships built to transport goods around the world, although some also took passengers. From the 1840s until 1869, when the Suez Canal opened and steam propulsion was replacing sail, clippers dominated world trade. Although many were built, only one has survived more or less intact: Cutty Sark, now on display in Greenwich, southeast London.",
+        "Cutty Sark’s unusual name comes from the poem Tam O’Shanter by the Scottish poet Robert Burns. Tam, a farmer, is chased by a witch called Nannie, who is wearing a ‘cutty sark’ – an old Scottish name for a short nightdress. The witch is depicted in Cutty Sark’s figurehead – the carving of a woman typically at the front of old sailing ships. In legend, and in Burns’s poem, witches cannot cross water, so this was a rather strange choice of name for a ship.",
+        "Cutty Sark was built in Dumbarton, Scotland, in 1869, for a shipping company owned by John Willis. To carry out construction, Willis chose a new shipbuilding firm, Scott & Linton, and ensured that the contract with them put him in a very strong position. In the end, the firm was forced out of business, and the ship was finished by a competitor.",
+        "Willis’s company was active in the tea trade between China and Britain, where speed could bring shipowners both profits and prestige, so Cutty Sark was designed to make the journey more quickly than any other ship. On her maiden voyage, in 1870, she set sail from London, carrying large amounts of goods to China. She returned laden with tea, making the journey back to London in four months. However, Cutty Sark never lived up to the high expectations of her owner, as a result of bad winds and various misfortunes. On one occasion, in 1872, the ship and a rival clipper, Thermopylae, left port in China on the same day. Crossing the Indian Ocean, Cutty Sark gained a lead of over 400 miles, but then her rudder was severely damaged in stormy seas, making her impossible to steer. The ship’s crew had the daunting task of repairing the rudder at sea, and only succeeded at the second attempt. Cutty Sark reached London a week after Thermopylae.",
+        "Steam ships posed a growing threat to clippers, as their speed and cargo capacity increased. In addition, the opening of the Suez Canal in 1869, the same year that Cutty Sark was launched, had a serious impact. While steam ships could make use of the quick, direct route between the Mediterranean and the Red Sea, the canal was of no use to sailing ships, which needed the much stronger winds of the oceans, and so had to sail a far greater distance. Steam ships reduced the journey time between Britain and China by approximately two months.",
+        "By 1878, tea traders weren’t interested in Cutty Sark, and instead, she took on the much less prestigious work of carrying any cargo between any two ports in the world. In 1880, violence aboard the ship led ultimately to the replacement of the captain with an incompetent drunkard who stole the crew’s wages. He was suspended from service, and a new captain appointed. This marked a turnaround and the beginning of the most successful period in Cutty Sark’s working life, transporting wool from Australia to Britain. One such journey took just under 12 weeks, beating every other ship sailing that year by around a month.",
+        "The ship’s next captain, Richard Woodget, was an excellent navigator, who got the best out of both his ship and his crew. As a sailing ship, Cutty Sark depended on the strong trade winds of the southern hemisphere, and Woodget took her further south than any previous captain, bringing her dangerously close to icebergs off the southern tip of South America. His gamble paid off, though, and the ship was the fastest vessel in the wool trade for ten years.",
+        "As competition from steam ships increased in the 1890s, and Cutty Sark approached the end of her life expectancy, she became less profitable. She was sold to a Portuguese firm, which renamed her Ferreira. For the next 25 years, she again carried miscellaneous cargoes around the world.",
+        "Badly damaged in a gale in 1922, she was put into Falmouth harbor in southwest England, for repairs. Wilfred Dowman, a retired sea captain who owned a training vessel, recognised her and tried to buy her, but without success. She returned to Portugal and was sold to another Portuguese company. Dowman was determined, however, and offered a high price: this was accepted, and the ship returned to Falmouth the following year and had her original name restored.",
+        "Dowman used Cutty Sark as a training ship, and she continued in this role after his death. When she was no longer required, in 1954, she was transferred to dry dock at Greenwich to go on public display. The ship suffered from fire in 2007, and again, less seriously, in 2014, but now Cutty Sark attracts a quarter of a million visitors a year."
+      ],
+      "groups": [
+        {
+          "type": "tfng",
+          "range": [1, 8],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage 1?",
+            "**TRUE**\tIf the statement agrees with the information",
+            "**FALSE**\tIf the statement contradicts the information",
+            "**NOT GIVEN**\tIf there is no information on this"
+          ],
+          "items": {
+            "1": "Clippers were originally intended to be used as passenger ships.",
+            "2": "Cutty Sark was given the name of a character in a poem.",
+            "3": "The contract between John Willis and Scott & Linton favored Willis.",
+            "4": "John Willis wanted Cutty Sark to be the fastest tea clipper traveling between the UK and China.",
+            "5": "Despite storm damage, Cutty Sark beat Thermopylae back to London.",
+            "6": "The opening of the Suez Canal meant that steam ships could travel between Britain and China faster than clippers.",
+            "7": "Steam ships sometimes used the ocean route to travel between London and China.",
+            "8": "Captain Woodget put Cutty Sark at risk of hitting an iceberg."
+          },
+          "answers": {"1": "False", "2": "False", "3": "True", "4": "True", "5": "False", "6": "True", "7": "Not Given", "8": "True"}
+        },
+        {
+          "type": "gap",
+          "range": [9, 13],
+          "intro": [
+            "Complete the sentences below.",
+            "Write **ONE WORD ONLY** for each answer."
+          ],
+          "content": [
+            "After 1880, Cutty Sark carried [[9]] as its main cargo during its most successful time.",
+            "As a captain and [[10]], Woodget was very skilled.",
+            "Ferreira went to Falmouth to repair damage that a [[11]] had caused.",
+            "Between 1923 and 1954, Cutty Sark was used for [[12]].",
+            "Cutty Sark has twice been damaged by [[13]] in the 21st century."
+          ],
+          "limit": {"words": 1, "number": false},
+          "answers": {"9": "wool", "10": "navigator", "11": "gale", "12": "training", "13": "fire"}
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "SLEEP",
+      "paragraphs": [
+        {"l": "A", "t": "Like many things about your body, scientists and medical professionals still have a lot to learn about the process of sleep. One earlier misconception that has now been revised is that the body completely slows down during sleep; it is now clear that the body’s major organs and regulatory systems continue to work actively – the lungs, heart and stomach for example. Another important part of the body also operates at night – the glands and lymph nodes, which strengthen the immune system. This is commonly why the body’s natural immunity is weakened with insufficient sleep."},
+        {"l": "B", "t": "In some cases, certain systems actually become more active while we sleep. Hormones required for muscle development and growth, for instance, as well as the growth of new nerve cells. In the brain, activity of the pathways needed for learning and memory is increased."},
+        {"l": "C", "t": "Another common myth about sleep is that the body requires less sleep the older we get. Whilst It is true that babies need 16 hours compared to 9 hours and 8 hours respectively for teenagers and adults, this does not mean that older people need less sleep. However, what is true is that for a number of different factors, they often get less sleep or find their sleep less refreshing. This is because as people age, they spend less time in the deep, restful stages of sleep and are more easily awakened. Older people are also more likely to have medical conditions that affect their sleep, such as insomnia, sleep apnoea and heart problems."},
+        {"l": "D", "t": "Getting a good sleep is not just a matter of your head hitting the pillow at night and waking up in the morning. Your sleep goes in cycles throughout the night, moving back and forth between deep restorative sleep and more alert stages with dreaming. As the night progresses, you spend more time in a lighter dream sleep."},
+        {"l": "E", "t": "Sleep patterns can be broken down into two separate and distinct stages – REM and NREM sleep, REM (Rapid Eye Movement) sleep is when you dream. You usually have 3 to 5 periods of REM sleep each night, lasting from 5 minutes to over an hour, during which time your body’s activities increase. Breathing becomes fast, shallow and uneven, with an increase in brain activity, heartbeat and blood pressure. Although your major muscles generally don’t move, fingers and toes may twitch and body temperature changes and you may sweat or shiver."},
+        {"l": "F", "t": "Research has concluded that this sleep is most important for your brain. It is when it is most active, processing emotions and memories and relieving stress. The areas used for learning and developing more skills are activated. In fact, the brain waves measured during REM sleep are similar to those measured when awake."},
+        {"l": "G", "t": "NREM (Non-Rapid Eye Movement) sleep is dreamless sleep. NREM sleep consists of four stages of deeper and deeper sleep. As you move through the stages, you become more relaxed, less aware of what is happening around you and more difficult to wake. Your body’s activity will also decrease as you move through the NREM stages, acting in the opposite manner to REM sleep. Stage 1 of NREM sleep is when you are falling to sleep. This period generally lasts between 5 and 10 minutes, during which time you can be woken easily. During stage 2, you are in a light sleep- the in-between stage before your fall into a deep sleep. It lasts about 20 minutes. In stage 3, deep sleep begins, paving the way for stage 4, in which you are difficult to awake and unaware of anything around you. This is when sleep walking and talking can occur. This is the most important stage for your body. Your brain has slowed right down and is recovering. Blood flow is redirected from your brain to your large muscles allowing them to mend any damage from your day at work. People woken quickly from stage 4 sleep often feel a sense of disorientation, which is why it is helpful to use an alarm clock with an ascending ring."},
+        {"l": "H", "t": "About an hour and a half into your sleep cycle you will go from deep Stage 4 sleep back into light Stage 2 sleep, then into REM sleep, before the cycle begins again. About 75% of your sleep is NREM sleep. If you sleep for eight hours, about six of them will be NREM sleep. As the night progresses, you spend more time in dream sleep and lighter sleep."},
+        {"l": "I", "t": "When you constantly get less sleep (even 1 hour less) than you need each night, it is called sleep debt. You may pay for it in daytime drowsiness, trouble concentrating, moodiness, lower productivity and increased risk of falls and accidents. Although a daytime nap cannot replace a good night’s sleep, it can help make up for some of the harm done as a result of sleep debt. But avoid taking a nap after 3 pm as late naps may stop you getting to sleep at night. And avoid napping for longer than 30 minutes as longer naps will make it harder to wake up and get back into the swing of things."}
+      ],
+      "groups": [
+        {
+          "type": "tfng",
+          "range": [14, 17],
+          "intro": [
+            "Do the following statements agree with the information given in the reading passage?",
+            "In boxes 14-17 on your answer sheet write",
+            "**TRUE**\tif the statement is true",
+            "**FALSE**\tif the statement is false",
+            "**NOT GIVEN**\tif the information is not given in the passage"
+          ],
+          "items": {
+            "14": "It was previously believed that biological processes slowed during sleep.",
+            "15": "Teenagers lose less sleep than adults when they have a medical condition.",
+            "16": "During the night, our sleep becomes increasingly deep.",
+            "17": "Lack of sleep can cause heart problems and other medical conditions."
+          },
+          "answers": {"14": "True", "15": "Not Given", "16": "False", "17": "False"}
+        },
+        {
+          "type": "gap",
+          "range": [18, 21],
+          "intro": [
+            "Complete the sentences below using **NO MORE THAN THREE WORDS AND/OR A NUMBER** from the passage for each answer,",
+            "Write your answers in boxes 18–21 on your answer sheet."
+          ],
+          "content": [
+            "REM sleep can help reduce [[18]] During REM sleep, [[19]] are similar to those recorded whilst awake. During Stage 1 NREM sleep, you can be [[20]] with little effort. Suddenly being woken from deep sleep can cause [[21]]"
+          ],
+          "limit": {"words": 3, "number": true},
+          "answers": {"18": "stress", "19": ["(the) brain waves"], "20": "(easily) woken", "21": "disorientation"}
+        },
+        {
+          "type": "multi",
+          "range": [22, 23],
+          "intro": [
+            "Choose **TWO** letters, **A-E**.",
+            "Write your answers in boxes 22-23.",
+            "**NB** Your answers may be given in either order."
+          ],
+          "choose": 2,
+          "stem": "**REM sleep**",
+          "options": {
+            "A": "is more common for younger people.",
+            "B": "is when we dream.",
+            "C": "may cause your extremities to move of their own accord.",
+            "D": "lasts about an hour a night.",
+            "E": "is when the brain is most relaxed."
+          },
+          "answer": "B, C"
+        },
+        {
+          "type": "grid",
+          "range": [24, 26],
+          "intro": [
+            "The reading passage has nine paragraphs, **A-I**.",
+            "Which paragraph contains the following information?",
+            "Write the correct letter **A-I** in boxes 24-26."
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F", "G", "H", "I"],
+          "items": {
+            "24": "Differences in sleep patterns between generations",
+            "25": "Brain activity is limited as resources are diverted",
+            "26": "Repetition of the cycle"
+          },
+          "answers": {"24": "C", "25": "G", "26": "H"}
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Ebonics",
+      "paragraphs": [
+        {"l": "A", "t": "Ebonics - also known by a host of other names such as African American Vernacular English, Black English, Black Vernacular, and so on - is an African-American language that has its roots in the trans-Atlantic slave trade, as African captives devised the means to communicate with each other and with their captors. In the South of the United States, these Pan-African languages co-mingled with Standard English and the Southern dialect. Many uniquely African American components have arisen over the last two centuries, and all of these influences have forged what is now known as Ebonics."},
+        {"l": "B", "t": "In 1996, debates around the nature of “Ebonics” in the United States came to the forefront. That year, the Oakland Unified School District (OUSD) in California enacted Resolution 597-003, which officially recognized that African-American students “as part of their culture and history as African people possess and utilize a language”. Alternatively referred to as Ebonics (literally “black sounds”), African Communication Behaviours, and African Language Systems, this language was declared to be “genetically-based” rather than a dialect of Standard English."},
+        {"l": "C", "t": "Within the profession of language research and pedagogy, a strong consensus formed behind the OUSD’s decision to recognise Ebonics. Linguistics professor John Rickford noted that Ebonics was not simply characterised by erroneous grammar and large slang vocabulary, but that underlying this language was a structured form and process of grammar and phonology that made English learning for Ebonics speakers far more complex a task than simply dropping bad habits. English teachers, Rickford counselled, must, therefore, accept and embrace these complexities."},
+        {"l": "D", "t": "The Linguistic Society of America (LSA) concurred with Rickford, adding that whether or not Ebonics should be defined as a dialect or a language does not matter in terms of its “validity”. While linguists studying Ebonics typically restrain from prescribing edicts in favour of tracking changes in form and style, the LSA did point to the fact that speakers of Swedish and Norwegian can typically understand each other while conversing in different “languages”, whereas Mandarin and Cantonese speakers cannot understand each other’s “dialects” to conclude that spatial and social tensions, rather than strict linguistic criteria, were the crucial factors in defining these terms."},
+        {"l": "E", "t": "For many others, however, the OUSD’s decision was tantamount to endorsing lazy, vulgar, and “broken” English - the equivalent, perhaps, of acknowledging “text-speak” or Internet slang as a valid form of expression. Recognizing and fostering the use of informal, culturally-specific spoken language, say those detractors, traps users in a kind of linguistic ghetto in which they can interact with other disenfranchised and excluded citizens, but cannot engage within the public sphere in a meaningful way. Because of the dominance of Standard English in the United States, Ebonics-only speakers are essentially unable to go to university and work in high-valued professions, and they are unlikely to be electable to any kind of public office (even in areas with a high density of black residents, those who lose their Ebonics-tinged speech patterns tend to be more trusted)."},
+        {"l": "F", "t": "Psychology professor Ladonna Lewis Rush has noted, however, that the OUSD’s resolution did not promote Ebonics instruction as an alternative to Standard English in an either-or approach but was intended to provide a better springboard for black achievement in English education. The systematic devaluation of Ebonics in American society parallels. Rush has argued, the devaluation of African-Americans in general. A demeaning attitude can lead to social exclusion, teachers are suggested to think inductively and encourage Ebonics speakers to use and collaborate their way of speaking while understanding that the language of the workplace, and of academics, is Standard English. Nobel Prize-winning journalist Toni Morrison has also found a reciprocal, mutually enriching use for both Ebonics and Standard English. “There are certain ideas and ways of thinking I cannot say without recourse to my [Ebonics] language... I know Standard English. I want to use it to restore the other language, the lingua Franca.”"},
+        {"l": "G", "t": "In the media, the Ebonics controversy has mostly been portrayed as a revival of black-versus-white confrontation - this time over linguistic differences - but journalist Joan Walsh thinks there are basic elements inherent in the dispute that people do not want to openly discuss. She considers that there is increasing resentment by black parents and teachers who see enormous amounts of federal and state support going into Asian and Latino bilingual programmes. As immigration continues to increase, a greater proportion of the school budget is going into these programmes. The question has to be raised: why should immigrant children get English-language assistance as well as reinforcement of their own language and culture while native-born African-Americans get no such resources? Walsh maintains inner-city black children are more isolated than in the past and have less social interaction with those fluent in Standard English. For this reason, they need help from trained teachers to translate the native tongue they hear at home into the English of the classroom."},
+        {"l": "H", "t": "Ebonics should be treated as a black contribution to culture in the way that jazz and rock-and-roll have been welcomed - the new vocabulary and imagery has added to the American language rather than devalued it. In Walsh’s eyes, there has always been “white mistrust of how black people handle their business” but “in the public realm, white disdain yields block intransigence more reliably than ‘P comes before e’”."}
+      ],
+      "groups": [
+        {
+          "type": "gap",
+          "range": [27, 30],
+          "intro": [
+            "Complete the summary below.",
+            "Choose **NO MORE THAN THREE WORDS** from the text for each answer.",
+            "Write your answers in blank spaces next to 27—30 on your answer sheet."
+          ],
+          "content": [
+            "Ebonics originated from the [[27]] The prisoners found a way to talk to other enslaved Africans as well as to [[28]] In the southern USA, several African languages mixed with English and the local [[29]] Over time, many distinctive [[30]] have been added to produce the Ebonics language of today."
+          ],
+          "limit": {"words": 3, "number": false},
+          "answers": {"27": "(trans-Atlantic) slave trade", "28": "their captors", "29": "(Southern) dialect", "30": "(African-American) components"}
+        },
+        {
+          "type": "match",
+          "range": [31, 37],
+          "intro": [
+            "Complete each sentence with the correct ending, **A-K**. below.",
+            "Write the correct letter, **A-K**, in boxes 31—37 on your answer sheet."
+          ],
+          "options": {
+            "title": [],
+            "list": {
+              "A": "to use Ebonics in order to express specific concepts",
+              "B": "to recognise the genetic differences between African-American students and others",
+              "C": "to acknowledge the systematic differences that Ebonics speakers must learn to overcome",
+              "D": "to consider Ebonics as lazy English rather than a unique form of expression",
+              "E": "to admit Ebonics users to university to gain more knowledge",
+              "F": "to make a statement about particular geo-social relationships",
+              "G": "to compare Scandinavian languages and Chinese dialects",
+              "H": "to declare Ebonics an independent language, not a variation on English",
+              "I": "to honour positive aspects of Ebonics, while emphasising the necessity of Standard English for formal use",
+              "J": "to approve the language of text messaging as a legitimate mode of communication",
+              "K": "to describe how Ebonics has developed without dictating rules for proper usage"
+            },
+            "after": true
+          },
+          "items": {
+            "31": "In 1996, the Oakland Unified School District passed a measure",
+            "32": "According to John Rickford, it is a good idea when teaching Standard English",
+            "33": "Linguists studying Black speech patterns are only able",
+            "34": "The LSA nailed that definitions of “dialect” and “language” are generally away",
+            "35": "Critics of vernacular alternatives to Standard English tend",
+            "36": "Ladonna Lewis Rush argues that it is important for educators",
+            "37": "Toni Morrison finds it necessary"
+          },
+          "answers": {"31": "H", "32": "C", "33": "K", "34": "F", "35": "D", "36": "I", "37": "A"}
+        },
+        {
+          "type": "multi",
+          "range": [38, 40],
+          "intro": [
+            "Choose **THREE** letters, **A- G**",
+            "Write the correct letters in boxes 38-40 on your answer sheet."
+          ],
+          "choose": 3,
+          "stem": "Which **THREE** statements below represent the views of Joan Walsh?",
+          "options": {
+            "A": "Linguistic issues are impeding black academic success rather than social issues.",
+            "B": "Ebonics deserves to be considered as nothing less than a gift to American society.",
+            "C": "Children of non-English speaking immigrants should be denied access to limited educational resources.",
+            "D": "Ebonics is a debate that reflects rising multi-minority tensions and frustrations over funding issues.",
+            "E": "Ebonics is just another hostile encounter between black and white opponents",
+            "F": "Many urban African-American children do not have the same exposure to accepted norms of English that they used to.",
+            "G": "Blacks need more flexibility in their dealings with the white public."
+          },
+          "answer": "B, D, F"
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "1": {
+      "quote": "The fastest commercial sailing vessels of all time were clippers, three-masted ships built to transport goods around the world...",
+      "explanation": "Đoạn đầu tiên cho biết clippers được thiết kế để **chở hàng hóa**, không phải hành khách. Vì vậy, thông tin trong câu sai."
+    },
+    "2": {
+      "quote": "Cutty Sark’s unusual name comes from the poem Tam O’Shanter... Nannie, who is wearing a ‘cutty sark’ – an old Scottish name for a short nightdress.",
+      "explanation": "Tên “Cutty Sark” là từ **chiếc váy ngủ** mà nhân vật Nannie mặc trong bài thơ, **không phải tên của nhân vật** → câu sai."
+    },
+    "3": {
+      "quote": "...ensured that the contract with them put him in a very strong position.",
+      "explanation": "Hợp đồng có lợi cho Willis, đúng với nội dung câu hỏi."
+    },
+    "4": {
+      "quote": "...so Cutty Sark was designed to make the journey more quickly than any other ship.",
+      "explanation": "Willis mong muốn con tàu của mình là **nhanh nhất** trong vận chuyển trà, đúng như câu nói."
+    },
+    "5": {
+      "quote": "Cutty Sark gained a lead... but then her rudder was severely damaged... only succeeded at the second attempt. Cutty Sark reached London a week after Thermopylae.",
+      "explanation": "Cutty Sark **về sau** Thermopylae chứ không chiến thắng → câu sai."
+    },
+    "6": {
+      "quote": "Steam ships... reduced the journey time between Britain and China by approximately two months.",
+      "explanation": "Suez Canal rút ngắn thời gian nhờ tàu hơi nước → câu đúng."
+    },
+    "7": {
+      "explanation": "Không có đoạn nào nói rằng tàu hơi nước đi theo đường biển giữa London và Trung Quốc → **không có thông tin**."
+    },
+    "8": {
+      "quote": "...brought her dangerously close to icebergs off the southern tip of South America.",
+      "explanation": "Đúng là thuyền trưởng Woodget đã đưa tàu đến gần băng trôi → câu đúng."
+    },
+    "9": {
+      "quote": "...the beginning of the most successful period in Cutty Sark’s working life, transporting wool from Australia to Britain.",
+      "explanation": "Hàng hóa chính của Cutty Sark trong giai đoạn thành công nhất là **len**."
+    },
+    "10": {
+      "quote": "Richard Woodget was an excellent navigator, who got the best out of both his ship and his crew.",
+      "explanation": "Woodget là **thuyền trưởng và người điều hướng** xuất sắc."
+    },
+    "11": {
+      "quote": "Badly damaged in a gale in 1922, she was put into Falmouth harbor...",
+      "explanation": "Tàu bị **bão lớn (gale)** đánh hỏng và phải vào cảng để sửa chữa."
+    },
+    "12": {
+      "quote": "Downman used Cutty Sark as a training ship...",
+      "explanation": "Trong khoảng thời gian đó, tàu được dùng làm **tàu huấn luyện**."
+    },
+    "13": {
+      "quote": "The ship suffered from fire in 2007, and again, less seriously, in 2014...",
+      "explanation": "Trong thế kỷ 21, tàu bị cháy **hai lần**."
+    },
+    "14": {
+      "quote": "One earlier misconception... is that the body completely slows down during sleep...",
+      "explanation": [
+        "**Câu hỏi:** Trước đây người ta tin rằng các quá trình sinh học sẽ chậm lại khi ngủ.",
+        "**Dẫn chứng:** Đoạn A",
+        "**Giải thích:** Câu này đúng vì đoạn văn nói rằng **đã từng có quan niệm sai lầm** rằng cơ thể chậm lại hoàn toàn khi ngủ."
+      ]
+    },
+    "15": {
+      "explanation": [
+        "**Câu hỏi:** Thanh thiếu niên ngủ ít hơn người lớn khi mắc bệnh.",
+        "**Giải thích:** Trong đoạn C có nói đến sự khác biệt về giấc ngủ giữa người lớn và trẻ nhỏ, **nhưng không đề cập đến ảnh hưởng của bệnh đối với giấc ngủ của thanh thiếu niên**, nên đáp án là **Not Given**."
+      ]
+    },
+    "16": {
+      "quote": "As the night progresses, you spend more time in a lighter dream sleep.",
+      "explanation": [
+        "**Câu hỏi:** Trong đêm, giấc ngủ của chúng ta ngày càng sâu hơn.",
+        "**Dẫn chứng:** Đoạn D",
+        "**Giải thích:** Câu này sai vì đoạn văn nói rõ rằng **về sau trong đêm, giấc ngủ trở nên nhẹ hơn**, không phải sâu hơn."
+      ]
+    },
+    "17": {
+      "quote": "Older people are also more likely to have medical conditions...",
+      "explanation": [
+        "**Câu hỏi:** Thiếu ngủ có thể gây ra các bệnh tim mạch và vấn đề y tế khác.",
+        "**Dẫn chứng:** Đoạn C",
+        "**Giải thích:** Câu đúng vì thiếu ngủ có liên quan đến nhiều vấn đề sức khỏe như **tim mạch, huyết áp và các bệnh lý khác**."
+      ]
+    },
+    "18": {
+      "quote": "relieving stress",
+      "explanation": [
+        "**Câu hỏi:** Giấc ngủ REM có thể giúp giảm...",
+        "**Dẫn chứng:** Đoạn F",
+        "**Giải thích:** REM giúp giải tỏa căng thẳng, đây là nội dung chính của đoạn F."
+      ]
+    },
+    "19": {
+      "quote": "the brain waves measured during REM sleep are similar to those measured when awake.",
+      "explanation": [
+        "**Câu hỏi:** Trong giấc ngủ REM, ... giống như khi tỉnh.",
+        "**Dẫn chứng:** Đoạn F",
+        "**Giải thích:** Sóng não trong giấc ngủ REM giống với khi đang tỉnh."
+      ]
+    },
+    "20": {
+      "quote": "during which time you can be woken easily.",
+      "explanation": [
+        "**Câu hỏi:** Trong giai đoạn 1 của NREM, bạn có thể... dễ dàng.",
+        "**Dẫn chứng:** Đoạn G",
+        "**Giải thích:** Ở giai đoạn này, người ngủ **rất dễ bị đánh thức**."
+      ]
+    },
+    "21": {
+      "quote": "People woken quickly from stage 4 sleep often feel a sense of disorientation.",
+      "explanation": [
+        "**Câu hỏi:** Tỉnh dậy đột ngột từ giấc ngủ sâu có thể gây...",
+        "**Dẫn chứng:** Đoạn G",
+        "**Giải thích:** Tỉnh dậy từ giấc ngủ sâu gây **mất phương hướng**."
+      ]
+    },
+    "22": {
+      "quote": "REM sleep is when you dream” “...your fingers and toes may twitch...",
+      "explanation": [
+        "**B - We dream in REM** → Đoạn E xác nhận “REM sleep is when you dream”",
+        "**C - Extremities move involuntarily** → Đoạn E - “...your fingers and toes may twitch...”",
+        "**Giải thích:** Hai đặc điểm nổi bật của REM là **mơ** và **cử động không tự chủ của tay chân**."
+      ]
+    },
+    "24": {
+      "explanation": [
+        "**Câu hỏi:** Sự khác biệt về giấc ngủ giữa các thế hệ.",
+        "**Dẫn chứng:** Đoạn C nói về việc người lớn tuổi ngủ ít hơn và lý do.",
+        "**Giải thích:** Phân tích so sánh giữa **trẻ sơ sinh, thanh thiếu niên và người già**."
+      ]
+    },
+    "25": {
+      "quote": "Blood flow is redirected from your brain to your large muscles...",
+      "explanation": [
+        "**Câu hỏi:** Hoạt động não bộ bị hạn chế vì tài nguyên được chuyển hướng.",
+        "**Dẫn chứng:** Đoạn G",
+        "**Giải thích:** Khi ngủ sâu, **máu được chuyển khỏi não về cơ**, dẫn đến **giảm hoạt động não**."
+      ]
+    },
+    "26": {
+      "quote": "then into REM sleep, before the cycle begins again.",
+      "explanation": [
+        "**Câu hỏi:** Sự lặp lại của chu kỳ ngủ.",
+        "**Dẫn chứng:** Đoạn H",
+        "**Giải thích:** Đoạn này mô tả **chu kỳ giấc ngủ được lặp lại nhiều lần** mỗi đêm."
+      ]
+    },
+    "27": {
+      "quote": "Ebonics... is an African-American language that has its roots in the trans-Atlantic slave trade...",
+      "explanation": "Ebonics bắt nguồn từ bối cảnh người châu Phi bị bắt làm nô lệ và đưa sang châu Mỹ qua con đường buôn nô lệ xuyên Đại Tây Dương."
+    },
+    "28": {
+      "quote": "...devised the means to communicate with each other and with their captors.",
+      "explanation": "Người châu Phi bị bắt làm nô lệ đã phát triển phương tiện giao tiếp để nói chuyện với nhau và với những kẻ bắt giữ họ."
+    },
+    "29": {
+      "quote": "...Pan-African languages co-mingled with Standard English and the Southern dialect.",
+      "explanation": "Các ngôn ngữ châu Phi trộn lẫn với tiếng Anh tiêu chuẩn và phương ngữ miền Nam nước Mỹ để tạo thành Ebonics."
+    },
+    "30": {
+      "quote": "Many uniquely African American components have arisen over the last two centuries...",
+      "explanation": "Trong suốt 200 năm, nhiều yếu tố riêng biệt của người Mỹ gốc Phi đã được thêm vào, góp phần hình thành Ebonics như hiện nay."
+    },
+    "31": {
+      "quote": "Rush has noted... the OUSD’s resolution... was intended to provide a better springboard for black achievement in English education...",
+      "explanation": "Mục đích của OUSD không phải thay thế tiếng Anh tiêu chuẩn, mà công nhận giá trị của Ebonics và thúc đẩy việc học tiếng Anh chính thống."
+    },
+    "32": {
+      "quote": "...English teachers... must therefore, accept and embrace these complexities.",
+      "explanation": "John Rickford cho rằng giáo viên cần nhận thức những khó khăn mà người nói Ebonics gặp phải khi học tiếng Anh."
+    },
+    "33": {
+      "quote": "Linguists... restrain from prescribing edicts... prefer tracking changes in form and style...",
+      "explanation": "Các nhà ngôn ngữ học không áp đặt quy tắc, mà mô tả sự phát triển tự nhiên của Ebonics."
+    },
+    "34": {
+      "quote": "...Mandarin and Cantonese speakers cannot understand each other’s dialects... spatial and social tensions... crucial in defining these terms.",
+      "explanation": "LSA cho rằng sự khác biệt địa lý – xã hội là yếu tố chính trong việc xác định “dialect” và “language”."
+    },
+    "35": {
+      "quote": "...to be considered as lazy, vulgar and ‘broken’ English...",
+      "explanation": "Nhiều người cho rằng Ebonics là một hình thức tiếng Anh kém chất lượng thay vì một hình thức diễn đạt hợp lệ."
+    },
+    "36": {
+      "quote": "...teachers are suggested to think inductively and encourage Ebonics speakers to use and collaborate...",
+      "explanation": "Rush cho rằng giáo viên nên giúp người nói Ebonics hiểu rằng họ cần học tiếng Anh chuẩn để thành công học thuật và nghề nghiệp."
+    },
+    "37": {
+      "quote": "There are certain ideas and ways of thinking I cannot say without recourse to my [Ebonics] language...",
+      "explanation": "Toni Morrison cho rằng có những ý tưởng bà chỉ có thể diễn đạt trọn vẹn qua Ebonics."
+    },
+    "38": {
+      "quote": "Ebonics deserves to be considered as nothing less than a gift to American society.” “...rising resentment... as immigration continues to increase...” “Many inner-city black children... hear at home into the English of the classroom.",
+      "explanation": [
+        "**Quan điểm của Joan Walsh**",
+        "**Giải thích:** Walsh cho rằng Ebonics là một phần văn hóa đáng quý, đồng thời đề cập đến mâu thuẫn giữa các cộng đồng thiểu số do sự phân bổ ngân sách giáo dục và thiếu sự hỗ trợ cho trẻ em Mỹ gốc Phi."
+      ]
+    }
+  }
+}

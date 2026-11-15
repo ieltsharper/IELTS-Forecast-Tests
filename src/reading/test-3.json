@@ -1,0 +1,254 @@
+{
+  "test": 3,
+  "passages": [
+    {
+      "n": 1,
+      "title": "Socotra Island",
+      "paragraphs": [
+        "Situated in the Arabian Sea off the Arabian Peninsula is the Socotra archipelago, a remnant of an ancient landmass that became separated from Africa and Arabia 18 million years ago.",
+        "When scientists began the first substantial exploration of the islands 30 years ago, they found a fascinating collection of unusual plants and animals - a unique combination of ‘relict’ populations (organisms that have become extinct elsewhere) and species that have evolved to cope with the island’s harsh conditions. In fact, almost a third of its plant species and up to 80 percent of its terrestrial animals are found nowhere else.",
+        "Life in the arid conditions is harsh for the people living there too. Isolated from the mainland by hundreds of kilometres, and with monsoons that rage for several months every year, the islanders were historically self-sufficient - relying only on what they themselves could produce to survive. There are floods and droughts, and many islanders lack adequate water resources and nutrition. Medical care and education are limited.",
+        "However, the main island, Socotra, is experiencing significant change. A rapid development programme has been instituted that will have far-reaching impacts on the island’s people and the environment for decades to come. In the past, the only way to get to Socotra was by travelling for several days on a boat, but irregular flights began touching down on dirt landing strips during the late 1960s. By 1999, a runway had been constructed on Socotra that was capable of taking larger aircraft all year round, and since 2000 the capital, Hadibo, has seen huge expansion. New schools have been built, and a modern terminal was added to the airport, through which an increasing number of tourists are beginning to pass. And there are plans to construct new harbour facilities that will enable fishermen to sell their catch more easily, and also make it simpler for local people to have food, and bricks and timber for construction projects brought to the island.",
+        "However, although these improvements are significant, it’s the continuing development of Socotra’s road system that is having the greatest impact on the islanders. Until 1991, a few dirt tracks, navigable only by four-wheel drive, gave access to part of the island. Otherwise it was only possible to reach most areas on foot, or with a donkey. By 2001, however, there was an extensive network of unpaved car tracks, and the following year a tarmac road, the first of its kind on Socotra, connecting the airport to Hadibo, was completed. Now, a road traverses the Diksam plateau and continues on to the south coast, making essential services more accessible to a large number of villagers.",
+        "There is no doubt that the development of Socotra’s infrastructure has brought many benefits to the island’s inhabitants, but there is growing concern that the speed with which it is taking place is so rapid that it will be difficult for local people to maintain certain traditions. There is also the fear that the developments will threaten the island’s unique ecosystems. Building new roads and harbours may lead to the introduction of alien species to Socotra Island (as has already happened with the Indian house crow), damage to the sea’s biodiversity through the increased collection and sale of coral, and tourist developments on an inappropriate and unsustainable scale.",
+        "Problems were also caused by increasing access to sensitive areas. For example, cutting the road along the coast caused considerable damage to the stunning scenery. However, some steps were then taken to limit the damage caused by further development. For example, biodiversity project officers were consulted in the planning stages of the road that crosses the centre of Socotra, so it avoids some of the most scenic areas and sites that contain plants only found in a limited number of locations. It is an area which is also home to the greatest concentrations of dragon’s blood trees and supports many endemic animals.",
+        "An agreement has now been reached about all future construction of roads. To protect the island’s ecologically sensitive areas, any proposed road will be subject to a report assessing its environmental impact prior to construction. The challenge has been to bring the benefits of development to Socotra without damaging the environment, which supports the people’s way of life and will form the basis of future development on the island."
+      ],
+      "groups": [
+        {
+          "type": "tfng",
+          "range": [1, 5],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage 1?",
+            "In boxes 1-5 on your answer sheet, write:",
+            "**TRUE**\tif the statement agrees with the information",
+            "**FALSE**\tif the statement contradicts the information",
+            "**NOT GIVEN**\tif there is no information on this"
+          ],
+          "items": {
+            "1": "Scientists found species on the islands that had died out in other countries.",
+            "2": "The inhabitants used to be dependent on the mainland.",
+            "3": "The fact that the first flights to the island were infrequent was because of poor weather conditions.",
+            "4": "Most visitors to the islands stay in the capital city.",
+            "5": "People’s lives have been changed more by the airport than any other development."
+          },
+          "answers": {"1": "True", "2": "False", "3": "Not Given", "4": "Not Given", "5": "False"}
+        },
+        {
+          "type": "gap",
+          "range": [6, 13],
+          "intro": [
+            "Choose **ONE WORD AND/OR A NUMBER** from the passage for each answer."
+          ],
+          "content": [
+            {"center": "**Transportation**"},
+            "• At one time, it was only possible to reach Socotra by [[6]]",
+            "• In [[7]] the airport runway was finished.",
+            "• The airport was further expanded with an up-to-date [[8]]",
+            "• Harbour improvements have made it easier to import [[9]] and building materials.",
+            "• Before the new road system, parts of Socotra were only accessible on foot, by [[10]], or in a four-wheel drive.",
+            "**Impact on local people and the environment**",
+            "• Fewer [[11]] will be continued by local inhabitants because of the speed of development.",
+            "• Removal of coral may damage the marine habitat.",
+            "• Biodiversity officers ensured the new road did not pass through places with rare [[12]]",
+            "• In future, environmental damage by road construction will be evaluated in a [[13]]"
+          ],
+          "limit": {"words": 1, "number": true},
+          "answers": {"6": "boat", "7": "1999", "8": "terminal", "9": "fish", "10": "foot", "11": "traditions", "12": "plants", "13": "report"}
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "PHOTOGRAPHY",
+      "standfirst": "Photography emerged as part of a cluster of technical inventions and innovations around the middle of the nineteenth century. Heralded as a great technological invention, it immediately became the subject of debates concerning its aesthetic status and societal uses.",
+      "paragraphs": [
+        {"l": "A", "t": "Central to the nineteenth-century debate about the nature of photography as a new technology was the question as to how far it could be considered as art. It was celebrated for its putative ability to produce accurate images of what was in front of the camera’s lens: images which were seen as being mechanically produced and thus free of the selective discriminations of the human eye and hand. On precisely the same grounds, the medium was often regarded as falling outside the realm of art as its assumed power of accurate, dispassionate recording appeared to leave no room for the artist’s compositional creativity."},
+        {"l": "B", "t": "Debates concerning the status of photography as art continued to take place in periodicals throughout the nineteenth century. The French poet Baudelaire linked “the invasion of photography and the great industrial madness of today” and asserted that if photography is allowed to deputize for art in some of art’s activities, it will not be long before it has supplanted or corrupted art altogether. In his view, photography’s only function was to support intellectual enquiry."},
+        {"l": "C", "t": "Baudelaire was not alone in this view. Absolute material accuracy was seen as the hallmark of photography, and the nineteenth-century desire to explore, record, and catalogue human experience, both at home and overseas, encouraged people to emphasize photography as a method of naturalistic documentation, rather than any type of art form."},
+        {"l": "D", "t": "Photographers responded to criticisms of this kind in two ways: either they accepted that photography was something different from art and sought to discover what the intrinsic properties of the medium were, or they pointed out that photography was more than a mechanical form of image-making, that it could be worked on and contrived so as to produce pictures which in some ways resembled paintings. ‘Pictorial’ photography from the 1850s onwards sought to overcome the problems of photography by careful arrangement of all the elements of the composition and by reducing the signifiers of technological production within the photograph. For example, they ensured that the image was somewhat blurred: they made pictures of allegorical subjects, including religious scenes, and those who worked with the gum bichromate process scratched their prints in an effort to imitate something of the appearance of a canvas."},
+        {"l": "E", "t": "In the other camp were those photographers who celebrated the qualities of straight photography (with an emphasis upon direct documentary typical of the Modern period in American photography) and did not want to treat the medium as a kind of monochrome painting. They were interested in photography’s ability to provide apparently accurate records of the visual world and tried to give their images the formal status and finish of paintings while concentrating their attention on its intrinsic quality."},
+        {"l": "F", "t": "Photography in Britain and France was initially heralded for its technical recording abilities. With few exceptions, the emphasis was on picture-taking rather than picture-making—to echo a distinction made by Margaret Harker. She suggests that the development of the art of photography in the late 1850s can be partly accounted for through the increasing involvement of people trained as artists. They brought with them a concern for form and composition and, in particular, the use of light. Photography came to encroach very directly on genres of painting such as portraiture, not only taking over some of the work of painters but also extending their work. For instance, while few could afford the time and cost of sitting for a painted portrait, the studio photographer could offer a similar service more cheaply. As such, portraiture became more democratically available. This did not prevent a continuing hierarchy: the painted portrait was still commissioned by the wealthy and the aristocracy. But it did allow a greater number of people the status of seeing themselves pictured."},
+        {"l": "G", "t": "Furthermore, photography provoked artists to re-examine the nature and potential of paint as a particular medium. Photography appeared to be more successful than painting in capturing likenesses. It had a sense of instantaneousness that painting lacked. It has been suggested that photography encouraged Impressionist painters to experiment with manners of painting which could also capture a sense of the moment, and the passage of light. It is a truism that photography released painting from its responsibility for literal depiction, allowing it to become more experimental. However, the developing relationship between the two was considerably more symbiotic."},
+        {"l": "H", "t": "Another respect in which photography may be said to have extended art was in its role as the re-presenter of art objects. It was no longer necessary to travel to Florence to see paintings of the Medici, or to Egypt to contemplate classical architecture or artefacts; you could visit an exhibition and view reproductions."}
+      ],
+      "groups": [
+        {
+          "type": "grid",
+          "range": [14, 17],
+          "intro": [
+            "Reading Passage 2 has eight paragraphs, **A-H**.",
+            "Which paragraph contains the following information?",
+            "Write the correct letter, **A-H**, in boxes 14-17 on your answer sheet."
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F", "G", "H"],
+          "items": {
+            "14": "fears voiced about the potential threat posed to art by photography",
+            "15": "the skills of artists being used in photography",
+            "16": "the attempts of photographers to imitate art",
+            "17": "the influence of photography on artists and painting"
+          },
+          "answers": {"14": "B", "15": "F", "16": "D", "17": "G"}
+        },
+        {
+          "type": "gap",
+          "range": [18, 22],
+          "intro": [
+            "**Complete the summary of paragraphs D and E below.**",
+            "Choose **ONE WORD ONLY** from paragraph D or E for each answer. **Do not** use any form of the word provided in the passage.",
+            "Write your answers in boxes 18-22 on your answer sheet."
+          ],
+          "content": [
+            {"center": "**Photographers’ responses to criticism**"},
+            "In response to the suggestion that photography could not be considered an art form, photographers acted in two ways. Some of them rejected this criticism, certain that they could create pictures similar to [[18]] did this by carefully arranging the different parts of the [[19]] before taking the photograph. Other things they did included causing the picture to be rather [[20]], and some who wanted to try to make the print look like a canvas even [[21]] their photographs. Others were anxious that their work should not be looked upon as some sort of [[22]] painting and were much more concerned with the fact that the camera seemed to be able to produce a more accurate representation of what they could see around them."
+          ],
+          "limit": {"words": 1, "number": false},
+          "answers": {"18": "paintings", "19": "composition", "20": "blurred", "21": "scratched", "22": "monochrome"}
+        },
+        {
+          "type": "tfng",
+          "range": [23, 26],
+          "intro": [
+            "Do the following statements agree with the information given in Reading Passage 2?",
+            "In boxes 23-26 on your answer sheet, write:",
+            "**TRUE**\tif the statement agrees with the information",
+            "**FALSE**\tif the statement contradicts the information",
+            "**NOT GIVEN**\tif there is no information on this"
+          ],
+          "items": {
+            "23": "In the 1850s, trained artists were reluctant to take up photography.",
+            "24": "Many photographers felt the need to learn certain techniques from taking art courses.",
+            "25": "Photography brought the demand for portrait painting to an end.",
+            "26": "With the advent of photography, some painters no longer concerned themselves with accuracy."
+          },
+          "answers": {"23": "False", "24": "Not Given", "25": "False", "26": "True"}
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "The peopling of Patagonia",
+      "standfirst": "Anthropologists continue to investigate human migration to Patagonia at the southern tip of South America",
+      "paragraphs": [
+        "The human settlement of the southern extremity of the Americas has always fascinated pre-historians. Viewed from a global perspective, this was the last major continental land mass to be reached by human beings. The earliest occupation of Patagonia carries obvious implications for understanding when the North and South American continents were peopled, because it gives a baseline that all calculations regarding the rate of dispersion of humans throughout both continents must take into account.",
+        "For many years the human settlement of North and South America has been conceived of as beginning in the far north and travelling progressively southwards to Patagonia. However, fundamental disagreements developed concerning the length of time involved Some scholars accepted a human presence in the Americas as early as 20,000 years ago, while others proposed that it could date no earlier than 8,000 years ago, and the debate is still with us today.",
+        "The idea of a relatively ‘late’ settlement of the Americas (around 8,000 years ago) implies that a rapid process of migration took place. Herein lies a second debate which revolves around the question of how migration is to be understood. The ‘late’ model demands a hypothetical migration conceived of as a single, continually advancing wave of settlement. This has always been difficult to take seriously and many scholars now support the idea of an ‘early’ model that sees the migration as a less ordered migration, and this is surely the most realistic scenario as migrants slowly adapted to the diverse natural habitats they would have met while travelling through the continent.",
+        "Those who argue for an earlier settlement, however, must contend with the lack of unequivocal evidence for archaeological sites older than around 14,000 years. Nevertheless, evidence for human occupation of the centre of South America is now securely dated to around 12,500 years ago at the Monte Verde site, which casts doubt on the ‘late model’. The lack of archaeological evidence further south for this time period may be explained by the obstacle to humans on foot posed by the huge glacial streams that were present at that time.",
+        "We can speculate then that the retreat of the Patagonian glaciers around 14,000 years ago allowed the initial human intrusion into a pristine environment, which was similar to that of early post-glacial Europe. Human settlement of the vast horizontal expanse of treeless high country must have been tenuous at best, and the evidence for this occupation remains relatively scant, most of it coming from rock shelters in Argentina and Chile. There is, however, reliable evidence from these sites to confirm the presence of humans by around 11,000 years ago in different habitats, and some hints of an even older occupation. However, some other sites where evidence for even earlier human occupation was initially posited, have recently come under fresh scrutiny. This is because anthropologists have come to recognise that bones or other evidence may be deposited in caves by natural agency, in other words by other forces such as floods or predators, and not necessarily by human",
+        "We shall turn now to a more detailed discussion of the archaeological evidence found in various parts of Patagonia. At the site located beside Chinchihuapi Creek, excavations have produced convincing evidence of human occupation, including hut foundations and wooden artefacts. They were buried in layers of peat, which has the property of preserving wood remarkably well, and as a result radiocarbon dating* tests have shown these artefacts to date from around 12,500 years ago. One of the most famous Patagonian sites is a cave known as Los Toldos. However, the evidence from this site has recently been called into question, because dispersed flecks of carbon used in the test process were taken unsystematically from many different places in the site. As a result, the association of this material with the artefacts is not at all clear. About 150 kilometres south is the site called El Ceibo, where a similar collection of artefacts to that found at Los Toldos has been discovered from the lowest levels of the dig, but as yet no radiocarbon dates are available and this sort of analysis of the existing evidence is required before the site’s value can be confirmed.",
+        "The Arroyo Eeo site is located very close to the high plateau. The artefacts from the earliest occupations were found at the same depth and have the same origins as those from Los Toldos, and have been securely dated to around 9,000 years ago. Another site that is mentioned in the debate is at Las Buitreras, where a number of stone flakes associated with bone remains of various animals have been discovered. However, anthropologists now believe that presumed cut marks on the bones are somewhat dubious, and despite detailed testing there is no way of securely relating any of these remains with human occupation. Finally some 50 kilometers to the south is the site at Cueva Fell, which was the first Patagonian site to be systematically studied by modern archaeological methods. However, it is now recognised that the utility of this site must be restricted to its direct vicinity, given changes to the nearby area caused by flooding, and findings cannot be freely extrapolated further afield.",
+        "In conclusion, based on the evidence from a number of reliable sites, it seems probable that human populations reached Patagonia around 11,000 years ago."
+      ],
+      "footnotes": [
+        "* radiocarbon dating: finding out the age of an organic object by examining carbon it contains"
+      ],
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [27, 31],
+          "intro": [
+            "Choose the correct letter, **A, B, C or D**.",
+            "Write the correct letter in boxes 27-31 on your answer sheet."
+          ],
+          "items": {
+            "27": {"stem": "In the first paragraph, what is the writer’s main point about migration to Patagonia?", "options": {"A": "It started earlier than previously thought.", "B": "Historians have overlooked its importance.", "C": "It impacts on research into the wider region.", "D": "Researchers have calculated its effects on the environment."}},
+            "28": {"stem": "In the second paragraph, what is the writer’s purpose?", "options": {"A": "to challenge previous research", "B": "to propose new areas to investigate", "C": "to summarise a scholarly debate", "D": "to suggest reasons for human migration"}},
+            "29": {"stem": "The writer refers to the Tate’ model in order to", "options": {"A": "compare it with another theory of migration.", "B": "evaluate the success of American migration.", "C": "criticise the speed of research into migration.", "D": "compare migration in different parts of the world."}},
+            "30": {"stem": "What is the writer’s main point about the ‘early’ model?", "options": {"A": "Scholars support the idea of fast migrations.", "B": "It is too random to be a convincing theory.", "C": "South America was more habitable at an earlier time.", "D": "It is more consistent with the physical conditions of the land."}},
+            "31": {"stem": "What does the writer suggest about the Monte Verde site?", "options": {"A": "It is much younger than researchers once estimated.", "B": "It provides supporting evidence for relatively early settlement.", "C": "Archaeologists believe the site is of questionable value.", "D": "Streams exposed the site, making new research possible."}}
+          },
+          "answers": {"27": "C", "28": "C", "29": "A", "30": "D", "31": "B"}
+        },
+        {
+          "type": "ynng",
+          "range": [32, 35],
+          "title": "Questions 32 35",
+          "intro": [
+            "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+            "In boxes 32-35 on your answer sheet, write",
+            "**YES**\tif the statement agrees with the claims of the writer",
+            "**NO**\tif the statement contradicts the claims of the writer",
+            "**NOT GIVEN**\tif it is impossible to say what the writer thinks about this"
+          ],
+          "items": {
+            "32": "The conditions encountered by the first migrants to Patagonia were unique.",
+            "33": "In the high country the first migrants hunted wild animals for food.",
+            "34": "Archaeologist have failed to draw conclusions from the evidence found at rock shelters in Argentina and Chile.",
+            "35": "Archaeological evidence can be moved from place to place in a variety of ways."
+          },
+          "answers": {"32": "Not Given", "33": "Not Given", "34": "No", "35": "Yes"}
+        },
+        {
+          "type": "bank",
+          "range": [36, 40],
+          "intro": [
+            "Complete the summary using the list of words and phrases, **A-J**, below.",
+            "Write the correct letter, A-J, in boxes 36-40 on your answer sheet."
+          ],
+          "content": [
+            {"center": "**The archaeological evidence from Patagonia**"},
+            "Building remains and other evidence have been found in [[36]] at the Chinchihuapi Creek site, and because of this it has been possible to date them to around 12,500 years ago. However, the [[37]] of the samples taken from Los Toldos means that this site is of doubtful value. El Ceibo is a more promising dig, where the examination of artefacts would be beneficial in order to confirm the usefulness of discoveries there. The remains found at the Arroyo Feo site show [[38]] and date from around 9,000 years ago. Unfortunately no [[39]] canbe made between the samples taken from Las Buitreras and human presence. The findings of the work carried out at Cueva Fell cannot provide useful information beyond the [[40]]. In conclusion, though the evidence is mixed, it is believed that human population of Patagonia began about 11,000 years"
+          ],
+          "options": {
+            "title": null,
+            "list": {
+              "A": "fixed date",
+              "B": "random collection",
+              "C": "similar properties",
+              "D": "good condition",
+              "E": "scientific evaluation",
+              "F": "huge quantities",
+              "G": "new samples",
+              "H": "reliable connection",
+              "I": "skilled preservation",
+              "J": "immediate surroundings"
+            }
+          },
+          "answers": {"36": "D", "37": "B", "38": "C", "39": "H", "40": "J"}
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "1": {"quote": "...a unique combination of ‘relict’ populations (organisms that have become extinct elsewhere)...", "explanation": "“Relict populations” là sinh vật đã **tuyệt chủng ở nơi khác** nhưng **vẫn tồn tại tại Socotra**."},
+    "2": {"quote": "...the islanders were historically self-sufficient – relying only on what they themselves could produce to survive.", "explanation": "Ngược lại, cư dân **tự lực chứ không phụ thuộc** vào đất liền."},
+    "3": {"quote": "...irregular flights began touching down... during the late 1960s.", "explanation": ["(Không nêu lý do là thời tiết)", "Không có thông tin nào **giải thích lý do ít chuyến bay**, nên chọn **NOT GIVEN**."]},
+    "4": {"explanation": ["Không có câu nào nói khách du lịch **chủ yếu ở thủ đô Hadibo**.", "Không được đề cập → **NOT GIVEN**."]},
+    "5": {"quote": "...it’s the continuing development of Socotra’s road system that is having the greatest impact on the islanders.", "explanation": "Chính **đường sá**, chứ không phải sân bay, ảnh hưởng lớn nhất → **FALSE**."},
+    "6": {"quote": "In the past, the only way to get to Socotra was by travelling for several days on a **boat**...", "explanation": "Trước kia chỉ có thể đến đảo bằng **thuyền**."},
+    "7": {"quote": "By **1999**, a runway had been constructed...", "explanation": "Đường băng hoàn thành năm 1999."},
+    "8": {"quote": "A modern **terminal** was added to the airport...", "explanation": "Sân bay được mở rộng thêm bằng một **terminal** (nhà ga)."},
+    "9": {"quote": "...enable fishermen to sell their **catch** more easily, and also make it simpler for local people to have food, and bricks and timber for construction...", "explanation": "Việc xây dựng cảng giúp việc nhập khẩu **fish** dễ dàng hơn."},
+    "10": {"quote": "Until 1991, a few dirt tracks... gave access... otherwise it was only possible... on **foot**, or with a donkey.", "explanation": "Trước hệ thống đường mới, chỉ có thể tiếp cận bằng **foot**."},
+    "11": {"quote": "...it will be difficult for local people to maintain certain **traditions**.", "explanation": "Tốc độ phát triển khiến người dân khó giữ gìn **truyền thống**."},
+    "12": {"quote": "...sites that contain **plants** only found in a limited number of locations.", "explanation": "Đường được quy hoạch để tránh phá hủy khu vực có thực vật quý hiếm."},
+    "13": {"quote": "...any proposed road would be subject to a **report** assessing its environmental impact…", "explanation": "Mọi dự án xây đường tương lai đều phải đi kèm **báo cáo đánh giá môi trường**."},
+    "14": {"quote": "Baudelaire linked ‘the invasion of photography and the great industrial madness of today’… photography is allowed to deputize for art… it will not be long before it has supplanted or corrupted art altogether.", "explanation": "Baudelaire lo ngại nhiếp ảnh sẽ **đe dọa và thay thế nghệ thuật** truyền thống."},
+    "15": {"quote": "...increasing involvement of people trained as artists. They brought with them a concern for form and composition…", "explanation": "Những người **được đào tạo như họa sĩ** đã góp phần phát triển nhiếp ảnh thành nghệ thuật."},
+    "16": {"quote": "...they made pictures of allegorical subjects, including religious scenes... scratched their prints... to imitate something of the appearance of a canvas.", "explanation": "Nhiều nhiếp ảnh gia **cố gắng làm cho ảnh giống tranh vẽ**."},
+    "17": {"quote": "Photography encouraged Impressionist painters to experiment… it is a truism that photography released painting from its responsibility for literal depiction…", "explanation": "Nhiếp ảnh **tác động mạnh đến hội họa**, khiến nghệ sĩ tự do sáng tạo hơn."},
+    "18": {"quote": "...could work on and control so as to produce pictures which in some ways resembled **paintings**."},
+    "19": {"quote": "...careful arrangement of all the elements of the **composition**..."},
+    "20": {"quote": "...causing the picture to be rather **blurred**..."},
+    "21": {"quote": "...**scratched** their prints in an effort to imitate the appearance of a canvas."},
+    "22": {"quote": "Others were anxious their work should not be looked upon as some sort of **monochrome…**"},
+    "23": {"quote": "...increasing involvement of people trained as artists.", "explanation": "Họ **tích cực tham gia**, chứ không miễn cưỡng."},
+    "24": {"explanation": "Bài có nói **nhiều nhiếp ảnh gia là họa sĩ**, nhưng **không nhắc đến việc họ đi học khóa nghệ thuật**."},
+    "25": {"quote": "...painted portrait was still commissioned by the wealthy and the aristocracy.", "explanation": "Nhu cầu **vẫn còn**, dù nhiếp ảnh giúp làm chân dung rẻ hơn."},
+    "26": {"quote": "...photography released painting from its responsibility for literal depiction...", "explanation": "Nghệ sĩ **không cần vẽ chính xác nữa**, vì nhiếp ảnh đã thay thế chức năng đó."},
+    "27": {"quote": "The earliest occupation of Patagonia carries obvious implications for understanding when the North and South American continents were peopled, because it gives a baseline that all calculations", "explanation": "The passage emphasizes that Patagonia’s settlement sets a baseline for understanding the peopling of the Americas (paragraph 1)."},
+    "28": {"quote": "Some scholars accepted a human presence in the Americas as early as 20,000 years ago, while others proposed that it could date no earlier than 8,000 years ago, and the debate is still with us today.", "explanation": "The second paragraph discusses a disagreement about the timing of migration to the Americas (early vs. late model)."},
+    "29": {"explanation": "The “late model” is contrasted with the “early model” to highlight the debate about migration speed (paragraph 3)."},
+    "30": {"quote": "this is surely the most realistic scenario as migrants slowly adapted to the diverse natural habitats they would have met while travelling through the continent.", "explanation": "The passage says the “early model” is more consistent with how migrants adapt to environments (paragraph 3)."},
+    "31": {"quote": "Nevertheless, evidence for human occupation of the centre of South America is now securely dated to around 12,500 years ago at the Monte Verde site, which casts doubt on the ‘late model’.", "explanation": "The Monte Verde site with its 12,500-year date challenges the “late model” theory (paragraph 4)."},
+    "32": {"quote": "We can speculate then that the retreat of the Patagonian glaciers around 14,000 years ago allowed the initial human intrusion into a pristine environment, which was similar to that of early post-glacial Europe."},
+    "33": {"quote": "Human settlement of the vast horizontal expanse of treeless high country must have been tenuous at best, and the evidence for this occupation remains relatively scant, most of it coming from rock shelters in Argentina and Chile.", "explanation": ["We only know about the treeless plains (People could barely live there), not hunting practices.", "(paragraph 5)"]},
+    "34": {"quote": "There is, however, reliable evidence from these sites to confirm the presence of humans by around 11,000 years ago in different habitats, and some hints of an even older occupation.", "explanation": ["The passage says evidence from rock shelters confirms human presence.", "(paragraph 5)"]},
+    "35": {"quote": "This is because anthropologists have come to recognise that bones or other evidence may be deposited in caves by natural agency, in other words by other forces such as floods or predators, and not necessarily by human", "explanation": "The passage mentions natural forces like floods moving evidence (paragraph 5)."},
+    "36": {"quote": "They were buried in layers of peat, which has the property of preserving wood remarkably well.", "explanation": "Paragraph 6 mentions the peat layers having the “property of preserving wood remarkably well.”"},
+    "37": {"quote": "the evidence from this site has recently been called into question, because dispersed flecks of carbon used in the test process were taken unsystematically from many different places in the site. As a result, the association of this material with the artefacts is not at all clear.", "explanation": "Paragraph 6 mentions the “dispersion” of samples from Los Toldos, making it unreliable."},
+    "38": {"quote": "The Arroyo Eeo site is located very close to the high plateau. The artefacts from the earliest occupations were found at the same depth and have the same origins as those from Los Toldos, and have been securely dated to around 9,000 years ago.", "explanation": "Paragraph 7 says Arroyo Eeo artefacts resemble Los Toldos finds, indicating similarity."},
+    "39": {"quote": "However, anthropologists now believe that presumed cut marks on the bones are somewhat dubious, and despite detailed testing there is no way of securely relating any of these remains with human occupation.", "explanation": "Paragraph 7 mentions no “connection” between Las Buitreras finds and human presence."},
+    "40": {"quote": "However, it is now recognised that the utility of this site must be restricted to its direct vicinity", "explanation": "Paragraph 8 says Cueva Fell’s findings are limited to the “immediate area” due to flooding."}
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "test": 7,
+  "audio": "audio/test-07.mp3",
+  "sections": [
+    {
+      "n": 1,
+      "title": "Details of employment form",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [1, 10],
+          "intro": [
+            "Complete the notes below.",
+            "Write **ONE WORD AND/OR A NUMBER** for each answer."
+          ],
+          "limit": { "words": 1, "number": true },
+          "content": [
+            { "center": "**Details of employment form**" },
+            "**Name:** Sophie [[1]]",
+            "**Address:** Central Hostel, Sydney",
+            "**Telephone:** [[2]]",
+            "**Work location:** preferred to work near the [[3]]",
+            "**Time to work:** ready to work in [[4]]",
+            "**Paid method:** preferred to be paid by [[5]]",
+            "**Job details:** pick up [[6]]",
+            "**Health issue:** used to have a problem with [[7]]",
+            "**Other notes:**",
+            "• Has medical [[8]]",
+            "• Does not have a licence for [[9]]",
+            "• Accommodation arranged in a close [[10]]"
+          ],
+          "answers": {
+            "1": "Harries",
+            "2": "0452 832721",
+            "3": ["coast", "beach"],
+            "4": "August",
+            "5": ["hour", "hours"],
+            "6": "mangoes",
+            "7": "back",
+            "8": "insurance",
+            "9": "trucks",
+            "10": "town"
+          }
+        }
+      ],
+      "transcript": [
+        "You will hear a woman telephoning a farm to inquire about a part-time job. First, you have some time to look at questions 1 to 6.",
+        "You will hear a woman telephoning a farm to inquire about a part-time job. Now we shall begin. You should answer the questions as you listen, because you will not hear the recording a second time. Listen carefully and answer questions 1 to 6.",
+        "Nature Farm speaking. How can I help you? Hi, morning. I’d like to get some information about the part-time job of fruit picking in the advertisement. I was wondering... Are you wondering if you still need some extra hands?",
+        "Yes, I do. May I take some of your information first? What’s your name? Sophie Harries. That’s H-A-R-R-I-E-S. Nice to talk with you, Sophie. And where are you currently staying?",
+        "Well, I’m from London, but now I’m staying at Central Hostel, Sydney. OK. May I have your contact number? I can see from the website your number is 045283272.",
+        "Oh, sorry. The last digit should be 1, not 7. Got that. And now, you know we only recruit part-time employees over 18, so could I have your age, please?",
+        "I am 18, but I will have my 19th birthday at the end of this month, so you can put 19. Cool. Happy birthday, Sophie. Well, let’s move on to the real business.",
+        "We now have two working sites. One is a fruit farm in North Queensland, and the other, one is near the coast. Which do you prefer?",
+        "Er, hmm. I think it would be better if I can spend some time on the beach after work, so I guess the second place sounds best to me.",
+        "No problem, Sophie. When do you think you could be ready to join us? It’s July now, and I’d like to do some travelling around here. What about August?",
+        "Yes, August is the busiest month for us. We’re always short of hands. And could you please tell me how I will get paid? We care you by every basket. Fruits or by the hour? It’s up to you.",
+        "You know, I haven’t done fruit picking before, so I guess pay by the hour suits me better. OK, I’ve got that. And there are now three types of fruits. Bananas, mangoes and avocados. Which fruit would you like to pick?",
+        "I prefer mangoes. I think it will be easier for me. Cool. I’m sure you’ll enjoy that. Thanks.",
+        "Before you hear the rest of the conversation, you have some time to look at questions. Questions 7 to 10.",
+        "Now listen and answer questions 7 to 10.",
+        "OK, now I’d like to ask you a few more questions about yourself. Do you have any medical problems, like high blood pressure, heart disease or anything like that?",
+        "Actually, I just had a medical check-up recently and everything seemed fine. Well, I hurt my back when I played badminton with my roommate last year, but it’s OK now.",
+        "Aha, great. And all of our workers are required to have a medical check-up? Yes, and all of our workers are required to have a medical check-up. I’d love to have medical insurance in case people hurt themselves while working, like falling down a ladder.",
+        "Have you got one now? Yes. And I definitely hope it won’t happen during working. Aha. Yet, you still need to take much care. By the way, do you have a driver’s licence? You know the fruit farm is huge. Sometimes you will need to drive a car.",
+        "Yes, I got my driver’s licence last year. But I’m afraid I have a licence for driving large trucks. No worries. You are not responsible for delivering the picked fruit. I am. I think it will be a good thing you have some money to buy one. No worries. You are not responsible for delivering the picked fruit. I understand. I understand. OK, thanks a lot. Thank you. And thanks again. Thank you. Looks like a bit of a good idea. fruit to the supermarkets. There are some drivers doing that work. And lastly, one more question, where would you like to live? Any options for me?",
+        "Well, two choices. You can either stay in a cottage on the farm, or we can arrange accommodation in a town nearby. I don’t think I’d like to stay at the workplace all day long. I think the second one is better for me. Okay, let’s do that. Looking forward to seeing you soon. Many thanks. See you then.",
+        "That is the end of part one. You now have one minute to check your answers to part one."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Grace’s Creek Stream",
+      "groups": [
+        {
+          "type": "grid",
+          "range": [11, 16],
+          "intro": [
+            "The map has **SIX** gaps. Choose the correct letter, **A-L**, to the suitable places below.",
+            "[[img:t7-p2-map]]",
+            "**List of places**"
+          ],
+          "letters": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"],
+          "items": {
+            "11": "Bus Stop",
+            "12": "Student Dormitory",
+            "13": "Basketball Court",
+            "14": "Staff Houses",
+            "15": "Climbing Wall",
+            "16": "Picnic Shelter"
+          },
+          "answers": { "11": "L", "12": "I", "13": "K", "14": "J", "15": "H", "16": "E" }
+        },
+        {
+          "type": "mcq",
+          "range": [17, 20],
+          "intro": [
+            "Choose the correct letter, **A**, **B** or **C**.",
+            { "center": "**Local School Facilities**" }
+          ],
+          "items": {
+            "17": { "stem": "One building has not been decided yet, but will probably be", "options": { "A": "a sports facility.", "B": "a cafeteria.", "C": "a conference facility." } },
+            "18": { "stem": "The upkeep of the facility will be mainly funded by", "options": { "A": "fees from training companies.", "B": "the local council.", "C": "visits by school groups." } },
+            "19": { "stem": "One disadvantage of this location is", "options": { "A": "the nearest shops are too far away.", "B": "the site is difficult to get to by public transport.", "C": "too many schools will wish to use it." } },
+            "20": { "stem": "The designers of the facility had to take into account", "options": { "A": "the views of local businesses.", "B": "shortage of funding for the construction.", "C": "buildings which were already there." } }
+          },
+          "answers": { "17": "B", "18": "B", "19": "A", "20": "C" }
+        }
+      ],
+      "transcript": [
+        "Part two.",
+        "Now listen carefully and answer questions 11 to 16.",
+        "Well, good evening everyone, and thanks for coming tonight. As you all know, I’m a bit of a person who likes to talk. As you all know, I’ve been asked to report to local school committees in the new Grace’s Creek Activity Camp, which is in the final stages of production as we speak.",
+        "So let’s first of all have a look at a sketch of the overall layout. I’ll point out the major features and show you a few slides of the facilities as we go. Remember that some of them are a work in progress. Well, as you see, the site is roughly rectangular, and it’s bordered on the south by Grace’s Creek. This is a narrow and fairly slow-moving stream, that’s been cleaned up a lot in recent years, actually. Now, if you approach from the south, you cross Grace’s Creek and turn right into the camp. So coming from the north, you’ll see a bus stop just before you get to the camp itself. From the main gate, the driveway turns immediately left around the edge of the camp, and while you’re on the driveway, if you look right, down to the opposite end of the space across the lake, you can see the student dormitory, the largest building on the site.",
+        "You’ll see that there’s a shared jogging and walking track, which runs next to the driveway, and in fact runs all around the perimeter of the camp, next to the wall. Now, going back to the driveway, just before the drive turns right, there are a couple of tennis courts, but they’re not quite ready for use yet. And in the corner there, opposite the tennis courts, is the basketball court. It seems to be more popular with the kids than tennis these days.",
+        "Okay, so the path turns left into that large rectangular space, which is the car park, obviously, with space for about 80 cars and up to five coaches. So coming back out of the car park, you can turn left onto the jogging track to walk around to the student dormitory. As you go, you pass a couple of small chalets on the right, which are the permanent staff houses. While we’re on the topic of accommodation, there’s also a guest hostel in the centre of the south side. That’s directly overlooking the lake, and it’s for business groups. The climbing wall is just to the left of it. The lake, by the way, is artificial, but it is just deep enough for kayak training and even windsurfing or paddleboarding.",
+        "That small building on the edge of the lake is the boat house for the storage of all the water sports equipment. Now, the stream can also be used for kayaking, and there’s a small gate in the south wall leading out to it. It’s a great spot for picnics, too, so there’s a picnic shelter just there.",
+        "Before you hear the rest of the talk, you have some time to look at questions 17 to 20.",
+        "Now, listen and answer questions 17 to 20.",
+        "Um... There are a few facilities which were in the original plans, but haven’t so far made it into the final design phase. We do have one building next to the dormitory, which we’re a bit unsure how to proceed with. The favourite suggestion is a gym and pool, though frankly that’s a bit optimistic given the cost of those facilities. The most likely outcome will be some kind of food outlet, because that could contribute towards the overall running costs, with another option being a conference room. The facility will, of course, be partly funded by visits from the general public during school terms, and we’ve already had some interest from companies who could use it for corporate events and retreats. That will contribute a lot to the upkeep and development, because council funding won’t cover everything, though it does cover the bulk of the ongoing expenses.",
+        "Well, the site might seem a little far from most of the schools in the council area, but I should just mention that one of the attractions of this location was the easy road access and proximity to transport hubs. But not only that. The nearby Parkdale Forest has excellent walking tracks, and mountain biking trails. If there’s a drawback, I’d say it’s the lack of grocery stores within walking distance. It’s going to be a great addition to the facilities available to everyone in the area, and it’s the end result of a long consultation process with schools and the public. Now, we haven’t been able to do everything that we wanted, not particularly because of budget constraints, but more because of the extent to which we were limited by the existing structures from previous commercial use, but we have listened to both the parents and the students who are going to use the facilities. Now, I’m sure you’ll have a lot of questions, so let’s take a short break, and when we come back, we can open up the meeting for discussion.",
+        "That is the end of Part 2. You now have 30 seconds to check your answers to Part 2."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Dissertation Writing",
+      "groups": [
+        {
+          "type": "mcq",
+          "range": [21, 24],
+          "intro": [
+            "Choose the correct letter, **A**, **B** or **C**.",
+            { "center": "**Dissertation Writing**" }
+          ],
+          "items": {
+            "21": { "stem": "What does Howard say about the experience of writing his dissertation?", "options": { "A": "It was difficult in unexpected ways.", "B": "It was more enjoyable than he had anticipated.", "C": "It helped him understand previous course work." } },
+            "22": { "stem": "What is Joanne most worried about?", "options": { "A": "finding enough materials", "B": "missing deadlines", "C": "writing too much" } },
+            "23": { "stem": "What does Howard say was his main concern a year before?", "options": { "A": "forgetting what he had read about", "B": "not understanding what he had read", "C": "taking such a long time to read books" } },
+            "24": { "stem": "What encouraged Howard to begin writing his dissertation?", "options": { "A": "talking to his tutor about his problems", "B": "seeing an inspirational TV show", "C": "reading a controversial journal article" } }
+          },
+          "answers": { "21": "C", "22": "C", "23": "A", "24": "B" }
+        },
+        {
+          "type": "multi",
+          "range": [25, 26],
+          "title": "Questions 25 and 26",
+          "intro": ["Choose **TWO** letters, **A-E**."],
+          "stem": "What **TWO** things does Howard suggest Joanne to do in the first month of tutorial?",
+          "choose": 2,
+          "options": {
+            "A": "see her tutor every week",
+            "B": "review all module book lists",
+            "C": "buy all key books",
+            "D": "take down references for what she reads",
+            "E": "write a draft of the first chapter"
+          },
+          "answer": "B, D"
+        },
+        {
+          "type": "multi",
+          "range": [27, 28],
+          "title": "Questions 27 and 28",
+          "intro": ["Choose **TWO** letters, **A-E**."],
+          "stem": "What **TWO** things does Howard say about library provision?",
+          "choose": 2,
+          "options": {
+            "A": "staff are helpful to undergraduates",
+            "B": "It’s difficult to access electronic resources",
+            "C": "staff recommend old dissertations",
+            "D": "students can borrow extra books when writing a dissertation",
+            "E": "inter-library loans are very reliable"
+          },
+          "answer": "C, D"
+        },
+        {
+          "type": "multi",
+          "range": [29, 30],
+          "title": "Questions 29 and 30",
+          "intro": ["Choose **TWO** letters, **A-E**."],
+          "stem": "What **TWO** does Joanne agree to discuss with her tutor?",
+          "choose": 2,
+          "options": {
+            "A": "best ways to collaborate with others",
+            "B": "who to get help from during vacations",
+            "C": "the best way to present the research",
+            "D": "whether she can use web sources",
+            "E": "how to manage her study time"
+          },
+          "answer": "B, D"
+        }
+      ],
+      "transcript": [
+        "Part 3 You will hear two geography students talking. An older student called Howard is giving advice to a younger student called Joanne on writing her dissertation. First, you have some time to look at questions 21 to 24.",
+        "Now listen carefully and answer questions 21 to 24.",
+        "Hi Howard, haven’t seen you for a while. Hi Joanne. Yeah, they’re keeping us really busy on the postgraduate program. But how are you? You’ll be starting your dissertation soon, won’t you? Yeah, tutorials start next week. I’ve got Dr. Peterson. You still remember him from last year, of course? It’s not something you forget easily. But seriously, although I didn’t expect to enjoy writing my dissertation, and in fact, I didn’t really find it much fun, I wouldn’t miss the experience. I found it really improved my understanding of the whole degree program, you know, from the first year on. Right. So what are you doing yours on? Glaciated landscapes. Although I haven’t decided exactly what aspect yet. I did mine on climate systems, so I can’t help you much, I’m afraid. But you’ll be fine once you start your tutorials. Dr. Peterson will help you focus. I know. And he’ll set me deadlines for the different stages, which is what I need. My concern is that I’ve got tons of material on the topic, and I won’t be able to stick to the word limit, you know.",
+        "I remember I had different concerns when I was doing my dissertation. Last year? Yeah, before my first trial. I did a lot of fairly general reading, because I hadn’t fixed on my topic at that stage. I actually enjoyed that quite a lot, and you know, it improved my reading speed. I had got through a lot of material, but I was frightened I wouldn’t remember it all, so I got into the habit of making very detailed notes.",
+        "So, did you find your tutor helpful in getting you started? Yeah, we certainly had some interesting discussions. But it’s funny, I saw a brilliant program about climate change, and it was that that fired me up. It was talking about some recent research which seemed to contradict some of the articles I’ve been reading.",
+        "Before you hear the rest of the talk, you have some time to look at questions 25 to 30.",
+        "Now listen, and answer questions 25 to 30.",
+        "So, you see your tutorials start next week? Yeah. Well, the first month was crucial. You’ve got to meet your tutor and decide your focus. But don’t become too dependent on him. You know, you don’t see him every week, only when you want to check something. Right. Once you’ve got the focus, you’ve got to get reading. It’s helpful to look through the bibliographies for all the course modules relating to your topic, and get hold of any books you think you’ll need. I haven’t got much money. Really? I mean, get the books from the library. Far better. And I suppose I should prepare a detailed outline of the chapters. Yeah, absolutely. But don’t feel you have to follow it slavishly. It’s meant to be flexible. OK. Now, I’m someone who likes to get writing quickly. I can’t just sit and read for a month.",
+        "Not like me, then. But if that’s what suits you, you know, your natural approach, then you want to start immediately and write the first chapter. Right. Now, Joanne, about the library. It’s not worthwhile getting on good terms with the staff. They aren’t always helpful with undergraduates. I suppose they focus on postgrads more.",
+        "Maybe. But show them you’re serious about wanting to do good work. And what if I can’t find what I need? Well, there are interlibrary loans. Borrowing books from other libraries. But I’ve heard it isn’t all that reliable. Hmm, you’re right. But you probably won’t need it anyway. Be positive. The library is likely to have most things you need. And during the dissertation writing, period, you can take out fifteen instead of the usual ten books. Should I look at previous years’ dissertations? You can do. But I don’t know which are the good ones. The library only keeps the best, and the staff can advise you. Are they willing to do that? Oh, yeah.",
+        "And I’m worried about getting journal articles from the electronic library. Well, have you tried to find any yet? No. Well, you should. It’s really straightforward. That’s obviously something I’ll have to look into. Dr Peterson will help. Yeah. I know I can go to him if I have any worries. Except he will be away in the second month. It’s the holidays. You should ask him what to do while he’s away. Gosh, yeah. But I suppose I can get a lot of support from a couple of people who are thinking of doing the same topic as me. Take care. Collaboration can become dependency. I think you’d better see how it works out, what the people are like. You’re probably right. About the reading, I suppose Dr Peterson would recommend plenty of articles to get me started. One thing I would find out is what his attitude is to internet sources. Surely not in this day and age. I’d better get that sorted out right at the beginning. Oh, why were you? And I’ve also got some questions about the research sections. How much time should I spend explaining the process? Well, I think that’s up to you. You can see how it develops as you’re writing. Okay. It’s the same with things like time management. That’s something a tutor can’t really help you with. I agree. So, is there anything else you need me to go over?",
+        "That is the end of Part 3. You now have 30 seconds to check your answers to Part 3."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "The history of UK chain stores",
+      "groups": [
+        {
+          "type": "gap",
+          "range": [31, 40],
+          "intro": [
+            "Complete the notes below.",
+            "Write **ONE WORD ONLY** for each answer."
+          ],
+          "limit": { "words": 1, "number": false },
+          "content": [
+            { "center": "**The history of UK chain stores**" },
+            "**Initial expansion and consultation:**",
+            "• Opening more [[31]] stations to gain more market share",
+            "• They raised capital by reducing the quality of branches in Southern [[32]]",
+            "• They closed [[33]] offices of the convenience stores in Oxford",
+            "• Over 200 staff had to be transferred and [[34]]",
+            "• A new branch image was established to concentrate on selling fresh [[35]]",
+            "**The future way and conclusion:**",
+            "• A(n) [[36]] was assigned to hold each discussion",
+            "• Retail stores should be flexible in developing [[37]] of making profits",
+            "• Changes should be brought into [[38]] so that the staff can become accustomed to the new rules",
+            "• Keep [[39]] about the expansion plans they choose",
+            "• Saving costs by changing the [[40]] structure of department stores"
+          ],
+          "answers": {
+            "31": "petrol",
+            "32": "Scotland",
+            "33": "head",
+            "34": "retrained",
+            "35": "food",
+            "36": "manager",
+            "37": "strategies",
+            "38": "stages",
+            "39": "open-minded",
+            "40": "organisational"
+          }
+        }
+      ],
+      "transcript": [
+        "Part 4 You will hear part of a lecture in a business class, talking about a global petrol company, Telsa’s expansion, and its future development. First, you have some time to look at questions 31 to 40.",
+        "Now listen carefully and answer questions 31 to 40.",
+        "Welcome, ladies and gentlemen, to the second lecture in our series on chain stores in the UK. Today, I’ll be focusing on a very successful global petrol company called Telsa, paying particular attention to their expansion and future development. There will be time for questions at the end, so please refrain from interrupting during the talk.",
+        "When it was founded, the company was a family-run organisation with only one shop, open in a small town in southern England. The family was able to compete with other local companies by offering special discounts for returning customers, which resulted in a massive expansion of their client base.",
+        "This strategy was so successful that they were able to open petrol stations across the country, subsequently increasing their market share in England. Within a decade, Telsa was running establishments throughout the UK, including Wales and Scotland. By comparing the sales income from all of their stores, they were able to collect data that highlighted which areas were the most profitable stations in the south of Scotland. They discovered that by closing the less useful stations in the south of Scotland, they could increase their income from their other more profitable stations.",
+        "This example demonstrates the importance of continually monitoring and maintaining a clear view of the finances of the company. Once the expertise required to run the company had exceeded the abilities of the family, they needed to hire professional consultants. After assessing the company’s financial statements, consultants advised that Telsa close the head office of the convenience stores in Oxford. They deemed the head office unnecessary and identified it as a financial drain on the company, as the premises were expensive to run and generated no income.",
+        "To avoid firing any employees, they transferred over 200 staff to other offices and retrained them to carry out their new roles. Now that Telsa had conquered the petrol market in the UK, they were able to branch out into other niche areas that offered prospects for profits. They realised that they could establish a new environmentally friendly brand image by selling fresh food in their convenience stores that had been grown by local farmers. This strategy would not only broaden the scope of the company, but also help to strengthen its relationships with local communities.",
+        "Every year, Telsa holds a meeting in London, where all of the consultants and managers meet to discuss plans for development and improvement. These meetings are essential to the evolution of the company, as feedback is heard from all levels of the organisation, from the sales staff to the CEOs. They did this by assigning every manager the task of holding staff discussions, at which ideas and concerns would be passed on for evaluation at the meeting. Telsa decided to accommodate the individuality of each of their stores, instead of forcing them to conform to one overriding company identity. They realised that by increasing the flexibility of the profit-making strategies of each of the retail stores, they subsequently became more comfortable and more commercially successful.",
+        "The level of staff satisfaction also doubled as a result. Individuals felt they were not being constrained to one way of thinking. To avoid misunderstandings and mistakes, any future changes were introduced in stages to familiarise the staff with the new regulations.",
+        "Now, it’s time to conclude the lecture for today, so I will leave you with some food for thought before you go. To run a successful business, one cannot underestimate the importance of maintaining open-mindedness when deciding on strategies for its future. As a business owner, you must be prepared for expansion. Sometimes it’s necessary to employ an independent consultant who can offer an objective and unbiased view on the running of your company. Emotion will only ever cloud your ability to make business-related decisions. Research suitable case studies and look at how department stores, for example, were able to alter their organisational structure, while minimising costs and staff redundancies.",
+        "Precedents are an essential resource when it comes to making decisions so don’t undervalue them. Well, that wraps up our lecture for today. If there are any questions,",
+        "That is the end of Section 4. You now have half a minute to check your answers"
+      ]
+    }
+  ]
+}
