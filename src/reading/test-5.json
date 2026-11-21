@@ -188,7 +188,7 @@
           "range": [33, 36],
           "intro": [
             "Complete the summary using the list of words, **A-I**, below.",
-            "Write the correct letter, **A-I**, in boxes 7-10 on your answer sheet"
+            "Write the correct letter, **A-I**, in boxes 33-36 on your answer sheet."
           ],
           "content": [
             {"center": "**A bilingual child negotiates with her brother**"},
@@ -207,7 +207,7 @@
             "Do the following statements agree with the claims of the writer in Reading Passage 3?",
             "**YES**\tif the statement agrees with the claims of the writer",
             "**NO**\tif the statement contradicts the claims of the writer",
-            "**NOT GIVEN**\tif it is impossible to what the writer thinks about this"
+            "**NOT GIVEN**\tif it is impossible to say what the writer thinks about this"
           ],
           "items": {
             "37": "Even people who speak only one language know how to adapt their way of communicating according to the situation.",
